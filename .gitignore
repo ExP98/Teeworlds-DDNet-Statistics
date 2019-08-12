@@ -1,0 +1,4 @@
+ddnet-stats/
+/test.*
+.idea/
+venv/
