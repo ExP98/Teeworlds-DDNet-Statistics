@@ -2,6 +2,7 @@ import re
 import pylab as plt
 from matplotlib.dates import MONTHLY, DateFormatter, rrulewrapper, RRuleLocator
 from datetime import datetime
+
 # PLOT TOP 1 POINTS
 
 players_dict = {}
