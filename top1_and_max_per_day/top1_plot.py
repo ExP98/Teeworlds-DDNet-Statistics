@@ -1,8 +1,7 @@
 import re
 import pylab as plt
-from matplotlib.dates import MONTHLY, DateFormatter, rrulewrapper, RRuleLocator
+import matplotlib.dates as mdates
 from datetime import datetime
-
 # PLOT TOP 1 POINTS
 
 players_dict = {}
@@ -23,9 +22,9 @@ for k in players_dict.keys():
     plt.plot_date(players_dict[k][0], players_dict[k][1], '.', label=k + ' (' + str(len(players_dict[k][0])) + ')')
 plt.legend(title="Nicks (days on top)")
 plt.title("Top 1 Points")
-rule = rrulewrapper(MONTHLY, interval=2)
-ax1.xaxis.set_major_locator(RRuleLocator(rule))
-ax1.xaxis.set_major_formatter(formatter=DateFormatter('%d-%m-%y'))
+rule = mdates.rrulewrapper(mdates.MONTHLY, interval=2)
+ax1.xaxis.set_major_locator(mdates.RRuleLocator(rule))
+ax1.xaxis.set_major_formatter(formatter=mdates.DateFormatter('%d-%m-%y'))
 ax1.xaxis.set_tick_params(rotation=30, labelsize=8)
 plt.xlabel('Date')
 plt.ylabel('Points')
@@ -56,9 +55,9 @@ for item in max_pts_per_day:
 leg = plt.legend(prop={'size': 10})
 plt.title("Max points per 1 day")
 
-rule = rrulewrapper(MONTHLY, interval=2)
-ax2.xaxis.set_major_locator(RRuleLocator(rule))
-ax2.xaxis.set_major_formatter(formatter=DateFormatter('%d-%m-%y'))
+rule = mdates.rrulewrapper(mdates.MONTHLY, interval=2)
+ax2.xaxis.set_major_locator(mdates.RRuleLocator(rule))
+ax2.xaxis.set_major_formatter(formatter=mdates.DateFormatter('%d-%m-%y'))
 ax2.xaxis.set_tick_params(rotation=30, labelsize=10)
 ax2.set_yticks(list(range((min_point - 10) // 10 * 10, max_point + 30, 20)))
 

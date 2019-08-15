@@ -14,7 +14,6 @@ def get_date(file_line):
     return datetime.strptime(t_s, "%Y-%m-%d %H:%M:%S") \
                .replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(days=1)
 
-
 start_time = time.clock()
 with open('../ddnet-stats/race.csv', 'rb') as f_bin:
     next(f_bin)

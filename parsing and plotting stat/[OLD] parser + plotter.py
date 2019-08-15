@@ -5,7 +5,7 @@ import matplotlib.dates
 import numpy as np
 import pylab
 
-PLAYER_NAME = ':Ram'
+PLAYER_NAME = ':Ram'  # he has the highest getting points per 1 day among all players
 
 
 def reading_data(tr, mode):
@@ -27,11 +27,11 @@ def reading_data(tr, mode):
 url = 'https://ddnet.tw/players/' + PLAYER_NAME + '/'
 r = requests.get(url)
 
-with open('test_data/test.html', 'w', encoding='utf-8') as handle:
+with open('output_data/test.html', 'w', encoding='utf-8') as handle:
     for block in r.iter_content(1024):
         handle.write(block.decode('utf-8'))
 
-with open("test_data/test.html", 'r', encoding='utf-8') as fobj:
+with open("output_data/test.html", 'r', encoding='utf-8') as fobj:
     xml = fobj.read()
 tree = html.fromstring(xml)
 
@@ -102,20 +102,19 @@ for i in range(len(list_of_days_with_max_points)):
     print(list_of_days_with_max_points[i])
 
 # plot
-fig = pylab.figure()
+fig, (sp1, sp2) = pylab.subplots(nrows=2, ncols=1)
 
-sp1 = pylab.subplot(2, 1, 1)
 sp1.plot_date(sorted_dates, cumul_points, fmt=".")
 sp1.plot_date(days_max_points, list_cumul_max_points, fmt='rx', label='max points per day')
 sp1.legend()
 sp1.set_title(PLAYER_NAME + " points")
-pylab.ylabel('Total points')
-pylab.grid()
+sp1.set_ylabel('Total points')
+sp1.grid()
 
-sp2 = pylab.subplot(2, 1, 2)
 sp2.plot_date(sorted_dates, points_per_day, fmt=".")
 sp2.plot_date(days_max_points, list_max_points, fmt='rx')
-pylab.ylabel('Points per day')
-pylab.grid()
+sp2.set_ylabel('Points per day')
+sp2.grid()
 
+fig.tight_layout()
 pylab.show()

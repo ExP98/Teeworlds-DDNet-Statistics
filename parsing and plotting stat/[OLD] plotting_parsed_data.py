@@ -5,35 +5,35 @@ import numpy as np
 import pylab
 
 # reading data from file
-with open('test_data/novice.txt', 'r') as fp:
+with open('output_data/novice.txt', 'r') as fp:
     reader = csv.reader(fp, delimiter='\t')
     data_read_novice = [row for row in reader]
 
-with open('test_data/moderate.txt', 'r') as fp:
+with open('output_data/moderate.txt', 'r') as fp:
     reader = csv.reader(fp, delimiter='\t')
     data_read_moderate = [row for row in reader]
 
-with open('test_data/brutal.txt', 'r') as fp:
+with open('output_data/brutal.txt', 'r') as fp:
     reader = csv.reader(fp, delimiter='\t')
     data_read_brutal = [row for row in reader]
 
-with open('test_data/dummy.txt', 'r') as fp:
+with open('output_data/dummy.txt', 'r') as fp:
     reader = csv.reader(fp, delimiter='\t')
     data_read_dummy = [row for row in reader]
 
-with open('test_data/ddmax.txt', 'r') as fp:
+with open('output_data/ddmax.txt', 'r') as fp:
     reader = csv.reader(fp, delimiter='\t')
     data_read_ddmax = [row for row in reader]
 
-with open('test_data/oldschool.txt', 'r') as fp:
+with open('output_data/oldschool.txt', 'r') as fp:
     reader = csv.reader(fp, delimiter='\t')
     data_read_oldschool = [row for row in reader]
 
-with open('test_data/solo.txt', 'r') as fp:
+with open('output_data/solo.txt', 'r') as fp:
     reader = csv.reader(fp, delimiter='\t')
     data_read_solo = [row for row in reader]
 
-with open('test_data/race.txt', 'r') as fp:
+with open('output_data/race.txt', 'r') as fp:
     reader = csv.reader(fp, delimiter='\t')
     data_read_race = [row for row in reader]
 
@@ -96,20 +96,19 @@ for i in range(len(list_of_days_with_max_points)):
     print(list_of_days_with_max_points[i])
 
 # plot
-fig = pylab.figure()
+fig, (sp1, sp2) = pylab.subplots(nrows=2, ncols=1)
 
-sp1 = pylab.subplot(2, 1, 1)
 sp1.plot_date(sorted_dates, cumul_points, fmt=".")
 sp1.plot_date(days_max_points, list_cumul_max_points, fmt='rx', label='max points per day')
 sp1.legend()
 sp1.set_title("PeX points")
-pylab.ylabel('Total points')
-pylab.grid()
+sp1.set_ylabel('Total points')
+sp1.grid()
 
-sp2 = pylab.subplot(2, 1, 2)
 sp2.plot_date(sorted_dates, points_per_day, fmt=".")
 sp2.plot_date(days_max_points, list_max_points, fmt='rx')
-pylab.ylabel('Points per day')
-pylab.grid()
+sp2.set_ylabel('Points per day')
+sp2.grid()
 
+fig.tight_layout()
 pylab.show()

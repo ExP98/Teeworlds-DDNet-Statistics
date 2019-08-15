@@ -26,11 +26,11 @@ def get_player_data(nick_name):
     url = 'https://ddnet.tw/players/' + nick_name + '/'
     r = requests.get(url)
 
-    with open('test_data/test.html', 'w', encoding='utf-8') as handle:
+    with open('output_data/test.html', 'w', encoding='utf-8') as handle:
         for block in r.iter_content(1024):
             handle.write(block.decode('utf-8'))
 
-    with open("test_data/test.html", 'r', encoding='utf-8') as fobj:
+    with open("output_data/test.html", 'r', encoding='utf-8') as fobj:
         xml = fobj.read()
     tree = html.fromstring(xml)
 
