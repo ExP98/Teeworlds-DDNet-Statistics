@@ -195,7 +195,7 @@ ax41.grid()
 
 ax42.plot_date(months_list, [monthly_stat[k][0] for k in monthly_stat.keys()], fmt=".")
 ax42.xaxis.set_major_locator(mdates.RRuleLocator(rule))
-ax41.xaxis.set_major_formatter(formatter=mdates.DateFormatter('%Y-%m'))
+ax42.xaxis.set_major_formatter(formatter=mdates.DateFormatter('%Y-%m'))
 ax42.xaxis.set_tick_params(rotation=75, labelsize=9)
 ax42.set_ylabel('Points per month')
 ax42.grid()
@@ -203,7 +203,8 @@ fig4.tight_layout()
 save_figure(fig4, "monthly_stats")
 
 fig5, (ax51, ax52) = plt.subplots(nrows=2, ncols=1)
-annual_list = list(annual_stat.keys())
+
+annual_list = [datetime.strptime(k, "%Y") for k in annual_stat.keys()]
 ax51.plot(annual_list, [annual_stat[k][1] for k in annual_stat.keys()])
 ax51.set_title("Annual " + selected_nick_name + " points")
 ax51.set_ylabel('Total points')

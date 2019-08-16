@@ -9,7 +9,7 @@ with open('output_files/top1points.csv', 'r', encoding='utf-8') as fr:
     next(fr)  # skipping header
     for line in fr:
         dt = datetime.date(datetime.strptime(re.split(',".*",', line)[0][1:-1], "%Y-%m-%d"))
-        points = int(re.split(',".*",', line)[1][:-2])
+        points = int(re.split(',".*",', line)[1][:-1])
         nick = (re.findall(',".*",', line))[0].split(',')[1][1:-1]
         if nick not in players_dict.keys():
             players_dict[nick] = [[dt], [points]]

@@ -3,7 +3,7 @@ import csv
 import re
 import time
 import pylab as plt
-from matplotlib.dates import MONTHLY, DateFormatter, rrulewrapper, RRuleLocator
+import matplotlib.dates as mdates
 from datetime import datetime, timedelta
 
 
@@ -13,6 +13,7 @@ def get_date(file_line):
     t_s = (o_i[-2])[1:-1]
     return datetime.strptime(t_s, "%Y-%m-%d %H:%M:%S") \
                .replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(days=1)
+
 
 start_time = time.clock()
 with open('../ddnet-stats/race.csv', 'rb') as f_bin:
@@ -111,7 +112,7 @@ for item in no_duplicates_list:
         player_points_dict[nick] = points
     else:
         player_points_dict[nick] += points
-
+# last iteration
 top1 = max(player_points_dict, key=player_points_dict.get)
 date_dict[c_date] = [top1, player_points_dict[top1]]
 print("Top1-s were found")
@@ -136,7 +137,7 @@ with open('output_files/top1points.csv', 'r', encoding='utf-8') as fr:
     next(fr)  # skipping header
     for line in fr:
         dt = datetime.date(datetime.strptime(re.split(',".*",', line)[0][1:-1], "%Y-%m-%d"))
-        points = int(re.split(',".*",', line)[1][:-2])
+        points = int(re.split(',".*",', line)[1][:-1])
         nick = (re.findall(',".*",', line))[0].split(',')[1][1:-1]
         if nick not in players_dict.keys():
             players_dict[nick] = [[dt], [points]]
@@ -149,9 +150,9 @@ for k in players_dict.keys():
     plt.plot_date(players_dict[k][0], players_dict[k][1], '.', label=k + ' (' + str(len(players_dict[k][0])) + ')')
 plt.legend(title="Nicks (days on top)")
 plt.title("Top 1 Points")
-rule = rrulewrapper(MONTHLY, interval=2)
-ax1.xaxis.set_major_locator(RRuleLocator(rule))
-ax1.xaxis.set_major_formatter(formatter=DateFormatter('%d-%m-%y'))
+rule = mdates.rrulewrapper(mdates.MONTHLY, interval=2)
+ax1.xaxis.set_major_locator(mdates.RRuleLocator(rule))
+ax1.xaxis.set_major_formatter(formatter=mdates.DateFormatter('%d-%m-%y'))
 ax1.xaxis.set_tick_params(rotation=30, labelsize=8)
 plt.xlabel('Date')
 plt.ylabel('Points')
@@ -182,9 +183,9 @@ for item in max_pts_per_day:
 leg = plt.legend(prop={'size': 10})
 plt.title("Max points per 1 day")
 
-rule = rrulewrapper(MONTHLY, interval=2)
-ax2.xaxis.set_major_locator(RRuleLocator(rule))
-ax2.xaxis.set_major_formatter(formatter=DateFormatter('%d-%m-%y'))
+rule = mdates.rrulewrapper(mdates.MONTHLY, interval=2)
+ax2.xaxis.set_major_locator(mdates.RRuleLocator(rule))
+ax2.xaxis.set_major_formatter(formatter=mdates.DateFormatter('%d-%m-%y'))
 ax2.xaxis.set_tick_params(rotation=30, labelsize=10)
 ax2.set_yticks(list(range((min_point - 10) // 10 * 10, max_point + 30, 20)))
 
