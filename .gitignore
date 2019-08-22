@@ -2,3 +2,4 @@ ddnet-stats/
 /test.*
 .idea/
 venv/
+Max_points_per_period/output/correct_multiple/

@@ -108,6 +108,10 @@ while curr_date <= last_date:
     if short_date not in monthly_stat.keys():
         monthly_stat[short_date] = [0, 0]
     curr_date += timedelta(days=27)
+    # curr date could be more than last date but last month 'd not be in dict
+short_date = last_date.strftime("%Y-%m")
+if short_date not in monthly_stat.keys():
+    monthly_stat[short_date] = [0, 0]
 
 for k in date_points_map_dict.keys():
     monthly_stat[k.strftime("%Y-%m")][0] += date_points_map_dict[k][0]
