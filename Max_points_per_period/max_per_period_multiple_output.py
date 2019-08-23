@@ -2,18 +2,19 @@ import csv
 import re
 from datetime import datetime, timedelta
 import time
+import winsound
 
 # this is code with multiple output in meaning (check max_per_period.py to other way)
 # the top could be very noisy by the records of the same
 # players with the best results with a difference of several days
-# like this:
+# like this (max_per_week.csv):
 # Rank,Nickname,Points,DateOfPeriodStart
 # 1,?#@,1518,2019-01-30
-# 2,?#@,1465,2019-02-01
+# 2,?#@,1465,2019-01-31
 # 3,Ninjed,1319,2016-05-28
 # 4,Ninjed,1298,2016-05-27
 # 5,Brokecdx-,1224,2018-12-12
-# 6,Brokecdx-,1217,2018-12-14
+# 6,Brokecdx-,1217,2018-12-13
 
 
 def get_dict_map_points():
@@ -143,9 +144,9 @@ print("data_dict", time.clock())
 
 max_per_day = 25 * [["", 0, ""]]
 # periods may overlap so next len of list is greater than max_per_day
-max_per_week = 75 * [["", 0, ""]]
-max_per_month = 75 * [["", 0, ""]]
-max_per_year = 100 * [["", 0, ""]]
+max_per_week = 100 * [["", 0, ""]]
+max_per_month = 100 * [["", 0, ""]]
+max_per_year = 150 * [["", 0, ""]]
 
 min_of_max_values_day = -1
 min_of_max_values_week = -1
@@ -167,14 +168,14 @@ for k in data_dict.keys():
             val_list.append(0)
         curr_date += timedelta(days=1)
 
-    max_per_day, min_of_max_values_day = max_search_by_this_key(max_per_day, max_per_period(val_list, 1), date_list, k,
-                                                                min_of_max_values_day)
-    max_per_week, min_of_max_values_week = max_search_by_this_key(max_per_week, max_per_period(val_list, 7), date_list,
-                                                                  k, min_of_max_values_week)
+    max_per_day, min_of_max_values_day = max_search_by_this_key(max_per_day, max_per_period(val_list, 1),
+                                                                date_list.copy(), k, min_of_max_values_day)
+    max_per_week, min_of_max_values_week = max_search_by_this_key(max_per_week, max_per_period(val_list, 7),
+                                                                  date_list.copy(), k, min_of_max_values_week)
     max_per_month, min_of_max_values_month = max_search_by_this_key(max_per_month, max_per_period(val_list, 30),
-                                                                    date_list, k, min_of_max_values_month)
+                                                                    date_list.copy(), k, min_of_max_values_month)
     max_per_year, min_of_max_values_year = max_search_by_this_key(max_per_year, max_per_period(val_list, 365),
-                                                                  date_list, k, min_of_max_values_year)
+                                                                  date_list.copy(), k, min_of_max_values_year)
 
 print("Max-s per .. were found", time.clock())
 
@@ -184,3 +185,4 @@ write_output_file(max_per_month, "max_per_month")
 write_output_file(max_per_year, "max_per_year")
 
 print("End", time.clock())
+winsound.Beep(440, 500)
