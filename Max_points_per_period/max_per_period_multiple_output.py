@@ -2,7 +2,6 @@ import csv
 import re
 from datetime import datetime, timedelta
 import time
-import winsound
 
 # this is code with multiple output in meaning (check max_per_period.py to other way)
 # the top could be very noisy by the records of the same
@@ -65,7 +64,7 @@ def write_output_file(data, file_name):
     with open('output/multiple_results/' + file_name + '.csv', 'w', encoding='utf-8') as fw:
         fw.write("Rank,Nickname,Points,DateOfPeriodStart\n")
         for rank, (nick_name, points, date) in enumerate(data):
-            fw.write('%d,%s,%d,%s\n' % (rank + 1, nick_name, points, date))
+            fw.write('%d,"%s",%d,"%s"\n' % (rank + 1, nick_name, points, date))
 
 
 def own_max(arr):
@@ -185,4 +184,3 @@ write_output_file(max_per_month, "max_per_month")
 write_output_file(max_per_year, "max_per_year")
 
 print("End", time.clock())
-winsound.Beep(440, 500)

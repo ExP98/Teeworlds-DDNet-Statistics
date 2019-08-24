@@ -6,14 +6,14 @@ import time
 # works with the assumption of 1 player - 1 record (check max_per_period_multiple_output.py to other way)
 # otherwise the top will be very noisy by the records of the same
 # players with the best results with a difference of several days
-# avoiding this:
+# avoiding this (max_per_week.csv):
 # Rank,Nickname,Points,DateOfPeriodStart
 # 1,?#@,1518,2019-01-30
-# 2,?#@,1465,2019-02-01
+# 2,?#@,1465,2019-01-31
 # 3,Ninjed,1319,2016-05-28
 # 4,Ninjed,1298,2016-05-27
 # 5,Brokecdx-,1224,2018-12-12
-# 6,Brokecdx-,1217,2018-12-14
+# 6,Brokecdx-,1217,2018-12-13
 
 
 def get_dict_map_points():
@@ -65,7 +65,7 @@ def write_output_file(data, file_name):
     with open('output/single_results/' + file_name + '.csv', 'w', encoding='utf-8') as fw:
         fw.write("Rank,Nickname,Points,DateOfPeriodStart\n")
         for rank, (nick_name, points, date) in enumerate(sort_arr):
-            fw.write('%d,%s,%d,%s\n' % (rank + 1, nick_name, points, date))
+            fw.write('%d,"%s",%d,"%s"\n' % (rank + 1, nick_name, points, date))
 
 
 def my_max(arr):
