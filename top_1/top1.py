@@ -10,8 +10,7 @@ from datetime import datetime, timedelta
 def get_date(file_line):
     o_i = (re.findall(',".*",', file_line))[0].split(',')
     t_s = (o_i[-2])[1:-1]
-    return datetime.strptime(t_s, "%Y-%m-%d %H:%M:%S") \
-               .replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(days=1)
+    return datetime.strptime(t_s, "%Y-%m-%d %H:%M:%S").replace(hour=0, minute=0, second=0, microsecond=0) + timedelta(days=1)
 
 
 def get_dict_map_points():
@@ -59,18 +58,18 @@ dict_nick_maps = {}
 with open('../ddnet-stats/race.csv', 'r', encoding='utf-8') as fr:
     next(fr)  # skipping header
     for line in fr:
-        map = re.split(',".*",', line)[0][1:-1]
+        map_name = re.split(',".*",', line)[0][1:-1]
         other_info = (re.findall(',".*",', line))[0].split(',')
         timestamp = (other_info[-2])[1:-1]
         nick = ''.join(other_info[1:-3])[1:-1]
 
         if nick not in dict_nick_maps.keys():
-            dict_nick_maps[nick] = {map}
-            no_duplicates_list.append((map_points[map], timestamp, nick))
+            dict_nick_maps[nick] = {map_name}
+            no_duplicates_list.append((map_points[map_name], timestamp, nick))
         else:
-            if map not in dict_nick_maps[nick]:
-                dict_nick_maps[nick].add(map)
-                no_duplicates_list.append((map_points[map], timestamp, nick))
+            if map_name not in dict_nick_maps[nick]:
+                dict_nick_maps[nick].add(map_name)
+                no_duplicates_list.append((map_points[map_name], timestamp, nick))
 
 top1 = list(dict_nick_maps)[0]
 # print('first_finisher: ', top1)

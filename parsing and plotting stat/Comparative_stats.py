@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 import numpy as np
 import random
 
-nick_name_list_to_compare = ["PeX", "ad", "Axaris", "Fexa"]
+nick_name_list_to_compare = ["PeX", "ad", "it robertusg", "Patiga"]
 
 
 def save_figure(fig, name):

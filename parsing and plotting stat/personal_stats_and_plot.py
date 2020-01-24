@@ -25,7 +25,7 @@ def save_figure(fig, name):
     fig.savefig("output_data/" + name + ".pdf", dpi=1000)
 
 
-selected_nick_name = "Starkiller"
+selected_nick_name = "PeX"
 
 # dict {'map':points}
 map_points = {}

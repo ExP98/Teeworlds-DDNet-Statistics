@@ -1,33 +1,33 @@
-Personal Statistics for Starkiller
+Personal Statistics for Zasa
 
-Points: 24333
+Points: 7828
 
 Top 5 days with max points:
-Apr 11 2017 - 160 points - maps: ['BrokeysChallenge (16 p)', 'Lamb (16 p)', 'ZooDrag (25 p)', 'miA (30 p)', 'Relief (30 p)', 'Anim (25 p)', 'Fox (18 p)']
-Dec 16 2016 - 133 points - maps: ['Striped Clouds (30 p)', 'Dry Valley (27 p)', 'Nightmare (16 p)', 'Equity [Hard] (16 p)', 'SavannaDrag 3 (20 p)', 'Narcissistic (24 p)']
-Dec 21 2015 - 132 points - maps: ['Plan A (11 p)', '#wontfix (13 p)', 'Green (12 p)', 'Totoro (12 p)', 'Nasa (16 p)', 'Grace (11 p)', 'Hubbel (13 p)', 'Excast 2 (15 p)', 'Fender (13 p)', 'Next (16 p)']
-May 28 2017 - 132 points - maps: ['The Enchanted Clearing (34 p)', 'Intermediate (27 p)', 'Springlobe (24 p)', 'Dark Descent (27 p)', 'Jazz Hands (20 p)']
-Apr 13 2017 - 119 points - maps: ['Kabarda (21 p)', 'Verification 3.6 (16 p)', 'Genericore 7 (24 p)', 'Justice (34 p)', 'Alone Together 1.0 (24 p)']
+Dec 30 2018 - 117 points - maps: ['nora (25 p)', 'noro (20 p)', 'Double Dragin (24 p)', 'Kobra 3 Solo (8 p)', 'Templerun (20 p)', 'DuNoMa (20 p)']
+Apr 19 2019 - 104 points - maps: ['Solo_Mietzcore (16 p)', 'ForeverAlone (8 p)', "Dust's Leaf (8 p)", 'MorningStar (8 p)', 'Escape (12 p)', 'Increase Your Speed (8 p)', 'BlackBear7 (8 p)', 'Art of Movement (12 p)', 'Lonely Swim 9.0 (8 p)', 'Lonely Swim 9.1 (8 p)', 'Lonely Swim 9.2 (8 p)']
+Mar 17 2017 - 100 points - maps: ['pr0-move (4 p)', 'Against the Current (11 p)', 'Whitemoon (8 p)', 'mazepack (4 p)', 'TOPOS (4 p)', 'Anaphore (4 p)', 'Mirage (7 p)', 'run_granit_stone (4 p)', 'pocramruinrun (2 p)', 'run_radioactive (6 p)', 'run_firestorm (4 p)', 'run_skizz_loop1200 (6 p)', 'run_linkin_park (4 p)', 'run_alkohol (6 p)', 'No Merci (13 p)', 'Snowy Mountain (13 p)']
+Nov 01 2018 - 85 points - maps: ['Castaway (20 p)', 'Chained (20 p)', 'Samdragaline (20 p)', 'Dubush (13 p)', 'Michler (12 p)']
+Aug 10 2018 - 80 points - maps: ['Pharice 2 (11 p)', 'Bootcamp #1 (13 p)', 'Neverwhere (15 p)', 'Kiko (13 p)', 'Eternal (13 p)', "Let's Fail! (15 p)"]
 
-Max points per day: 160
-Count of different maps by Starkiller: 1790
-Total time of all finishes (in hours): 1553.84
-Number of different teammates: 235
-Number of finishes in team: 936
+Max points per day: 117
+Count of different maps by Zasa: 782
+Total time of all finishes (in hours): 420.99
+Number of different teammates: 72
+Number of finishes in team: 161
 
 List of best teammates:
-1. StarkillerJr.<3: 217
-2. Freezestyler: 97
-3. zelda.: 77
-4. HaHAxD*: 72
-5. Tropo: 38
-6. pK. | Qywinc: 36
-7. coradax: 33
-8. Anni: 31
-9. <BµmM>: 25
-10. chopnixDE: 23
-11. Genex: 21
-12. Wombat: 19
-13. Mannyking: 15
-14. kys :): 15
-15. Forris: 14
+1. |Michel: 35
+2. BaconDrink: 19
+3. secreT: 13
+4. Blurry: 10
+5. ┇»MíM«┇: 9
+6. Fluday: 7
+7. Gignr: 4
+8. Amu~Cookie: 4
+9. Lier.: 3
+10. Ganjah: 3
+11. Miausuke: 2
+12. \\/Vo0b\\/Vo0b: 2
+13. zup: 2
+14. Owlfan: 2
+15. zasa-dummy: 2
