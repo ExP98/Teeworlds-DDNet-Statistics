@@ -14,14 +14,14 @@ with open('../ddnet-stats/maps.csv', 'r', encoding='utf-8') as fp:
         read_data[row[0]] = [int(row[2]), set(), []]
 
 # cuz some maps were deleted but still exist in race file, these maps will have points -1
-maps_to_del = []
+maps_to_del = set()
 maps_finished_by_selected_nickname = dict()
 with open('../ddnet-stats/race.csv', 'r', encoding='utf-8') as fp:
     reader = csv.reader(fp, delimiter=',')
     next(reader)
     for row in reader:
         if row[0] not in read_data.keys():
-            maps_to_del.append(row[0])
+            maps_to_del.add(row[0])
             read_data[row[0]] = [-1, set(), []]
 
 with open('../ddnet-stats/race.csv', 'r', encoding='utf-8') as f:

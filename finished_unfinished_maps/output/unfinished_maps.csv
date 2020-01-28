@@ -1,1168 +1,1162 @@
 No.,Map,Points,CountOfUnfinishedTees,MedianTime(min)
-1,Stellar,10,2419,6.63
-2,Tech,15,2403,11.67
-3,JustCopyFly,10,2381,9.67
-4,Samsara III,15,2368,20.14
-5,Naufrage 2,24,2213,80.6
-6,Just Rocketfly 1,15,2206,8.05
-7,Skychase,20,2124,18.33
-8,Downhill Jam,15,2097,5.2
-9,Samsara II,15,1984,16.7
-10,RON,15,1923,10.95
-11,TakeUrLuggage,15,1904,14.27
-12,Darkvine,15,1834,12.72
-13,Bomb Raid 2,15,1825,12.31
-14,Chill Let's Climb,8,1741,28.31
-15,HDP_Run2,8,1670,19.97
-16,Red Avenue,13,1660,69.57
-17,Josen,6,1584,42.81
-18,Naufrage 3,24,1582,110.08
-19,Fresh,6,1575,26.84
-20,SkyFly,10,1575,8.76
-21,Push it,8,1573,2.92
-22,Greed,15,1569,27.56
-23,Summer Breeze,12,1563,21.96
-24,NightSky,11,1549,28.34
-25,Dummy Chamber 3,15,1510,5.64
-26,Drag-House2,8,1487,20.14
-27,Flying in the Sky,18,1445,46.07
-28,Dust's Leaf,8,1380,4.26
-29,Heaven,9,1362,24.12
-30,Barren,21,1354,17.25
-31,nullptr,18,1337,36.96
-32,CCrush,8,1304,28.74
-33,Cheepl,8,1288,6.33
-34,Forest,12,1281,23.28
-35,Sundara,15,1258,36.36
-36,MojoJump,8,1245,11.2
-37,Escape from the Prison,15,1225,24.96
-38,Autumn Sunset,12,1214,4.27
-39,HDP_Obstaculos,6,1209,45.96
-40,Simple World 3,11,1193,37.12
-41,Destruction,15,1191,32.83
-42,Broken hammer,10,1177,11.51
-43,mainstream,9,1175,55.69
-44,The Bunker,11,1157,45.39
-45,Madness 4,12,1153,46.03
-46,Escape,12,1149,11.61
-47,Encore,12,1138,13.49
-48,Neverwhere,15,1137,147.72
-49,Kiko,13,1131,60.47
-50,Chaos Factory 2,8,1128,31.84
-51,HeyYa,8,1108,20.88
-52,ATLAS,8,1106,28.96
-53,FWYS 4,12,1100,78.13
-54,Reach Pluto,12,1100,24.12
-55,Target,20,1081,7.35
-56,Madness 3,12,1066,42.84
-57,Miper 3,6,1063,22.9
-58,Im No Superman 2,12,1052,47.53
+1,JustCopyFly,10,2399,9.68
+2,Samsara III,15,2373,20.13
+3,Naufrage 2,24,2243,80.31
+4,Just Rocketfly 1,15,2223,8.05
+5,Skychase,20,2128,18.3
+6,Downhill Jam,15,2104,5.19
+7,Samsara II,15,1991,16.73
+8,RON,15,1938,10.93
+9,TakeUrLuggage,15,1920,14.26
+10,Bomb Raid 2,15,1873,12.32
+11,Darkvine,15,1856,12.72
+12,Chill Let's Climb,8,1743,28.22
+13,HDP_Run2,8,1676,19.99
+14,Red Avenue,13,1661,69.57
+15,Naufrage 3,24,1611,110.08
+16,Josen,6,1584,42.81
+17,Greed,15,1584,27.56
+18,SkyFly,10,1583,8.73
+19,Push it,8,1582,2.93
+20,Fresh,6,1580,26.83
+21,NightSky,11,1571,28.34
+22,Summer Breeze,12,1565,21.94
+23,Dummy Chamber 3,15,1532,5.65
+24,Flying in the Sky,18,1513,45.62
+25,Drag-House2,8,1489,20.14
+26,Dust's Leaf,8,1383,4.25
+27,Barren,21,1376,17.13
+28,Heaven,9,1372,24.1
+29,nullptr,18,1345,36.96
+30,CCrush,8,1304,28.74
+31,Cheepl,8,1292,6.31
+32,Forest,12,1282,23.27
+33,Sundara,15,1258,36.36
+34,MojoJump,8,1249,11.21
+35,Escape from the Prison,15,1229,24.93
+36,Autumn Sunset,12,1223,4.29
+37,HDP_Obstaculos,6,1209,45.96
+38,Simple World 3,11,1203,37.03
+39,Destruction,15,1194,32.82
+40,Broken hammer,10,1179,11.52
+41,mainstream,9,1177,55.69
+42,The Bunker,11,1162,45.39
+43,Madness 4,12,1159,46.03
+44,Escape,12,1152,11.61
+45,Neverwhere,15,1141,147.54
+46,Encore,12,1138,13.49
+47,Chaos Factory 2,8,1135,31.95
+48,Kiko,13,1131,60.47
+49,HeyYa,8,1108,20.88
+50,ATLAS,8,1106,28.96
+51,FWYS 4,12,1102,78.14
+52,Reach Pluto,12,1100,24.12
+53,Target,20,1089,7.36
+54,Madness 3,12,1069,42.82
+55,Miper 3,6,1067,22.88
+56,Twix,9,1057,38.06
+57,Im No Superman 2,12,1054,47.48
+58,Increase Your Speed,8,1053,3.31
 59,Castle Lemongrab,11,1051,52.71
-60,Increase Your Speed,8,1049,3.31
-61,BlackBear2,8,1047,0.52
-62,Twix,9,1040,38.17
-63,NUT_race1,8,1036,9.26
-64,Chevtzo,13,1034,93.58
-65,Dark Rainbow,8,1033,18.62
-66,HellFly,6,1031,6.78
-67,Daunell,11,1022,63.05
-68,Rocket Jump,8,1011,7.38
-69,Divided,12,997,26.84
-70,Eternal,13,993,37.32
-71,Cavings I,9,991,21.58
-72,Short Flight,13,987,25.35
-73,Just HookThrough,9,984,11.29
-74,Peaceful Jungle,9,983,29.52
+60,BlackBear2,8,1050,0.52
+61,NUT_race1,8,1048,9.27
+62,Dark Rainbow,8,1037,18.62
+63,Chevtzo,13,1034,93.58
+64,HellFly,6,1032,6.77
+65,Daunell,11,1023,63.11
+66,Rocket Jump,8,1011,7.38
+67,Cavings I,9,998,21.51
+68,Divided,12,997,26.84
+69,Eternal,13,996,37.32
+70,Peaceful Jungle,9,991,29.52
+71,Short Flight,13,987,25.35
+72,Just HookThrough,9,985,11.27
+73,Holiday Adventure,13,981,37.71
+74,Tricktee,15,980,42.1
 75,Cross,13,979,66.21
-76,Holiday Adventure,13,977,37.71
-77,Tricktee,15,968,42.1
-78,Madness 5,16,963,45.83
-79,Jungle,8,951,15.85
-80,BlackBear7,8,945,0.29
-81,Snowzz,12,944,39.64
-82,.Background',12,940,28.23
-83,Freeze Slow 1,6,938,29.91
-84,2 easy for u,9,938,54.07
-85,Tee Legends 3,8,934,1.95
-86,piViq,11,918,31.89
-87,Atticus Compilation,6,911,54.48
-88,Moon of the Jungle,12,909,47.09
-89,NiggoDrag,13,907,65.03
-90,Allround,8,901,10.37
-91,Hell Ride,12,879,36.57
-92,Let's Fail!,15,876,21.99
-93,Hardcore 7,18,870,53.81
-94,Zonsa,20,870,27.31
-95,HeartOfMoon,13,869,18.01
-96,Crystal Maze,13,862,21.24
-97,LATOM,16,861,27.02
-98,Universe,12,860,63.45
-99,Dragonscale,16,860,56.21
-100,black-mountains,8,856,15.48
-101,Art of Movement,12,855,10.17
-102,Alpha,8,851,15.33
-103,Warch Comp,6,849,59.2
-104,IMA NINJA,12,849,23.1
-105,Bomb Raid,15,849,11.54
-106,Insanity,12,848,50.53
-107,Sand Dune,24,848,51.66
-108,Lonely Swim 9.0,8,846,1.0
-109,0 to 100,13,842,31.66
+76,Jungle,8,966,15.86
+77,Madness 5,16,964,45.85
+78,BlackBear7,8,951,0.29
+79,Snowzz,12,946,39.53
+80,2 easy for u,9,943,54.0
+81,.Background',12,942,28.11
+82,Freeze Slow 1,6,938,29.91
+83,Tee Legends 3,8,938,1.95
+84,Four Gates,16,932,61.66
+85,piViq,11,920,31.87
+86,Atticus Compilation,6,913,54.46
+87,NiggoDrag,13,912,64.84
+88,Moon of the Jungle,12,910,47.09
+89,Allround,8,905,10.36
+90,Let's Fail!,15,883,21.98
+91,Crystal Maze,13,882,21.4
+92,Hardcore 7,18,880,53.44
+93,Hell Ride,12,879,36.57
+94,HeartOfMoon,13,875,18.02
+95,Zonsa,20,875,27.35
+96,LATOM,16,863,27.03
+97,Universe,12,860,63.45
+98,Dragonscale,16,860,56.21
+99,Art of Movement,12,858,9.96
+100,Sand Dune,24,857,51.38
+101,black-mountains,8,856,15.48
+102,Alpha,8,854,15.33
+103,Bomb Raid,15,853,11.53
+104,IMA NINJA,12,850,23.11
+105,Lonely Swim 9.0,8,849,0.99
+106,Warch Comp,6,849,59.2
+107,Insanity,12,848,50.53
+108,0 to 100,13,847,31.72
+109,Limitation,11,840,33.11
 110,Hardcore 9,18,833,38.21
-111,Limitation,11,831,33.3
-112,Hardcore 3,12,830,65.76
-113,Brown Suger,8,825,2.86
-114,DatWay,12,822,15.11
-115,Creative,16,814,32.45
-116,LazeAround,15,804,46.78
-117,Miper 4,6,803,29.01
-118,Deep Forest,18,803,47.83
-119,Rocket Player,8,798,9.15
-120,Four Gates,16,791,64.34
-121,Reality,16,788,23.27
-122,Empty,15,788,58.31
-123,Bercy,12,784,32.58
-124,CrashTV,12,780,24.93
-125,Push him,11,772,15.07
-126,navii,8,770,4.3
-127,Chill Let's Climb 2,8,769,52.05
-128,run_heaven_and_hell,4,766,7.56
-129,HDP_run_gay25,12,762,28.04
-130,selfdragger,8,760,1.61
-131,Bl0odDens3,21,760,1.67
-132,Difficult 2.1,12,756,37.98
-133,mazepack,4,747,1.21
-134,run_glowing_ice,4,746,3.5
-135,Peaceful Jungle 2,13,745,41.01
-136,BlackVision,8,743,7.24
-137,Plan C,11,741,26.61
-138,S-Race 2,12,739,22.62
+111,Hardcore 3,12,830,65.76
+112,Brown Suger,8,827,2.87
+113,DatWay,12,827,15.15
+114,Deep Forest,18,824,47.25
+115,Creative,16,816,32.35
+116,LazeAround,15,813,46.52
+117,Miper 4,6,805,29.0
+118,Rocket Player,8,805,9.16
+119,Reality,16,793,23.27
+120,CrashTV,12,792,25.06
+121,Empty,15,790,58.18
+122,Bercy,12,785,32.54
+123,navii,8,777,4.31
+124,Bl0odDens3,21,774,1.67
+125,Push him,11,774,15.07
+126,Chill Let's Climb 2,8,771,51.98
+127,run_heaven_and_hell,4,769,7.56
+128,selfdragger,8,763,1.6
+129,Difficult 2.1,12,762,37.87
+130,HDP_run_gay25,12,762,28.04
+131,mazepack,4,755,1.21
+132,Peaceful Jungle 2,13,751,40.92
+133,BlackVision,8,749,7.24
+134,run_glowing_ice,4,749,3.5
+135,Plan C,11,741,26.61
+136,Freeze Slow 2,6,741,36.82
+137,S-Race 2,12,739,22.62
+138,run_pokemon,4,739,11.49
 139,Holy Key,18,738,30.13
 140,Hardstyle 1,12,737,43.18
-141,run_pokemon,4,737,11.49
-142,Freeze Slow 2,6,734,36.83
-143,Bootcamp #2,11,725,29.51
-144,Exchange,12,718,15.97
-145,run_4popi,4,718,4.65
-146,lovely me,12,715,15.18
-147,Castle Mario,13,713,35.81
-148,Wailand,18,712,49.64
-149,Brownie,16,709,30.1
-150,run_experience_of_incredibleness,4,708,6.39
-151,Lonely Swim 3,8,706,1.38
-152,Sunreal,11,706,10.52
-153,Samsara V,15,706,13.67
-154,Zadrotos 1,12,698,33.65
-155,HURT,15,698,30.46
-156,Unlimited,12,697,41.38
-157,NUT_race6,12,694,15.46
-158,Nujabes,11,690,49.72
-159,SunDay 3,15,687,92.13
-160,Tee Legends 2,8,686,2.06
-161,Offpanic,18,684,67.92
-162,R2D2,8,682,34.03
-163,At Night,20,680,79.81
-164,run_4fikmesan,4,680,2.91
-165,run_unschaffbar,4,679,3.64
-166,Lonely Swim 9.1,8,677,0.98
-167,Hopeless II,8,677,2.44
-168,climate-crisis,4,675,13.29
-169,Aim 10.0,27,670,59.74
-170,SkipIt2,8,668,0.17
-171,Doable,11,665,18.33
-172,Jailbreak 3,6,663,38.44
-173,Nucl,18,661,60.37
-174,Nasa,16,660,25.44
-175,Zoe,18,659,45.15
-176,run_crystal,4,657,3.03
-177,Late Evening,8,653,1.25
-178,Limitless,15,653,20.03
-179,Stoned.,18,652,37.36
+141,Bootcamp #2,11,725,29.51
+142,Exchange,12,723,15.96
+143,lovely me,12,721,15.19
+144,run_4popi,4,719,4.65
+145,Brownie,16,715,30.11
+146,run_experience_of_incredibleness,4,713,6.39
+147,Wailand,18,712,49.64
+148,Samsara V,15,710,13.71
+149,Sunreal,11,709,10.33
+150,Lonely Swim 3,8,708,1.38
+151,HURT,15,699,30.45
+152,Zadrotos 1,12,698,33.65
+153,Unlimited,12,697,41.38
+154,NUT_race6,12,696,15.46
+155,Nujabes,11,690,49.72
+156,SunDay 3,15,689,91.98
+157,Tee Legends 2,8,688,2.06
+158,run_4fikmesan,4,687,2.91
+159,Offpanic,18,687,67.61
+160,run_unschaffbar,4,683,3.65
+161,climate-crisis,4,681,13.33
+162,At Night,20,680,79.81
+163,Hopeless II,8,679,2.44
+164,Lonely Swim 9.1,8,677,0.98
+165,SkipIt2,8,676,0.17
+166,Jailbreak 3,6,675,38.31
+167,Aim 10.0,27,671,59.61
+168,Nucl,18,668,60.37
+169,Doable,11,665,18.33
+170,Nasa,16,663,25.47
+171,Zoe,18,660,44.95
+172,run_crystal,4,659,3.04
+173,Limitless,15,659,19.98
+174,Climax,15,657,56.23
+175,Late Evening,8,657,1.25
+176,Conscientious,13,656,24.5
+177,run_miniatur,4,655,3.05
+178,Stoned.,18,652,37.36
+179,SomewhereDistant,9,650,11.05
 180,Spooky,11,650,66.74
-181,run_miniatur,4,650,3.05
-182,Conscientious,13,649,24.55
-183,WEEDS,11,648,16.72
-184,Climax,15,648,55.95
-185,run_nightmare,4,647,4.61
-186,Xabier,11,644,29.58
-187,PetJack 2,12,643,11.64
-188,SomewhereDistant,9,642,11.06
-189,Death Valley,21,637,28.74
-190,DoT,16,636,40.13
-191,BlackBear4,12,633,0.67
-192,Zadrotos 2,12,632,63.8
-193,[SI] SELEN,11,631,14.03
-194,Aim 7.0,24,631,38.04
-195,PetJack,12,628,11.93
-196,Emerald,13,628,41.37
-197,Universum 16,12,625,14.19
-198,Regret,12,621,28.52
-199,Vesper,8,620,5.81
-200,run_black_white,4,616,9.07
-201,Michler,12,615,52.13
-202,SonQuery,12,614,20.17
-203,StormzZ,12,613,28.29
-204,Hardstyle 2,12,612,33.52
-205,run_birthday,4,612,5.67
-206,Aviate,21,608,55.33
-207,run_hot_or_not,4,606,5.15
-208,DreamWorld,18,604,57.72
-209,TowerOfDesperation,13,602,53.47
-210,Equity [Easy],8,600,1.81
-211,Aufnahmetest_AE,4,595,4.91
-212,run_redbull,4,595,2.71
-213,Swoosh,13,593,56.33
-214,Just Hookfly 1,6,591,12.81
-215,Aim 5.0,24,588,72.46
-216,Rogue World,18,588,54.91
-217,Blue Drag,21,585,50.12
-218,Determination,18,581,36.28
-219,Goldmoon,18,581,43.17
-220,Just Fly 3,6,579,13.92
-221,Frostbite,12,578,13.41
-222,Miper 5,6,574,43.61
-223,run_pencil,4,574,2.15
-224,Angry 2,12,572,31.32
-225,run_ice_castle,4,572,7.55
-226,Lonely Swim 9.2,8,569,1.72
-227,Milthrid Core,27,569,43.69
-228,run_4tzoy,4,568,3.8
-229,Just Rocketfly 2,20,565,16.37
-230,Jungle Run,8,560,1.35
-231,Night of Spikes,8,560,2.51
-232,Pace,10,559,2.87
-233,run_stoned,4,558,6.11
-234,Brown,13,557,48.1
-235,Humpalumpa 2,13,556,62.58
-236,Verification 6,8,555,0.93
-237,deadrun,8,554,0.82
+181,run_nightmare,4,650,4.62
+182,Xabier,11,649,29.56
+183,PetJack 2,12,648,11.69
+184,WEEDS,11,648,16.72
+185,Vesper,8,643,5.89
+186,Death Valley,21,641,28.84
+187,DoT,16,638,40.07
+188,BlackBear4,12,637,0.67
+189,Zadrotos 2,12,636,63.6
+190,Emerald,13,635,41.87
+191,Aim 7.0,24,634,37.98
+192,[SI] SELEN,11,633,14.02
+193,PetJack,12,632,11.93
+194,Universum 16,12,628,14.28
+195,StormzZ,12,626,28.44
+196,Michler,12,622,51.71
+197,run_black_white,4,620,9.07
+198,run_hot_or_not,4,620,5.1
+199,SonQuery,12,619,20.23
+200,run_birthday,4,614,5.67
+201,Hardstyle 2,12,612,33.52
+202,TowerOfDesperation,13,609,53.57
+203,DreamWorld,18,608,58.01
+204,Aviate,21,608,55.33
+205,Swoosh,13,604,56.43
+206,Aim 5.0,24,601,72.46
+207,Equity [Easy],8,601,1.81
+208,Rogue World,18,600,55.74
+209,Aufnahmetest_AE,4,598,4.91
+210,run_redbull,4,598,2.72
+211,Miper 5,6,593,43.15
+212,Just Hookfly 1,6,591,12.81
+213,Blue Drag,21,589,50.08
+214,Frostbite,12,585,13.4
+215,Goldmoon,18,583,43.06
+216,Just Fly 3,6,582,13.74
+217,Determination,18,582,36.16
+218,Angry 2,12,578,31.35
+219,run_ice_castle,4,577,7.56
+220,run_pencil,4,577,2.15
+221,Lonely Swim 9.2,8,576,1.72
+222,Milthrid Core,27,574,43.69
+223,Pace,10,573,2.86
+224,run_4tzoy,4,570,3.8
+225,Humpalumpa 2,13,569,62.63
+226,Just Rocketfly 2,20,568,16.37
+227,Night of Spikes,8,565,2.5
+228,deadrun,8,563,0.82
+229,Jungle Run,8,562,1.35
+230,run_stoned,4,562,6.11
+231,NUT_hardcore_race2,12,560,14.95
+232,Brown,13,559,48.14
+233,Verification 6,8,559,0.93
+234,Infinity,18,557,59.43
+235,run_firestorm,4,556,3.81
+236,Rope swing,8,556,4.11
+237,Professional,18,554,44.45
 238,Dusty Road,15,552,32.0
-239,Professional,18,552,44.59
-240,Rope swing,8,552,4.11
-241,Eternal 2,15,550,80.6
-242,run_skizzpopo,4,548,7.37
-243,run_firestorm,4,548,3.81
-244,Infinity,18,547,59.56
-245,Cleopatra,13,547,79.34
-246,Casthere,12,546,6.12
-247,Short Con,8,545,4.5
-248,Black Jungle,8,545,23.79
-249,Soft,15,543,20.8
-250,NUT_hardcore_race2,12,542,14.75
-251,Aequilibrium,15,541,52.42
-252,SpongeBob 2,8,540,47.01
-253,Construction I,15,539,55.84
-254,NightRunner,16,539,31.67
-255,Outside,12,539,12.54
-256,Verification 3.0,8,538,0.97
+239,Eternal 2,15,552,80.56
+240,run_skizzpopo,4,551,7.38
+241,Cleopatra,13,551,79.27
+242,Soft,15,548,20.75
+243,Casthere,12,548,6.12
+244,Short Con,8,547,4.52
+245,Black Jungle,8,545,23.79
+246,NightRunner,16,543,31.6
+247,SpongeBob 2,8,543,46.89
+248,Construction I,15,541,55.76
+249,Aequilibrium,15,541,52.42
+250,Verification 3.0,8,540,0.97
+251,Outside,12,540,12.57
+252,Neon 1,13,539,74.66
+253,lovely me2,12,539,40.33
+254,BlackBear6,12,539,0.34
+255,DummyCopter,15,538,7.96
+256,pr0-move,4,536,8.8
 257,AreaOfEffect,16,535,38.14
-258,lovely me2,12,534,40.32
-259,BlackBear6,12,534,0.34
-260,Jailbreak 2,12,533,35.8
-261,gendum,20,533,9.79
-262,pr0-move,4,531,8.82
-263,DummyCopter,15,530,7.9
-264,Impossible 1,12,528,25.4
-265,One Way,11,524,18.09
-266,Indicud,21,522,54.63
-267,Jumanji,15,518,58.73
-268,Angry,12,518,24.65
-269,Ambrosia,16,518,23.54
-270,Neon 1,13,517,75.16
-271,21,16,517,31.68
-272,NoTeleBro,20,516,10.71
-273,Aim 4.0,24,515,38.68
-274,Tropical Drag,20,515,19.57
-275,PreciousDream,11,514,16.55
-276,Skave,18,513,45.95
-277,Circle,13,510,66.8
-278,IronFlight,16,509,57.19
-279,LazeAround2,11,509,32.77
-280,Jailbreak 1,12,506,49.13
-281,3Play,13,504,54.76
-282,Scabrous,21,501,38.66
-283,Lost Castle,16,501,63.17
-284,Miracle,12,500,44.86
-285,Hollywood Undead,8,500,1.39
-286,UpNDown,8,500,3.39
-287,P2Z_Island,13,498,35.29
-288,Finito,16,498,24.73
-289,Midnight,15,497,53.83
-290,Behind the Darkua,18,497,46.74
-291,blue-mountains,16,496,44.67
-292,Rapture,13,492,42.76
-293,Bootcamp #1,13,491,38.76
-294,HappyEaster,16,491,29.91
-295,SoManyStars,8,489,0.82
-296,Temple of Doom,15,487,69.0
-297,Im No Superman 3,18,486,31.28
-298,run_toxic_green,4,486,5.65
-299,SunDay 2,15,483,66.05
-300,Generic Hell,18,481,79.49
-301,lemonland,16,481,56.85
-302,Verification 2.1,8,479,0.64
-303,Desolation,16,478,20.7
-304,FindTheFreeze,9,476,13.71
-305,Paik,16,475,24.0
-306,Poreotics,12,473,26.33
-307,MicCore,16,472,56.62
-308,Verification 3.3,8,472,0.95
-309,Desert Duration,8,470,8.01
-310,back and forth,12,468,11.13
-311,NUT_hardcore_race1,12,467,24.59
-312,Generica,27,467,65.51
-313,Verification 2,8,467,0.59
-314,Verification 2.2,8,467,0.33
-315,Memories,18,466,18.81
-316,Fly Lessons,8,463,15.59
+258,gendum,20,534,9.76
+259,Jailbreak 2,12,533,35.8
+260,One Way,11,528,17.95
+261,Impossible 1,12,528,25.4
+262,Aim 4.0,24,528,38.84
+263,Angry,12,523,24.7
+264,Indicud,21,522,54.63
+265,Ambrosia,16,521,23.29
+266,Jumanji,15,520,58.55
+267,Tropical Drag,20,520,19.56
+268,NoTeleBro,20,518,10.71
+269,21,16,517,31.68
+270,Skave,18,517,45.55
+271,PreciousDream,11,516,16.58
+272,Lost Castle,16,516,62.51
+273,LazeAround2,11,514,32.67
+274,IronFlight,16,513,57.18
+275,Circle,13,510,66.8
+276,Jailbreak 1,12,508,49.11
+277,3Play,13,506,54.7
+278,Scabrous,21,505,38.52
+279,blue-mountains,16,504,44.5
+280,UpNDown,8,502,3.39
+281,Behind the Darkua,18,501,46.44
+282,Miracle,12,501,44.74
+283,Hollywood Undead,8,500,1.39
+284,Midnight,15,499,53.64
+285,P2Z_Island,13,498,35.29
+286,Finito,16,498,24.73
+287,Rapture,13,497,42.79
+288,Generic Hell,18,493,78.2
+289,Temple of Doom,15,492,69.0
+290,Seduction,15,491,28.04
+291,Bootcamp #1,13,491,38.76
+292,HappyEaster,16,491,29.91
+293,SoManyStars,8,489,0.82
+294,run_toxic_green,4,489,5.65
+295,Im No Superman 3,18,486,31.28
+296,SunDay 2,15,485,66.53
+297,lemonland,16,485,56.74
+298,Poreotics,12,483,26.28
+299,Verification 2.1,8,483,0.64
+300,FindTheFreeze,9,481,13.59
+301,Desolation,16,480,20.7
+302,[SI] NEVERLAND,11,478,39.02
+303,MicCore,16,475,56.72
+304,Paik,16,475,24.0
+305,Desert Duration,8,475,8.03
+306,Verification 3.3,8,473,0.95
+307,back and forth,12,471,11.16
+308,Memories,18,470,18.9
+309,Verification 2,8,470,0.59
+310,Verification 2.2,8,470,0.33
+311,Generica,27,469,65.31
+312,JungleRabies,25,469,31.01
+313,Fly Lessons,8,467,15.58
+314,NUT_hardcore_race1,12,467,24.59
+315,SkipIt,12,465,0.73
+316,NUT_race7,8,464,10.45
 317,Hubbel,13,463,29.88
 318,Scabrous 2,20,463,79.11
-319,[SI] NEVERLAND,11,462,39.02
-320,NUT_race7,8,462,10.47
-321,SkipIt,12,462,0.73
-322,JungleRabies,25,462,31.04
-323,Fonders,18,458,56.46
-324,HellGate X,13,456,59.26
-325,Red Japan,12,454,30.3
-326,zelda,6,454,13.19
-327,SpookyDrag,20,452,20.5
-328,Wrong Forest,11,451,30.93
-329,Primeval Forest,15,450,19.28
-330,Seduction,15,449,28.58
-331,Excast,11,449,29.85
-332,run_black_jack,4,448,5.92
-333,Ruin,21,447,40.16
-334,LuckyStrike,18,447,32.49
-335,Maximum,12,447,30.76
-336,run_FreezyFly,4,447,9.94
-337,MysteryCompound,15,444,35.27
+319,Fonders,18,460,56.51
+320,Red Japan,12,460,30.32
+321,Excast,11,460,29.85
+322,HellGate X,13,458,59.15
+323,zelda,6,456,13.19
+324,run_FreezyFly,4,455,9.96
+325,Wrong Forest,11,454,30.72
+326,SpookyDrag,20,452,20.5
+327,Ruin,21,451,39.88
+328,LuckyStrike,18,451,32.16
+329,Maximum,12,451,30.45
+330,Primeval Forest,15,450,19.28
+331,run_black_jack,4,450,5.94
+332,Slide,8,449,5.45
+333,Samsara IV,20,446,30.44
+334,Extension 2.0,8,445,8.22
+335,MysteryCompound,15,445,34.63
+336,run_tee,4,444,6.44
+337,run_dfc,6,444,12.38
 338,Rainbow Sunrise,13,443,42.98
-339,Extension 2.0,8,442,8.22
-340,run_tee,4,442,6.44
-341,Samsara IV,20,442,30.42
-342,Fall & Rise,15,438,34.02
-343,run_dfc,6,438,12.39
-344,Old Style,8,436,1.61
-345,Challenge,13,433,53.29
-346,Hopeless,12,432,1.65
-347,Slide,8,432,5.42
-348,Aim 6.0,24,431,62.62
-349,Back in the days 2,24,431,98.0
-350,DeathClaw,20,430,100.03
-351,FaCe,13,429,35.12
-352,SkyCave,8,428,2.32
-353,Bittersweet Sunset,12,428,34.32
-354,Aim 1.0,24,427,37.08
-355,Skyisland2,16,427,14.96
-356,Dawn To Dusk,15,425,55.17
-357,run_yellow_hell,6,424,6.56
-358,Solo Future,12,423,30.72
-359,Next 2,16,422,29.44
-360,run_dragon,4,422,5.34
-361,Broken brain,16,422,20.58
-362,Excast 2,15,419,27.58
-363,Theory Of Fail,8,419,6.29
-364,Herbstzeitlose,13,418,18.61
-365,Gedan,8,418,3.32
-366,Aufnahmetest,12,417,2.55
-367,Im No Superman 1,12,417,20.75
-368,run_granit_stone,4,416,3.99
+339,Fall & Rise,15,438,34.02
+340,Old Style,8,437,1.6
+341,Challenge,13,434,52.99
+342,Hopeless,12,433,1.65
+343,FaCe,13,432,35.34
+344,Aim 6.0,24,431,62.62
+345,Frats 5,12,431,26.45
+346,Everlast,13,431,27.86
+347,Back in the days 2,24,431,98.0
+348,DeathClaw,20,430,100.03
+349,SkyCave,8,430,2.32
+350,Reload 1,12,429,19.58
+351,Bittersweet Sunset,12,429,34.24
+352,Aim 1.0,24,428,36.98
+353,Im No Superman 1,12,427,20.61
+354,Dawn To Dusk,15,427,55.0
+355,Next 2,16,427,29.15
+356,Skyisland2,16,427,14.96
+357,run_dragon,4,427,5.34
+358,Freeze Jungle,13,426,22.29
+359,run_yellow_hell,6,426,6.56
+360,Excast 2,15,423,27.66
+361,Solo Future,12,423,30.72
+362,Broken brain,16,423,20.47
+363,Gedan,8,422,3.34
+364,Theory Of Fail,8,422,6.3
+365,SpoopyDrag,15,421,13.56
+366,run_granit_stone,4,419,3.99
+367,Aufnahmetest,12,418,2.55
+368,Herbstzeitlose,13,418,18.61
 369,Space & Time 2,21,415,88.46
-370,NUT_race3,8,415,13.47
-371,Reload 1,12,413,19.97
-372,Freeze Jungle,13,412,22.4
-373,Excast 4,13,412,27.38
-374,Myth,12,411,46.38
-375,Verification 3.5,8,411,0.5
-376,Fantabob,16,409,27.54
-377,Golden,11,408,19.71
-378,Injection 2,25,408,33.26
-379,Just deep fly,25,408,38.19
-380,Ultimatum 3,18,407,29.8
-381,run_4mystery,4,406,5.94
-382,Karaboudjan 3,21,404,73.93
-383,SpoopyDrag,15,404,13.56
-384,Flow,21,402,79.09
-385,Fucktastic,12,401,54.16
-386,run_radioactive,6,401,4.16
-387,Caution,11,400,28.6
-388,Out of Castle,24,399,87.14
-389,Iron Island,8,399,3.99
-390,run_4xerhul,6,399,7.74
-391,BackToBasics,15,398,25.2
-392,Toadsquad,11,396,20.01
-393,The Swamp,15,396,87.73
-394,Koule 17,21,395,61.45
-395,Aim 2.0,24,394,48.93
-396,Dynamic,21,394,51.38
-397,run_the_rock,4,394,10.92
-398,GenericRush1,18,394,25.96
-399,Explosive,12,393,55.11
-400,Zadrotos 3,12,392,58.13
-401,Everlast,13,392,28.08
-402,Frats 5,12,389,26.95
-403,Cultist,20,389,12.98
-404,Resi,20,388,4.57
-405,Wasteland,21,385,53.96
+370,Myth,12,413,46.27
+371,Verification 3.5,8,413,0.5
+372,run_4mystery,4,413,5.92
+373,Excast 4,13,413,27.33
+374,Ultimatum 3,18,411,29.62
+375,Just deep fly,25,411,38.35
+376,Golden,11,410,19.69
+377,Fantabob,16,409,27.54
+378,Injection 2,25,408,33.21
+379,BackToBasics,15,406,25.44
+380,Karaboudjan 3,21,405,73.82
+381,Yoko 2.1,18,403,7.03
+382,Fucktastic,12,403,54.07
+383,Toadsquad,11,403,20.04
+384,Caution,11,402,28.57
+385,run_radioactive,6,402,4.14
+386,Flow,21,402,79.09
+387,Iron Island,8,401,3.99
+388,run_4xerhul,6,400,7.79
+389,WoFs,18,399,158.0
+390,Out of Castle,24,399,87.14
+391,The Swamp,15,399,87.73
+392,Explosive,12,397,55.11
+393,Dynamic,21,396,51.09
+394,run_the_rock,4,396,10.98
+395,Aim 2.0,24,395,48.28
+396,Koule 17,21,395,61.45
+397,Cultist,20,395,13.06
+398,Wasteland,21,394,53.15
+399,Everdeen,21,394,84.04
+400,The Tower,12,394,5.75
+401,GenericRush1,18,394,25.96
+402,Zadrotos 3,12,392,58.13
+403,Resi,20,389,4.57
+404,Uniswim,8,387,0.83
+405,FWYS Key 1,13,384,43.74
 406,Fallen Angel,12,384,16.72
-407,Yoko 2.1,18,382,6.85
-408,Verification 3.1,8,381,2.23
-409,FWYS Key 1,13,380,43.8
-410,The Tower,12,380,5.85
-411,Uniswim,8,380,0.82
-412,Aim 9.0,27,379,61.85
-413,Executive,20,379,79.7
-414,Notice 1,16,379,36.56
-415,DarkCore 3,12,377,29.93
-416,Templerun,20,377,20.64
-417,Dawn Of The 7th Day,21,376,50.82
-418,Speedster,8,376,0.54
-419,Everdeen,21,376,85.91
-420,ShotFF,8,375,1.68
-421,run_frosty,6,373,5.54
-422,Besbex,16,370,35.89
-423,Sonne, Mond und Sterne,11,370,35.58
-424,SL1,12,369,20.05
-425,Elitissimo,15,369,21.87
-426,Springlobe,24,368,56.38
-427,Forever,20,366,49.22
-428,Dummy 2,11,365,5.66
-429,Injection,25,363,28.38
-430,SkyLand,18,361,49.17
-431,Maranko,15,360,12.18
-432,Death Sentence,18,357,32.83
-433,NUT_hardcore_race5,12,356,24.49
-434,WoFs,18,355,162.57
-435,Confusion,20,355,69.91
-436,Aim 11.0,27,355,60.93
-437,Felian,15,355,23.58
-438,Spacetic,18,354,19.62
-439,NoMore! 3,21,354,82.0
-440,Acidate,18,354,37.05
-441,Lawliet,12,353,2.35
-442,run_not_short,6,352,8.45
-443,Aim 3.0,24,351,25.56
-444,Killstreak 2,12,347,0.82
-445,Drunk,12,347,18.9
-446,UpNDown3,12,347,25.71
-447,Burger,21,345,7.86
-448,Potty,21,345,77.93
-449,Allround2,12,344,2.0
-450,Back in Time,27,344,113.8
-451,ddrace_loop,12,343,48.25
-452,Next,16,342,38.97
-453,Run_Aim,6,342,18.74
-454,NUT Hardcore UNITED,12,341,116.76
-455,Hell Fly,16,341,15.52
-456,Slow Santa,11,341,40.22
-457,Ice,16,341,31.49
-458,Exalate,12,341,54.71
-459,Grand Shotgun,12,339,20.87
-460,Rocket Challenge,12,338,15.18
-461,Sacred Source,13,338,4.16
-462,Optimum,15,338,39.28
-463,run_spring,6,337,7.84
-464,claret-blue,18,336,23.82
-465,Lost 2,18,336,87.26
-466,Bubbles,13,335,65.0
-467,run_alboni,6,334,20.8
-468,Tvyn,18,333,30.78
-469,run_4lollipop,6,332,7.77
-470,Solo_Mietzcore,16,331,83.37
-471,4Four,21,331,131.38
-472,Divinum V2,16,331,37.4
-473,HearTcross,20,331,77.06
-474,Fly to the Legends 2,16,329,16.06
-475,Sunrice,15,328,42.94
-476,Lykeion,12,328,22.03
-477,Skyfly,16,328,25.47
-478,Black_City,20,327,51.71
-479,Broken space,12,327,15.31
-480,Synergy,12,326,74.64
-481,Eagle Race Compilation,12,326,49.03
-482,AK,13,326,67.03
-483,M&M,18,324,75.31
-484,BlackBear5,12,323,0.51
+407,Aim 9.0,27,382,61.49
+408,Executive,20,382,79.43
+409,Verification 3.1,8,382,2.23
+410,Dawn Of The 7th Day,21,380,51.09
+411,DarkCore 3,12,379,29.93
+412,Notice 1,16,379,36.56
+413,Templerun,20,377,20.61
+414,Speedster,8,376,0.54
+415,run_frosty,6,376,5.54
+416,ShotFF,8,375,1.68
+417,Springlobe,24,374,55.41
+418,Besbex,16,372,35.86
+419,Sonne, Mond und Sterne,11,371,35.56
+420,Forever,20,371,48.0
+421,SL1,12,370,20.08
+422,Elitissimo,15,370,21.87
+423,Maranko,15,367,12.38
+424,NoMore! 3,21,365,80.81
+425,Dummy 2,11,365,5.66
+426,Death Sentence,18,364,33.02
+427,Injection,25,363,28.28
+428,NUT_hardcore_race5,12,361,24.48
+429,SkyLand,18,361,49.17
+430,Aim 11.0,27,356,60.0
+431,Confusion,20,355,69.91
+432,Lawliet,12,355,2.35
+433,Felian,15,355,23.58
+434,Spacetic,18,354,19.62
+435,Acidate,18,354,37.05
+436,run_not_short,6,353,8.43
+437,Aim 3.0,24,352,25.56
+438,Drunk,12,351,18.9
+439,Killstreak 2,12,349,0.83
+440,UpNDown3,12,348,25.71
+441,Burger,21,347,7.83
+442,Slow Santa,11,347,39.51
+443,Allround2,12,347,1.99
+444,Potty,21,347,76.72
+445,Next,16,346,38.64
+446,Exalate,12,344,54.49
+447,Back in Time,27,344,113.8
+448,ddrace_loop,12,343,48.25
+449,Ice,16,343,31.49
+450,Rocket Challenge,12,342,15.18
+451,Run_Aim,6,342,18.74
+452,NUT Hardcore UNITED,12,341,116.76
+453,Hell Fly,16,341,15.52
+454,Grand Shotgun,12,341,20.87
+455,Sacred Source,13,340,4.16
+456,Bubbles,13,339,64.85
+457,Optimum,15,338,39.28
+458,run_spring,6,338,7.81
+459,HearTcross,20,337,77.0
+460,claret-blue,18,336,23.82
+461,Lost 2,18,336,87.26
+462,run_4lollipop,6,336,7.84
+463,Divinum V2,16,335,37.4
+464,run_alboni,6,335,20.76
+465,Tvyn,18,333,30.78
+466,Eagle Race Compilation,12,332,48.73
+467,Solo_Mietzcore,16,331,83.02
+468,Sadway,18,331,75.46
+469,4Four,21,331,131.38
+470,Black_City,20,331,52.59
+471,In Da House,21,330,65.17
+472,Skyfly,16,330,25.3
+473,Fly to the Legends 2,16,329,16.03
+474,Sunrice,15,328,42.94
+475,Lykeion,12,328,22.03
+476,Broken space,12,328,15.36
+477,BlackBear5,12,327,0.5
+478,Synergy,12,326,74.64
+479,AK,13,326,67.03
+480,Short Sky,8,326,0.41
+481,M&M,18,324,75.31
+482,run_for_ghost,6,324,5.63
+483,Catch the Colors,12,324,38.96
+484,WALL-E T,12,323,9.3
 485,StrangeNight,12,322,29.52
-486,WALL-E T,12,322,9.32
-487,Short Sky,8,322,0.42
-488,run_for_ghost,6,321,5.61
-489,Grace,11,320,41.73
-490,Catch the Colors,12,320,39.59
-491,Sadway,18,319,76.24
-492,Firedelay,15,318,29.58
-493,In Da House,21,317,65.4
-494,Pink Sky,18,314,25.63
-495,Big Sun,21,312,34.85
-496,Level,11,312,44.07
-497,Plaza,18,312,53.15
-498,frustrainleave,6,311,20.68
-499,run_groove,6,311,3.92
-500,NUT_race8,8,311,13.54
-501,Extension 1.0,8,310,5.45
-502,Sounds,11,310,36.16
-503,Fender,13,310,37.34
-504,Repeat,12,309,26.02
-505,Pataros,25,309,13.09
-506,PurpleViolence,11,306,26.01
-507,Fly Around,21,303,40.47
-508,Stop Over 1.0,8,303,0.76
-509,Lockdown,27,301,105.23
-510,Verification 6.1,8,301,0.99
-511,2+2=green,12,300,1.31
-512,#wontfix,13,300,46.51
-513,Aim 8.0,27,300,68.64
-514,DeadCore 3,18,299,96.95
-515,Tibto,12,298,68.83
-516,Motherlode,13,298,31.65
-517,Tunak Tunak Tun,15,298,44.33
-518,Don't Panic,24,297,66.9
-519,Fox,18,297,8.39
-520,Lost,18,296,43.43
-521,run_harder_than_hard,6,296,14.67
-522,Kalimba,13,296,26.52
-523,Yoko 1.1,21,295,28.83
-524,Helena,18,294,45.53
-525,DawnOfDust,16,293,59.37
-526,Cemetery,18,293,18.22
-527,Arabic Night,18,293,26.28
-528,World of Magic,16,293,50.34
-529,Daghestan,12,290,2.65
-530,External,21,289,42.73
-531,I will be back,12,288,10.51
-532,run_4popo,6,288,24.21
-533,GetSpeed,8,288,3.98
-534,Chained,20,287,14.78
-535,Continuum,18,286,48.12
-536,Springlobe 2,27,285,111.19
+486,Firedelay,15,322,29.58
+487,Grace,11,320,41.73
+488,Fender,13,318,37.34
+489,Pink Sky,18,315,25.19
+490,run_groove,6,315,3.91
+491,Big Sun,21,314,34.32
+492,frustrainleave,6,314,20.67
+493,NUT_race8,8,314,13.54
+494,Extension 1.0,8,313,5.46
+495,Level,11,312,44.07
+496,Plaza,18,312,53.15
+497,Sounds,11,310,36.16
+498,Repeat,12,310,25.99
+499,Pataros,25,310,13.08
+500,PurpleViolence,11,308,26.01
+501,Fly Around,21,305,40.33
+502,DeadCore 3,18,304,95.84
+503,Verification 6.1,8,304,0.99
+504,Stop Over 1.0,8,304,0.76
+505,Aim 8.0,27,302,68.64
+506,Lockdown,27,302,104.92
+507,Tunak Tunak Tun,15,302,44.3
+508,#wontfix,13,301,46.41
+509,Helena,18,300,44.99
+510,2+2=green,12,300,1.31
+511,Tibto,12,298,68.83
+512,Motherlode,13,298,31.65
+513,Kalimba,13,298,26.45
+514,Fox,18,298,8.39
+515,Don't Panic,24,297,66.9
+516,run_harder_than_hard,6,297,14.68
+517,Dark Depth,20,297,25.17
+518,Lost,18,296,43.43
+519,World of Magic,16,296,50.7
+520,Daghestan,12,296,2.64
+521,Yun Gu 2,21,296,39.02
+522,Yoko 1.1,21,295,28.83
+523,Arabic Night,18,295,26.12
+524,DawnOfDust,16,293,59.37
+525,Cemetery,18,293,18.22
+526,Continuum,18,292,47.8
+527,GetSpeed,8,292,3.98
+528,External,21,290,42.73
+529,BlueRift,12,290,29.27
+530,run_4popo,6,289,24.22
+531,Chained,20,289,14.77
+532,I will be back,12,288,10.51
+533,chiseled,18,287,25.6
+534,Springlobe 2,27,285,111.19
+535,Topsy Turvy,13,285,42.47
+536,Time to Switch,21,285,79.78
 537,acan,15,284,42.49
-538,Excast 3,13,284,24.64
-539,Verification 3.4,12,284,2.14
-540,Dark Depth,20,284,24.98
+538,NoMore! 2,21,284,44.12
+539,Excast 3,13,284,24.64
+540,Verification 3.4,12,284,2.14
 541,Wave,24,283,87.73
-542,Topsy Turvy,13,283,42.67
-543,Time to Switch,21,283,79.79
-544,Yun Gu 2,21,283,38.85
-545,NoMore! 2,21,282,44.26
-546,Deadline 1,16,280,87.4
-547,Alpaga,12,280,40.55
-548,BlueRift,12,280,29.42
-549,The Joke,21,280,44.4
-550,Underwater,15,279,45.06
-551,chiseled,18,278,25.58
-552,Falling Star,18,278,89.03
-553,No Merci,13,277,40.14
-554,Hell's Castle,12,277,1.42
-555,MapleSyrup,15,276,39.17
-556,Flyppi,18,275,69.01
-557,SkyLand2,21,275,43.95
-558,Redemption,11,274,47.35
-559,Ultimatum 2,18,273,14.07
-560,At Night 2,27,271,86.71
-561,Grid,12,271,2.49
-562,Chill Let's Climb 3,8,269,42.17
-563,Impossible 3,12,268,27.8
-564,NoMore!,21,267,46.44
-565,RocketIsKey,12,267,14.5
-566,DayWalker,16,265,44.58
-567,Nirvana,18,265,83.6
-568,run_from_ice_to_grass,6,265,11.49
-569,Fishbone,13,264,23.12
-570,ROCKET-BELT,12,264,24.06
-571,Puzzle Box,8,263,2.85
-572,Onliner,20,262,4.49
+542,Underwater,15,283,44.3
+543,The Joke,21,282,44.38
+544,Alpaga,12,280,40.55
+545,No Merci,13,279,40.27
+546,Deadline 1,16,278,87.55
+547,Falling Star,18,278,89.03
+548,Hell's Castle,12,277,1.42
+549,Flyppi,18,277,69.68
+550,MapleSyrup,15,276,39.17
+551,SkyLand2,21,275,43.95
+552,Redemption,11,274,47.35
+553,Ultimatum 2,18,273,14.07
+554,Grid,12,273,2.49
+555,At Night 2,27,271,86.71
+556,RocketIsKey,12,271,14.54
+557,Puzzle Box,8,271,2.85
+558,Impossible 3,12,270,27.72
+559,run_from_ice_to_grass,6,269,11.56
+560,Chill Let's Climb 3,8,269,42.17
+561,Caldera,21,268,46.92
+562,DayWalker,16,267,44.58
+563,NoMore!,21,267,46.44
+564,Fishbone,13,266,23.27
+565,ROCKET-BELT,12,265,24.07
+566,Nirvana,18,265,83.6
+567,allthewayup,21,265,39.52
+568,Summer Hell,20,264,45.6
+569,ResidentSS,24,264,62.06
+570,Onliner,20,264,4.49
+571,Yoko 3.1,18,262,36.57
+572,Skyventure,20,262,22.17
 573,Cursed Treasure,21,261,63.62
 574,Weird Cave,12,261,15.07
-575,QuintessenZ,24,261,139.85
-576,allthewayup,21,261,39.76
-577,Skyventure,20,261,22.18
-578,All at the beginning,21,259,29.46
-579,Yoko 3.1,18,258,36.57
-580,NUT_hardcore_race6,12,256,35.52
-581,RockClimb,8,256,3.54
-582,Solo Power,8,256,1.51
-583,aled,24,256,26.25
+575,All at the beginning,21,261,29.55
+576,QuintessenZ,24,261,139.85
+577,aled,24,261,26.25
+578,Lost 3,18,259,73.96
+579,RockClimb,8,257,3.54
+580,Solo Power,8,257,1.51
+581,~AuTuMn~,16,256,43.11
+582,NUT_hardcore_race6,12,256,35.52
+583,Ultimatum 1,18,255,26.52
 584,experiment,12,255,21.41
-585,Ultimatum 1,18,255,26.52
-586,Caldera,21,255,46.88
-587,~AuTuMn~,16,254,43.42
-588,DarkMove,12,253,11.72
-589,Something,24,252,73.06
-590,Bumblebee,18,252,50.04
-591,Level Asian,24,249,75.29
-592,WSMS,8,248,1.54
-593,New Era,13,247,16.86
-594,Sabell,13,247,26.51
-595,JungleBee,12,247,2.12
+585,DarkMove,12,255,11.66
+586,New Era,13,254,16.53
+587,Something,24,252,73.06
+588,Bumblebee,18,252,50.04
+589,WSMS,8,250,1.54
+590,Level Asian,24,249,75.29
+591,Fluff 2,13,249,14.38
+592,Sabell,13,249,26.5
+593,SpeedCore,12,248,13.67
+594,JungleBee,12,248,2.13
+595,Volcano,16,247,27.57
 596,Reload 4,12,245,61.89
-597,Summer Hell,20,245,44.97
-598,Volcano,16,245,27.79
-599,Castaway,20,245,9.24
-600,SpeedCore,12,244,13.62
-601,Fluff 2,13,243,14.55
-602,Freeze Slow 4,12,242,50.0
-603,Desert Wolf,18,242,69.05
-604,TomorrowLand,25,241,16.37
-605,Gold Rush,20,239,41.0
-606,Cry,9,238,5.71
-607,run_shadow,8,238,7.83
-608,Lost 3,18,236,72.81
-609,Antrum,12,236,15.99
-610,Veni Vidi Vici,16,236,61.48
-611,Genericore 5,24,236,46.88
-612,Bush,18,235,11.07
-613,HDP_Gajos9,12,234,2.27
-614,Let's Swing,12,234,4.59
-615,Tetris,13,234,54.22
-616,Woader,20,232,27.06
-617,Full Moon,12,230,29.86
-618,Hard Way 1.0,16,230,22.21
-619,UpNDown2,12,230,12.79
-620,CrazyHOOD,16,229,38.71
-621,Alive,18,229,27.95
-622,run_out_jungle,6,229,10.88
-623,Amazing Drags,25,228,11.62
-624,nullptr.sg,12,228,12.42
-625,Just_Shotgun,16,226,3.4
-626,Victory 4,18,225,64.64
+597,Castaway,20,245,9.24
+598,Freeze Slow 4,12,242,50.0
+599,TomorrowLand,25,242,16.35
+600,Desert Wolf,18,242,69.05
+601,Gold Rush,20,241,40.79
+602,Bush,18,239,10.88
+603,Cry,9,238,5.71
+604,Veni Vidi Vici,16,238,61.54
+605,run_shadow,8,238,7.82
+606,HDP_Gajos9,12,237,2.27
+607,Antrum,12,237,16.03
+608,Genericore 5,24,236,46.88
+609,Let's Swing,12,234,4.59
+610,Tetris,13,234,54.22
+611,Alive,18,233,27.95
+612,Woader,20,232,27.06
+613,UpNDown2,12,232,12.89
+614,Back in the days 3,24,232,106.56
+615,run_out_jungle,6,231,10.91
+616,Full Moon,12,230,29.86
+617,Hard Way 1.0,16,230,22.21
+618,CrazyHOOD,16,229,38.71
+619,nullptr.sg,12,229,12.39
+620,Amazing Drags,25,228,11.62
+621,Just_Shotgun,16,226,3.39
+622,The Ultimate Rainbow,12,226,38.14
+623,Victory 4,18,225,64.64
+624,Ironprison,18,225,72.09
+625,mmips,18,225,22.44
+626,Skyisland3,16,225,47.37
 627,Difficult 2.2,16,224,62.93
-628,ResidentSS,24,224,63.56
-629,mmips,18,223,22.42
+628,Rema,18,223,42.45
+629,WoodDivision V,27,223,86.12
 630,Reload 3,18,222,46.2
 631,Dust,18,222,41.76
-632,Skyisland3,16,222,47.1
-633,WoodDivision V,27,221,89.63
-634,The Ultimate Rainbow,12,221,38.13
-635,Back in the days 3,24,220,107.84
-636,Jailbreak 4,12,219,34.2
-637,Jailbreak 7,18,219,51.96
-638,Lost Story 2,21,218,60.0
-639,Karaboudjan,21,218,57.43
-640,Into the Wild,24,218,107.72
-641,Jazz Hands,20,216,23.82
-642,Propagate,8,215,2.93
-643,run_skizz_loop1200,6,215,9.28
-644,Paranormal,12,214,64.09
-645,BrokenBlack-1,20,212,24.72
-646,Ice Cave 2,13,211,76.5
-647,Croissant,12,211,10.27
-648,run_alkohol,6,211,5.07
-649,run_skizzrettex,8,211,13.42
-650,Genericore 1,24,209,55.04
-651,SavannaDrag 2,20,209,5.69
-652,Bizarre Untold,27,209,99.77
+632,Into the Wild,24,220,107.72
+633,Gloomy Den,24,220,183.21
+634,Jailbreak 4,12,219,34.2
+635,Jailbreak 7,18,219,51.96
+636,Jazz Hands,20,219,23.58
+637,Lost Story 2,21,218,60.0
+638,Karaboudjan,21,218,57.43
+639,Propagate,8,217,2.95
+640,run_skizz_loop1200,6,215,9.28
+641,Paranormal,12,214,64.09
+642,Rockita,16,214,45.27
+643,BrokenBlack-1,20,212,24.72
+644,Ice Cave 2,13,211,76.5
+645,Croissant,12,211,10.27
+646,SavannaDrag 2,20,211,5.69
+647,run_alkohol,6,211,5.07
+648,run_skizzrettex,8,211,13.42
+649,Bizarre Untold,27,211,98.61
+650,SavannaDrag,20,210,8.58
+651,Genericore 1,24,209,55.04
+652,Victory 1,24,208,51.12
 653,Movement I,16,208,26.21
-654,SavannaDrag,20,206,8.7
-655,Rockita,16,206,45.27
+654,Runaway,24,206,101.34
+655,Dodge,12,206,8.81
 656,Genereatron,24,206,77.97
 657,Hillside,24,205,65.77
-658,Runaway,24,204,101.34
-659,Humpalumpa 1,13,203,44.85
-660,Genericore 2,24,203,53.51
-661,Last Jump,12,203,13.84
-662,Picklock,20,203,71.86
-663,Doreos,18,202,22.47
-664,Rema,18,202,42.29
-665,DeepEdge,12,202,6.88
-666,Just Ragequit,24,202,57.23
-667,Journey Man,27,201,121.67
-668,Somewhere in the Sky,12,201,24.92
-669,Victory 1,24,200,51.36
-670,Golden_Evening,12,200,2.58
-671,Jajka,20,200,35.9
-672,Dodge,12,200,8.93
-673,The Sewer,24,199,72.19
-674,Reckless,21,198,6.19
-675,Fluke,21,198,23.6
-676,Paradise & Hell,18,197,63.92
-677,Cloud Nine,16,197,36.86
-678,Dreamland,20,197,23.97
-679,Partenack,16,196,26.55
-680,Revival,24,196,95.73
-681,Reload 2,18,195,50.78
-682,DarkCore 1,12,195,29.23
+658,Last Jump,12,205,13.84
+659,Epic-Fail,21,203,14.54
+660,Golden_Evening,12,203,2.59
+661,Humpalumpa 1,13,203,44.85
+662,Genericore 2,24,203,53.51
+663,Picklock,20,203,71.86
+664,DeepEdge,12,203,6.88
+665,Alaska,12,203,46.33
+666,DarkCore 1,12,202,28.07
+667,Doreos,18,202,22.47
+668,Just Ragequit,24,202,57.23
+669,Reload 2,18,201,50.69
+670,Journey Man,27,201,121.67
+671,Cloud Nine,16,201,36.72
+672,Somewhere in the Sky,12,201,24.92
+673,Jajka,20,200,35.9
+674,The Sewer,24,199,72.19
+675,Partenack,16,198,26.98
+676,Reckless,21,198,6.19
+677,Fluke,21,198,23.6
+678,Paradise & Hell,18,197,63.92
+679,Dreamland,20,197,23.99
+680,Jailbreak 5,18,196,63.02
+681,Space,16,196,39.12
+682,Revival,24,196,95.73
 683,AIB Quest 1,12,194,13.99
-684,Space,16,194,39.18
-685,Sky Stone,13,194,55.2
-686,Alaska,12,194,46.33
-687,Epic-Fail,21,193,14.43
+684,Sky Stone,13,194,55.2
+685,Blizzard!,20,193,90.51
+686,Wour Forlds,27,193,53.32
+687,LaserTag,12,193,18.48
 688,Space & Time,21,190,34.57
-689,LaserTag,12,190,18.51
-690,Roaming,24,189,51.4
+689,Roaming,24,189,51.4
+690,Tough,21,189,24.78
 691,VeryLow2,16,189,32.6
 692,Hardcore 6,24,188,42.02
-693,Ironprison,18,188,70.38
-694,Tough,21,188,25.5
-695,whatever,16,188,23.72
-696,Wour Forlds,27,188,51.9
-697,Multivitamin,16,186,59.99
-698,Maximum speed,12,186,27.93
-699,Freezejump,12,186,1.53
-700,Aufnahmetest 2,12,185,5.18
-701,Jailbreak 5,18,183,64.23
-702,Ice Cave 1,13,183,88.48
-703,Increase,30,183,75.0
-704,Chaos 3,16,181,27.18
-705,run_inset_into_the_light,6,181,13.03
+693,whatever,16,188,23.72
+694,Maximum speed,12,187,27.77
+695,Day One,15,186,39.52
+696,Multivitamin,16,186,59.99
+697,Freezejump,12,186,1.53
+698,Aufnahmetest 2,12,185,5.18
+699,Dreadful,16,184,82.82
+700,KeepOut,16,184,27.57
+701,Ice Cave 1,13,183,88.48
+702,Increase,30,183,75.0
+703,Chaos 3,16,181,27.18
+704,run_inset_into_the_light,6,181,13.03
+705,Ravillion,38,181,55.92
 706,Zadrotos 4,18,180,54.18
-707,Dreadful,16,180,83.22
-708,Day One,15,180,39.52
-709,KeepOut,16,180,27.57
-710,Samdragaline,20,180,17.82
-711,Destiny 3,24,178,53.55
+707,Samdragaline,20,180,17.82
+708,Provence,8,180,1.93
+709,Destiny 3,24,178,53.55
+710,Franky's Adventure,24,178,49.05
+711,Around the Globe,16,178,85.91
 712,Ray - 2,13,178,15.97
 713,Genericore 4,21,178,80.08
 714,run_keksi,6,178,18.58
 715,Nettex,12,177,2.74
-716,Blizzard!,20,177,93.17
-717,Franky's Adventure,24,176,48.4
-718,Logics,21,176,107.28
-719,Nightly Tandem,21,176,37.08
+716,Genericore 3,24,177,77.33
+717,Logics,21,176,107.28
+718,Nightly Tandem,21,176,37.08
+719,Energie,16,175,28.1
 720,Think! 2,16,175,42.29
-721,run_painted,8,175,5.75
+721,run_painted,8,175,5.74
 722,drg5,15,175,3.51
-723,Provence,8,175,1.92
+723,balega,15,175,7.24
 724,Just Triple Fly,27,174,28.64
 725,Black&White,24,174,6.14
 726,MoonPie,11,173,21.77
 727,Baber,18,173,88.06
-728,Genericore 3,24,173,78.14
-729,Energie,16,173,28.09
-730,Threesome,24,172,113.5
-731,Journey,21,170,52.4
-732,blur,18,170,5.94
-733,Ravillion,38,170,54.26
-734,Around the Globe,16,169,85.7
+728,minion,15,173,24.73
+729,Threesome,24,172,113.5
+730,Hardcore 12,21,172,64.09
+731,blur,18,172,5.97
+732,Journey,21,170,52.4
+733,run_inset_into_the_heavy_jungle,8,170,26.81
+734,Fried,15,169,39.02
 735,CHILLUMINATI,12,169,0.94
 736,Zadrotos_final,18,169,69.89
 737,Adrenaline,27,168,101.91
-738,ghbdtn,16,168,27.29
-739,Hardcore 12,21,168,64.09
-740,balega,15,168,7.13
-741,Fried,15,167,39.16
-742,minion,15,167,24.73
-743,Draxut,20,167,14.19
-744,Green Agony,18,166,34.45
-745,2Long,12,166,10.71
-746,SavannaDrag 3,20,165,7.23
-747,run_inset_into_the_heavy_jungle,8,164,27.62
-748,Desert Dog,15,164,3.84
-749,Zadrotos 5,18,162,87.85
-750,Gloomy Den,24,162,177.6
-751,Chinatown,27,160,65.92
-752,Chaos 4,16,160,31.57
-753,run_2Rockets,8,159,14.07
-754,run_galaxy,8,158,19.01
-755,Hardstyle 4,24,157,41.88
-756,It's Time,12,157,2.79
-757,Sleepy 2,24,156,50.22
-758,Genericore 7,24,156,51.27
-759,Stacked,20,155,9.99
-760,Gigabyte,12,154,3.1
-761,Perfect World,18,153,16.95
-762,Spaceman,12,153,10.33
+738,SavannaDrag 3,20,168,7.29
+739,ghbdtn,16,168,27.29
+740,Draxut,20,167,14.19
+741,Green Agony,18,166,34.45
+742,TryHard,27,166,114.02
+743,2Long,12,166,10.71
+744,Desert Dog,15,165,3.86
+745,Stacked,20,163,10.71
+746,Zadrotos 5,18,162,87.85
+747,Chinatown,27,160,65.92
+748,Chaos 4,16,160,31.57
+749,run_2Rockets,8,159,14.04
+750,run_galaxy,8,158,19.01
+751,Spaceman,12,158,10.29
+752,Hardstyle 4,24,157,41.88
+753,It's Time,12,157,2.79
+754,Insane,20,157,66.22
+755,Sleepy 2,24,156,50.22
+756,Perfect World,18,156,16.95
+757,Genericore 7,24,156,51.27
+758,Gigabyte,12,155,3.14
+759,DeepDrag,30,154,63.25
+760,Ntumba,16,153,52.22
+761,Outlet,20,153,49.3
+762,Anim,25,153,2.84
 763,Cocaine,20,152,33.0
-764,Anim,25,152,2.84
-765,Insane,20,151,66.58
-766,Outlet,20,151,48.31
-767,run_escape_the_darkness,8,151,11.98
-768,DeepDrag,30,150,62.7
-769,Black & Red,16,149,83.99
-770,Verification 7.2,12,148,2.37
-771,Pentamine,27,148,63.07
-772,Ntumba,16,147,52.22
-773,Limba,24,147,62.98
-774,Intermediate,27,147,31.59
-775,MonkeyStyle,24,146,89.19
-776,Blue Hell,20,145,18.79
-777,Uzmutulunculunbé,24,145,24.15
-778,run_skizz_keres,8,145,21.43
-779,Cucumber,24,144,51.61
-780,aled II,27,144,23.39
-781,-JustDoIt-,24,143,87.41
-782,PurpleHeaven,15,143,32.23
-783,Crooked Mind,16,142,23.25
-784,yoshiloop,8,142,13.18
-785,The Uns,18,141,37.87
-786,The Joke 2,21,141,67.4
-787,TryThis,24,141,32.94
-788,Aftermath,13,139,14.1
+764,run_escape_the_darkness,8,151,11.98
+765,Pentamine,27,150,63.07
+766,Black & Red,16,149,83.99
+767,Blue Hell,20,149,18.79
+768,Intermediate,27,149,31.16
+769,Verification 7.2,12,148,2.37
+770,MonkeyStyle,24,148,89.19
+771,-JustDoIt-,24,147,87.41
+772,Limba,24,147,62.98
+773,Cucumber,24,147,51.54
+774,Uzmutulunculunbé,24,147,24.15
+775,aled II,27,146,23.39
+776,Aftermath,13,145,14.36
+777,run_skizz_keres,8,145,21.43
+778,PurpleHeaven,15,145,32.31
+779,Toe Taps,20,143,9.12
+780,sense,13,142,14.33
+781,Autumn Sky,12,142,7.64
+782,Crooked Mind,16,142,23.25
+783,yoshiloop,8,142,13.15
+784,The Uns,18,141,37.87
+785,The Joke 2,21,141,67.4
+786,TryThis,24,141,32.94
+787,Danceoff,24,140,68.31
+788,Crimson,24,139,78.14
 789,Journey Man 2,27,139,152.72
 790,Anoteex,12,139,35.2
-791,Autumn Sky,12,138,7.64
+791,Jaw'Eld,24,138,40.0
 792,Cold Jungle,24,138,25.35
-793,Toe Taps,20,138,8.77
-794,Crimson,24,137,78.14
-795,Imagination3,20,137,71.06
-796,TryHard,27,136,102.58
-797,Jaw'Eld,24,136,40.27
-798,combo,12,136,2.27
-799,sense,13,135,14.42
-800,nore,20,135,2.42
-801,Dynasty,12,134,21.57
-802,Easy Way,16,133,10.66
-803,DarkRoad,15,133,34.41
-804,Plocky,8,133,2.49
-805,Caldera 2,24,132,55.53
-806,Valley,27,131,64.66
-807,run_4xerhul2,8,131,52.55
-808,Verification 3.8,12,131,1.83
-809,Zephronikon,16,130,58.0
-810,DarkCore 2,12,129,26.93
-811,Time Eater,21,129,47.74
-812,Destiny 1,24,128,81.55
-813,Destiny 2,24,128,58.36
-814,AIB Quest 2,12,128,21.55
-815,Rockstar,27,128,150.94
-816,Beachmap,16,128,83.43
-817,complic,21,127,13.23
-818,Dry Valley,27,127,78.59
-819,Sunburst,16,127,2.27
-820,noro,20,127,3.12
-821,Ephemeral,8,127,1.23
-822,At Sundown,27,126,127.01
-823,Duodecimo,12,126,22.29
-824,Anoix,27,126,174.08
-825,Highlife,24,126,19.18
-826,Binary,34,126,249.87
-827,Qwertz,18,125,21.66
-828,Frozen,24,125,18.77
-829,SkyIsland,16,125,55.42
-830,run_hard_hundred,8,125,71.48
-831,Difficult 1.2,16,124,61.83
-832,Elo-Hell,16,124,14.06
-833,Goldshire,24,124,41.96
-834,FreeDoom,18,123,58.02
-835,Endgame,18,123,50.86
-836,Dels 3,16,123,60.64
-837,Cya Nerd,21,122,42.8
-838,Intense 3.0,21,122,33.59
-839,Skepsis,12,122,3.16
-840,Sleepy,21,121,38.38
-841,Valley 2,24,121,59.93
-842,Fly out of hell,20,120,61.95
-843,Arcadian,21,120,56.44
-844,Illusion,12,119,60.57
-845,Awayza,12,119,24.28
-846,Verification 7.1,12,118,1.17
-847,Guhimbarwa,15,118,39.42
-848,Elumite,21,117,51.54
-849,Push it 2,12,117,10.5
-850,Double Dragin,24,117,71.75
-851,run_golden_toilet,8,116,11.73
-852,Danceoff,24,116,62.82
-853,Verification 3.9,12,114,4.13
-854,GetSpeed2,12,114,9.65
-855,Arcadian 2,24,114,71.72
+793,Imagination3,20,137,71.06
+794,Dynasty,12,137,21.48
+795,combo,12,136,2.22
+796,nore,20,136,2.41
+797,Endgame,18,135,50.94
+798,Zephronikon,16,135,58.27
+799,DarkRoad,15,135,34.41
+800,Plocky,8,134,2.49
+801,Highlife,24,134,18.62
+802,Caldera 2,24,132,55.53
+803,Binary,34,132,249.87
+804,Valley,27,131,64.66
+805,run_4xerhul2,8,131,52.55
+806,Verification 3.8,12,131,1.83
+807,Ephemeral,8,131,1.23
+808,complic,21,130,13.41
+809,AIB Quest 2,12,130,21.29
+810,SkyIsland,16,130,55.21
+811,DarkCore 2,12,129,26.93
+812,Time Eater,21,129,47.74
+813,Destiny 1,24,128,81.55
+814,Destiny 2,24,128,58.36
+815,Duodecimo,12,128,22.29
+816,Rockstar,27,128,150.94
+817,Sunburst,16,128,2.28
+818,Beachmap,16,128,83.43
+819,Elo-Hell,16,128,14.06
+820,Difficult 1.2,16,127,61.89
+821,Dry Valley,27,127,78.59
+822,Dels 3,16,127,61.74
+823,noro,20,127,3.12
+824,At Sundown,27,126,127.01
+825,Intense 3.0,21,126,33.59
+826,Anoix,27,126,174.08
+827,run_hard_hundred,8,126,71.53
+828,Qwertz,18,125,21.66
+829,Frozen,24,125,18.77
+830,Cya Nerd,21,124,42.63
+831,Goldshire,24,124,41.96
+832,FreeDoom,18,123,58.02
+833,Skepsis,12,123,3.17
+834,Arcadian 2,24,122,77.8
+835,Sleepy,21,121,38.38
+836,Illusion,12,121,58.82
+837,Valley 2,24,121,59.93
+838,Double Dragin,24,121,75.5
+839,Fly out of hell,20,120,60.72
+840,Awayza,12,120,23.81
+841,Arcadian,21,120,56.44
+842,Push it 2,12,120,10.85
+843,Verification 7.1,12,119,1.17
+844,Guhimbarwa,15,118,39.42
+845,Elumite,21,117,51.54
+846,Day,20,116,43.6
+847,run_golden_toilet,8,116,11.73
+848,Heraconx,12,115,11.84
+849,SavannaDrag 4,25,115,5.44
+850,GetSpeed2,12,115,9.69
+851,Verification 3.9,12,114,4.13
+852,Lucifer,21,114,33.89
+853,ThereIsNoTruth,15,114,27.99
+854,Day Two,15,114,28.27
+855,Jungledread,21,113,78.89
 856,Fly to the Legends,20,113,40.67
-857,Heraconx,12,113,11.88
-858,Lucifer,21,112,34.02
-859,ThereIsNoTruth,15,112,28.16
-860,SavannaDrag 4,25,112,5.44
-861,Day Two,15,112,28.0
-862,The Way to the Hell,24,112,117.8
-863,Dead Darkness,24,111,19.26
-864,Jungledread,21,111,77.64
-865,GLL,12,111,3.27
-866,Disco,24,110,54.18
-867,Hardcore 8,24,110,39.51
-868,Dark Descent,27,110,185.82
-869,Hermit,12,109,2.18
-870,Interlude 2,24,108,75.82
-871,Kassin,21,108,41.04
-872,Enchanted,21,108,109.44
-873,Spiders,12,108,5.17
-874,DuNoMa,20,108,15.11
-875,EaSy_HarD 4,18,108,37.99
-876,superway,24,107,81.18
-877,Imagination,12,107,19.49
-878,Narcissistic,24,107,9.67
-879,Analyzer,30,106,41.12
-880,Mystic River,24,106,42.57
-881,Apathy,27,105,91.68
-882,Deadline 2,16,104,39.6
-883,The Cursed Night,27,104,130.18
-884,The Fusion,27,104,25.32
-885,The Dream,24,104,36.68
-886,run_blood_thirst,8,104,30.84
-887,Agony,27,103,119.53
-888,Day,20,103,41.34
-889,Thomas,12,103,2.38
-890,run_get50,8,103,74.64
-891,Verification 6.2,12,103,1.6
-892,Aurora,25,102,16.96
-893,Stop Over 3.0,8,102,0.41
-894,Reason,27,101,35.52
-895,Furypleasure,21,101,8.98
-896,Nightmare,16,100,88.98
-897,Victory 5,24,100,67.91
-898,Space Climb,16,99,7.4
-899,Verification 3.7,12,98,2.08
-900,run_three,8,98,12.94
-901,Mystical Island,24,98,106.02
-902,run_hard_hell,8,97,60.37
-903,JustGeneric,27,97,24.5
-904,ZooDrag,25,97,12.23
-905,Momentum,20,97,1.47
-906,Therapy,20,96,132.84
-907,FLAP,18,95,54.43
-908,Masquerade,16,95,113.99
-909,Repentance,20,95,10.98
-910,DarkEagle,12,95,5.26
-911,DeadCore 2,24,92,68.53
-912,Adrenaline 2,27,92,89.56
-913,Adrenaline 3,20,92,115.09
-914,Mines of Fear,21,92,30.35
-915,Best Of,20,92,47.59
-916,Cave Fly,16,92,21.57
-917,Tropical Island,24,91,79.96
-918,Noh,16,91,2.83
-919,Yee,25,91,36.53
-920,Embrace,16,91,23.83
-921,Chaos 1,16,90,49.12
+857,GLL,12,112,3.3
+858,The Way to the Hell,24,112,117.8
+859,Dead Darkness,24,111,19.26
+860,Disco,24,110,54.18
+861,Hardcore 8,24,110,39.51
+862,Dark Descent,27,110,185.82
+863,Hermit,12,110,2.22
+864,Imagination,12,109,18.7
+865,Spiders,12,109,5.19
+866,Interlude 2,24,108,75.82
+867,Kassin,21,108,41.04
+868,Enchanted,21,108,109.44
+869,DuNoMa,20,108,15.11
+870,EaSy_HarD 4,18,108,37.99
+871,superway,24,107,81.18
+872,Analyzer,30,107,41.12
+873,Agony,27,107,123.96
+874,Narcissistic,24,107,9.67
+875,Apathy,27,106,91.68
+876,Mystic River,24,106,42.57
+877,run_blood_thirst,8,105,30.88
+878,Deadline 2,16,104,39.6
+879,The Cursed Night,27,104,130.18
+880,The Fusion,27,104,25.32
+881,The Dream,24,104,36.68
+882,Stop Over 3.0,8,104,0.4
+883,Thomas,12,103,2.38
+884,run_get50,8,103,74.64
+885,Verification 3.7,12,103,2.08
+886,Verification 6.2,12,103,1.6
+887,Kovcheg,12,103,65.6
+888,Aurora,25,102,16.96
+889,Reason,27,101,35.52
+890,Furypleasure,21,101,8.98
+891,Victory 5,24,100,67.91
+892,Nightmare,16,100,88.98
+893,Space Climb,16,99,7.4
+894,run_three,8,98,12.94
+895,Mystical Island,24,98,106.02
+896,ZooDrag,25,98,12.28
+897,run_hard_hell,8,97,60.37
+898,JustGeneric,27,97,24.5
+899,Repentance,20,97,10.98
+900,Momentum,20,97,1.47
+901,Adrenaline 3,20,96,116.33
+902,Best Of,20,96,47.4
+903,Therapy,20,96,132.84
+904,DarkEagle,12,96,5.28
+905,A Strange Dream,21,96,44.37
+906,FLAP,18,95,54.43
+907,Masquerade,16,95,113.78
+908,DeadCore 2,24,94,68.44
+909,Adrenaline 2,27,94,89.2
+910,Difficult 1.3,20,92,83.15
+911,Mines of Fear,21,92,30.35
+912,Noh,16,92,2.82
+913,Cave Fly,16,92,21.57
+914,Embrace,16,92,24.0
+915,Uncharted,24,91,31.06
+916,Tropical Island,24,91,79.96
+917,Yee,25,91,36.53
+918,Where am I,12,91,1.99
+919,Sparadrap,8,91,3.47
+920,Chaos 1,16,90,49.12
+921,Triplecan,16,90,3.51
 922,The Rapture,30,90,133.0
 923,Flamara,12,90,7.76
-924,Where am I,12,90,1.95
-925,A Strange Dream,21,89,43.21
-926,Difficult 1.3,20,88,82.2
-927,Triplecan,16,88,3.52
-928,Sparadrap,8,88,3.45
-929,4s,30,87,77.95
-930,To the moon,24,86,3.93
-931,Nyanpasu,21,86,34.32
-932,Childs Play 1,21,86,60.81
-933,Espace,24,86,70.57
-934,Natura,20,85,68.99
-935,SolarStrike,24,84,37.83
-936,Winter Is Coming,27,84,117.01
-937,GenericDrag,25,84,4.23
-938,The Joke 3,21,84,72.88
-939,nora,25,84,4.37
-940,-SKY IVLAND-,21,83,115.81
-941,Stereotype 1,18,83,54.41
-942,Shotsky,12,83,2.24
-943,Shock Value,21,83,23.05
-944,Uncharted,24,82,31.06
-945,Lawrence,16,82,26.19
-946,Generic World,34,82,392.32
-947,Intercepter,18,82,98.48
-948,Hardstyle 3,24,81,61.84
-949,Goldfield,27,81,37.57
-950,Moonstone,21,81,19.35
-951,Day 'n' Night,27,81,69.78
-952,Regen 3,27,81,76.21
-953,Kabarda,21,81,29.0
-954,Lil Jungle,24,79,7.64
-955,Desert Mine,12,79,3.88
-956,Loopie,8,79,1.45
-957,Aufnahmetest 3,12,78,2.31
-958,Ulver,20,78,23.74
-959,brainduck,21,78,47.51
-960,Difficult 2.3,20,77,91.91
-961,Apex2,21,77,30.63
-962,DarkSpy,30,77,21.49
-963,Poke,16,77,13.79
-964,Ultranova,27,77,78.67
-965,Ecstasy,27,76,79.78
-966,Skill Rises,27,76,65.73
-967,New World,24,76,50.25
-968,Pink Destiny,24,75,5.08
-969,Fiasko,27,74,52.88
-970,Skywalk,24,74,74.41
-971,Stones,21,74,62.33
-972,Insane 2,20,73,82.01
-973,Deserted,27,72,37.38
-974,Run into the light,24,72,12.21
-975,Cosyris,24,72,81.15
-976,Castoreum,12,72,42.9
-977,Agile,12,72,1.01
-978,Regen,24,71,53.54
-979,TheWalkingDead,20,71,47.65
-980,#MegaRosenkohl,20,71,61.57
-981,Genericore 6,34,71,57.66
-982,Grind,16,71,14.82
-983,Alone Together 1.0,24,69,28.41
-984,LowPossibility3.1,20,69,98.03
-985,Enormous,16,69,3.45
-986,DarkCore 4,24,68,24.49
-987,Microlity,16,68,7.46
-988,Fade,24,68,38.89
-989,Interlude,24,67,112.02
-990,Atomic,30,67,117.33
+924,4s,30,87,77.95
+925,Natura,20,86,67.12
+926,To the moon,24,86,3.93
+927,Nyanpasu,21,86,34.32
+928,Childs Play 1,21,86,60.81
+929,Espace,24,86,70.57
+930,-SKY IVLAND-,21,85,115.81
+931,SolarStrike,24,84,37.83
+932,Winter Is Coming,27,84,117.01
+933,Regen 3,27,84,72.31
+934,GenericDrag,25,84,4.23
+935,Shotsky,12,84,2.26
+936,The Joke 3,21,84,72.88
+937,nora,25,84,4.37
+938,Stereotype 1,18,83,54.41
+939,Shock Value,21,83,23.05
+940,Lawrence,16,82,26.19
+941,Generic World,34,82,392.32
+942,Intercepter,18,82,98.48
+943,Hardstyle 3,24,81,61.84
+944,Goldfield,27,81,37.57
+945,Moonstone,21,81,19.35
+946,Day 'n' Night,27,81,69.78
+947,Kabarda,21,81,29.0
+948,Desert Mine,12,80,3.84
+949,Loopie,8,80,1.43
+950,Lil Jungle,24,79,7.64
+951,DarkSpy,30,79,21.49
+952,Ulver,20,79,23.69
+953,Jailbreak 6,18,78,33.35
+954,Aufnahmetest 3,12,78,2.31
+955,brainduck,21,78,47.51
+956,Difficult 2.3,20,77,91.91
+957,Ecstasy,27,77,79.78
+958,Apex2,21,77,30.63
+959,Poke,16,77,13.79
+960,Ultranova,27,77,78.67
+961,Skill Rises,27,76,65.73
+962,New World,24,76,50.25
+963,Castoreum,12,76,42.73
+964,Pink Destiny,24,75,5.08
+965,Fiasko,27,74,52.88
+966,Skywalk,24,74,74.41
+967,Stones,21,74,62.33
+968,Insane 2,20,73,82.01
+969,Agile,12,73,1.01
+970,combo II,12,73,2.92
+971,Deserted,27,72,37.38
+972,#MegaRosenkohl,20,72,61.57
+973,Run into the light,24,72,12.21
+974,Cosyris,24,72,81.15
+975,Regen,24,71,53.54
+976,TheWalkingDead,20,71,47.65
+977,Genericore 6,34,71,57.66
+978,Grind,16,71,14.82
+979,Alone Together 1.0,24,69,28.41
+980,Microlity,16,69,7.46
+981,Venture 2,27,69,7.87
+982,LowPossibility3.1,20,69,98.03
+983,Enormous,16,69,3.45
+984,DarkCore 4,24,68,24.49
+985,Fade,24,68,38.89
+986,Eternity,16,68,4.98
+987,Interlude,24,67,112.02
+988,Atomic,30,67,117.33
+989,Eclipse,20,67,50.62
+990,HardcoreZ,20,67,96.02
 991,Last Chance,18,67,62.3
 992,Quick,8,67,2.95
-993,Back in Time 2,42,67,187.03
-994,Delirious,30,66,148.0
-995,Eruption,12,66,29.52
-996,4u,42,66,305.72
-997,Nincorn,20,66,11.54
-998,Venture 2,27,65,7.87
-999,Divergence,24,65,84.11
-1000,City of Death,24,65,59.92
-1001,Verification 3.6,16,65,4.03
-1002,Handifly,30,65,57.01
-1003,Elitist,24,64,61.93
-1004,Red Hell,20,64,70.06
-1005,likeOldschool,30,64,19.21
-1006,run_shutter,8,64,31.39
-1007,Jelly,20,64,7.69
-1008,Skychase 2,20,64,17.25
-1009,Verification 9.1,16,63,2.03
-1010,Atmosphere,12,63,5.08
-1011,Eclipse,20,63,50.13
-1012,Eternity,16,63,5.02
+993,Nincorn,20,67,11.61
+994,Back in Time 2,42,67,187.03
+995,Skychase 2,20,67,17.29
+996,Delirious,30,66,148.0
+997,Eruption,12,66,29.52
+998,4u,42,66,305.72
+999,Elitist,24,65,60.86
+1000,Divergence,24,65,84.11
+1001,City of Death,24,65,59.92
+1002,Verification 3.6,16,65,4.03
+1003,Handifly,30,65,57.01
+1004,Shockwave,34,65,134.86
+1005,Jelly,20,65,7.79
+1006,Red Hell,20,64,70.06
+1007,likeOldschool,30,64,19.21
+1008,Atmosphere,12,64,5.09
+1009,run_shutter,8,64,31.39
+1010,Verification 9.1,16,63,2.03
+1011,Canyon,12,63,12.51
+1012,Adragaline,30,62,3.41
 1013,run_2rocketstwo,10,62,9.86
-1014,Adragaline,30,61,3.4
+1014,Lamb,16,61,8.89
 1015,Aimazing,34,61,87.26
 1016,DarkWorld,25,61,11.96
-1017,Shockwave,34,61,135.24
-1018,Canyon,12,61,12.39
-1019,Victory 2,24,60,59.03
-1020,Honkstar,16,60,13.96
-1021,AIB Quest 4,12,60,6.91
-1022,Dark Side,27,59,30.1
-1023,Mirai,30,59,36.67
-1024,Inspire,20,59,58.51
-1025,Unbalanced,21,59,44.34
-1026,Justice,34,58,86.27
-1027,Baguette,24,58,94.63
-1028,Jailbreak 6,18,58,30.7
-1029,Generic Hell 2,30,58,159.84
-1030,Lamb,16,58,8.91
-1031,Sunburst2,16,58,2.27
-1032,Ton,34,58,37.97
-1033,DeadCore 1,24,57,81.15
-1034,Fahrenheit,24,57,48.75
-1035,Tatooine,30,57,130.22
-1036,Injection 3,30,57,42.34
-1037,Fever,21,56,36.49
-1038,Rocky Horror Fly,27,56,4.61
-1039,supernice,20,55,104.85
-1040,Failable,27,55,32.36
-1041,Rampage,16,54,34.57
-1042,miA,30,54,3.97
-1043,Heartcore,42,54,58.06
-1044,Is it Real,27,53,61.27
-1045,Sequite,24,53,9.28
-1046,HardcoreZ,20,52,87.59
-1047,Damage,24,51,80.66
-1048,HellCore,38,50,86.0
-1049,First Try,27,49,6.32
-1050,Adrenaline 4.1,34,49,86.53
-1051,Triple Kill,24,49,60.97
-1052,combo II,12,49,3.01
-1053,New Generation,38,48,132.83
-1054,Inception,24,47,100.44
-1055,Birinci,16,47,10.52
-1056,HyperEdge,16,47,2.1
-1057,Yo'Ci,34,47,43.73
-1058,Synesthesia,27,47,51.95
-1059,Madrigal,21,47,21.66
-1060,Shortgun,16,46,2.97
-1061,Victory 3,24,45,53.37
-1062,Pharoah,16,45,5.23
-1063,Undisclosed,21,45,18.81
-1064,4q,34,45,79.38
-1065,Punica,21,45,42.74
-1066,ChillDontKill,24,45,68.67
-1067,Blue,18,45,53.99
-1068,whitehell,30,44,97.04
-1069,Stay Alive,30,44,8.9
-1070,Looney [Extreme],24,44,3.87
-1071,Stop Over 2.0,12,44,0.93
-1072,BrokeysChallenge,16,43,5.75
-1073,Insane 3,20,43,59.18
-1074,Kickout,24,43,64.66
-1075,Eclipsis,30,42,110.6
-1076,Striped Clouds,30,41,202.25
-1077,Between the Heavens,30,40,82.78
-1078,Yumizo,24,40,21.29
-1079,Adrenaline 4.2,34,40,155.75
-1080,run_grass_hell,10,40,59.09
-1081,Hostile,27,40,4.26
-1082,Stereotype 4,30,39,107.27
-1083,Adragaline 2,30,39,4.06
-1084,Sperance,27,39,45.62
-1085,Generic Fly,24,39,4.7
-1086,Nightstar 2,24,39,32.22
-1087,kipling,12,39,2.44
-1088,Springlobe 3,34,39,253.15
-1089,Honkstar 2,16,38,10.11
-1090,Nightstar,24,38,55.38
-1091,Airsky,30,37,6.29
-1092,HearTbeaT,20,37,60.76
-1093,brainduck2,24,37,115.18
-1094,Redefined,24,37,51.15
-1095,Triplecan 2,20,36,3.28
-1096,External 2,30,36,33.86
-1097,Justice 2,42,36,148.75
-1098,The Enchanted Clearing,34,36,36.18
-1099,Hitode,16,36,2.14
-1100,Mina,20,36,2.0
-1101,Verification 9.0,16,35,2.39
-1102,Regen 2,34,35,71.7
-1103,Space Rate,30,35,24.23
-1104,Road to Rank 1,24,35,38.36
-1105,Stereotype 3,30,34,103.29
-1106,nemesis,24,34,55.8
-1107,nameless_run,10,34,83.84
-1108,Unisex,30,34,17.21
-1109,Nentori,25,34,4.68
-1110,run_birming,10,34,27.17
-1111,Yoko 4.1,27,33,37.53
-1112,Sky Movement,16,33,6.9
-1113,DarkSpy 2,30,33,14.93
-1114,Disposition,16,33,1.5
-1115,DoomWorld,24,33,15.16
-1116,It'sYourDeath,20,32,7.44
-1117,Relief,30,32,11.47
-1118,Network,16,32,9.31
-1119,Complex,30,32,108.22
-1120,Fall into the Future,12,32,6.32
-1121,Stereotype 5,30,31,91.65
-1122,GG,21,31,4.67
-1123,Cloud Dreams,16,31,10.21
-1124,Honkstar 3,16,29,9.57
-1125,Equity [Hard],16,29,3.34
-1126,Safe Place,16,28,1.42
-1127,Back in the sky,30,28,104.5
-1128,Resistance,38,27,5.71
-1129,Falling Down,38,26,155.56
-1130,AnotherEra,24,26,45.9
-1131,Genericore 8,38,26,153.12
-1132,LichKing,30,26,274.6
-1133,Firestone,38,25,9.96
-1134,Stereotype 2,30,24,143.76
-1135,Nalar,30,24,18.58
-1136,Equivalent Exchange,25,24,5.74
-1137,Sooth,30,24,47.45
-1138,Tatooine 2,42,23,208.26
-1139,run_world_war_zero,10,23,233.66
-1140,Not Adrenaline 6,24,23,81.78
-1141,Cequals3,12,23,1.0
-1142,Animus,24,22,30.88
-1143,Adrenaline 5,42,22,109.73
-1144,Rush Clouds,16,22,1.31
-1145,Lifture,16,21,17.69
-1146,Jazz Hands 2,25,21,26.9
-1147,Relentless,30,20,3.8
-1148,Speedfly,30,19,5.93
-1149,Caverun,20,19,11.35
-1150,Panic Paradise,24,19,12.58
-1151,Aimlicious,42,18,105.57
-1152,Hostile 2,30,18,4.41
-1153,Exhale,24,18,23.14
-1154,Equivalent Exchange 2,25,17,4.13
-1155,Commandont,21,15,4.92
-1156,Epinephrine,30,14,6.56
-1157,Adrenaline 4,50,13,331.0
-1158,Ghoul,42,12,36.77
-1159,w3na,24,12,13.33
-1160,Rush Clouds 2,16,11,1.1
-1161,run_antibuguse,10,8,519.73
-1162,Nether,34,6,42.11
-1163,Grim Reaper,50,6,29.64
-1164,Squadron,30,6,13.13
-1165,Airnade Ultra,20,5,252.77
-1166,Heartcore II,50,4,68.99
-1167,Memento mori,20,1,10.42
+1017,Victory 2,24,60,59.03
+1018,Dark Side,27,60,30.28
+1019,Honkstar,16,60,13.96
+1020,AIB Quest 4,12,60,6.91
+1021,Unbalanced,21,60,42.28
+1022,Mirai,30,59,36.67
+1023,Inspire,20,59,58.51
+1024,Justice,34,58,86.27
+1025,Baguette,24,58,94.63
+1026,Generic Hell 2,30,58,159.84
+1027,Sunburst2,16,58,2.27
+1028,Ton,34,58,37.97
+1029,Rocky Horror Fly,27,58,4.66
+1030,DeadCore 1,24,57,81.15
+1031,Fahrenheit,24,57,48.75
+1032,Tatooine,30,57,130.22
+1033,Injection 3,30,57,42.34
+1034,Fever,21,56,36.49
+1035,miA,30,56,3.97
+1036,supernice,20,55,104.85
+1037,Failable,27,55,32.36
+1038,Rampage,16,54,34.57
+1039,Heartcore,42,54,55.72
+1040,Is it Real,27,53,61.27
+1041,Sequite,24,53,9.28
+1042,Damage,24,51,80.66
+1043,Victory 3,24,51,55.45
+1044,Adrenaline 4.1,34,51,86.4
+1045,HellCore,38,50,86.0
+1046,First Try,27,49,6.32
+1047,Triple Kill,24,49,60.97
+1048,Birinci,16,48,10.58
+1049,HyperEdge,16,48,2.08
+1050,New Generation,38,48,132.83
+1051,Inception,24,47,100.44
+1052,Yo'Ci,34,47,43.73
+1053,Synesthesia,27,47,51.95
+1054,Madrigal,21,47,21.66
+1055,Pharoah,16,46,5.27
+1056,Shortgun,16,46,2.97
+1057,Undisclosed,21,45,18.81
+1058,4q,34,45,79.38
+1059,Punica,21,45,42.74
+1060,ChillDontKill,24,45,68.67
+1061,Blue,18,45,53.99
+1062,whitehell,30,44,97.04
+1063,Stay Alive,30,44,8.9
+1064,Looney [Extreme],24,44,3.87
+1065,Stop Over 2.0,12,44,0.93
+1066,BrokeysChallenge,16,43,5.75
+1067,Insane 3,20,43,59.18
+1068,Kickout,24,43,64.66
+1069,Eclipsis,30,42,110.6
+1070,Striped Clouds,30,41,202.25
+1071,Yumizo,24,41,20.8
+1072,Between the Heavens,30,40,82.78
+1073,Adrenaline 4.2,34,40,155.75
+1074,Adragaline 2,30,40,4.08
+1075,run_grass_hell,10,40,59.09
+1076,Hostile,27,40,4.26
+1077,Nightstar,24,40,52.93
+1078,Stereotype 4,30,39,107.27
+1079,Sperance,27,39,45.62
+1080,Generic Fly,24,39,4.7
+1081,Nightstar 2,24,39,32.22
+1082,kipling,12,39,2.44
+1083,Springlobe 3,34,39,253.15
+1084,Honkstar 2,16,38,10.11
+1085,Airsky,30,37,6.29
+1086,HearTbeaT,20,37,60.76
+1087,brainduck2,24,37,115.18
+1088,Redefined,24,37,51.15
+1089,Triplecan 2,20,36,3.28
+1090,External 2,30,36,33.86
+1091,Justice 2,42,36,148.75
+1092,The Enchanted Clearing,34,36,36.18
+1093,Hitode,16,36,2.14
+1094,Mina,20,36,2.0
+1095,Verification 9.0,16,35,2.39
+1096,Regen 2,34,35,71.7
+1097,Space Rate,30,35,24.23
+1098,Nentori,25,35,4.68
+1099,Road to Rank 1,24,35,38.36
+1100,Stereotype 3,30,34,103.29
+1101,nemesis,24,34,55.8
+1102,nameless_run,10,34,83.84
+1103,Unisex,30,34,17.21
+1104,run_birming,10,34,27.17
+1105,Yoko 4.1,27,33,37.53
+1106,Sky Movement,16,33,6.9
+1107,DarkSpy 2,30,33,14.93
+1108,Disposition,16,33,1.5
+1109,Fall into the Future,12,33,6.27
+1110,DoomWorld,24,33,15.16
+1111,It'sYourDeath,20,32,7.44
+1112,Relief,30,32,11.47
+1113,Network,16,32,9.31
+1114,Complex,30,32,108.22
+1115,Stereotype 5,30,31,91.65
+1116,GG,21,31,4.67
+1117,Cloud Dreams,16,31,10.21
+1118,Honkstar 3,16,29,9.57
+1119,Equity [Hard],16,29,3.34
+1120,Safe Place,16,29,1.4
+1121,Back in the sky,30,28,104.5
+1122,Resistance,38,27,5.71
+1123,Falling Down,38,26,155.56
+1124,AnotherEra,24,26,45.9
+1125,Genericore 8,38,26,153.12
+1126,LichKing,30,26,274.6
+1127,Firestone,38,25,9.96
+1128,Cequals3,12,25,1.01
+1129,Stereotype 2,30,24,143.76
+1130,Aimlicious,42,24,104.13
+1131,Nalar,30,24,18.58
+1132,Equivalent Exchange,25,24,5.74
+1133,Sooth,30,24,47.45
+1134,Animus,24,23,30.45
+1135,Tatooine 2,42,23,208.26
+1136,run_world_war_zero,10,23,230.06
+1137,Not Adrenaline 6,24,23,81.78
+1138,w3na,24,23,16.39
+1139,Adrenaline 5,42,22,109.73
+1140,Caverun,20,22,11.51
+1141,Rush Clouds,16,22,1.31
+1142,Hostile 2,30,21,4.44
+1143,Lifture,16,21,17.69
+1144,Jazz Hands 2,25,21,26.9
+1145,Relentless,30,20,3.8
+1146,Exhale,24,20,23.34
+1147,Speedfly,30,19,5.93
+1148,Panic Paradise,24,19,12.58
+1149,Equivalent Exchange 2,25,19,4.13
+1150,Commandont,21,18,4.92
+1151,Epinephrine,30,14,6.56
+1152,Adrenaline 4,50,13,331.0
+1153,Ghoul,42,12,36.77
+1154,Rush Clouds 2,16,12,1.12
+1155,run_antibuguse,10,8,519.73
+1156,Nether,34,6,42.11
+1157,Grim Reaper,50,6,29.64
+1158,Squadron,30,6,13.13
+1159,Airnade Ultra,20,5,252.77
+1160,Heartcore II,50,4,68.99
+1161,Memento mori,20,1,10.42
