@@ -23,6 +23,7 @@ def get_dict_map_points():
     # for deleted maps
     with open('../ddnet-stats/race.csv', 'r', encoding='utf-8') as fp:
         reader = csv.reader(fp, delimiter=',')
+        next(fp)
         for row in reader:
             if row[0] not in mp_pts.keys():
                 mp_pts[row[0]] = 0

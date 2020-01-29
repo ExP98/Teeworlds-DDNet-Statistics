@@ -18,25 +18,27 @@ with open('../ddnet-stats/teamrace.csv', 'r', encoding='utf-8') as f:
             team_id = info[-2][1:-1]
             race_time = float(info[-3])
             nick = ','.join(info[1:-3])[1:-1]
+            timestamp = re.split(',".*",', line)[1][1:-2][:10]
+
             # records with the same team_id could be not even close in teamrace file
             # so we can't just compare current and previous team_id-s
             if team_id not in map_server[map_name].keys():
-                map_server[map_name][team_id] = [[nick], race_time]
+                map_server[map_name][team_id] = [[nick], race_time, timestamp]
             else:
                 map_server[map_name][team_id][0].append(nick)
-
-for map_n in map_server.keys():
-    map_server[map_n] = list(map_server[map_n].values())
 
 # max teams ever
 max_teams = []
 for mp in map_server.keys():
-    for item in map_server[mp]:
-        if len(item[0]) > 15:
-            max_teams.append([mp, len(item[0]), item[1], item[0]])
-print("Biggest teams:")
-for mt in max_teams:
-    print(mt)
+    for tid in map_server[mp]:
+        if len(map_server[mp][tid][0]) > 14:
+            max_teams.append([mp, len(map_server[mp][tid][0]), map_server[mp][tid][1], map_server[mp][tid][2], map_server[mp][tid][0]])
+max_teams = sorted(max_teams, key=lambda x: x[1], reverse=True)
+
+with open('biggest_team.txt', 'w', encoding='utf-8') as f:
+    f.write("Biggest teams: no, number of team members, name of map, date, time (sec), team members\n")
+    for rank_num, elem in enumerate(max_teams, 1):
+        f.write('%d. %d players, %s, %s, %.2f, %s\n' % (rank_num, elem[1], elem[0], elem[3], elem[2], ", ".join(str(i) for i in elem[4:])))
 
 
 def get_marked_top10(teammembers_time_list):
@@ -44,8 +46,8 @@ def get_marked_top10(teammembers_time_list):
     curr_time = -1
     rank = 0
     time_was_equal = False
-    for itr, elem in enumerate(teammembers_time_list):
-        if curr_time != elem[1]:
+    for itr, element in enumerate(teammembers_time_list):
+        if curr_time != element[1]:
             if time_was_equal:
                 rank = itr + 1
                 time_was_equal = False
@@ -53,15 +55,16 @@ def get_marked_top10(teammembers_time_list):
                 rank += 1
             if rank > 10:
                 break
-            top10teams.append([rank, elem[0], elem[1]])
-            curr_time = elem[1]
+            top10teams.append([rank, element[0], element[1]])
+            curr_time = element[1]
         else:
-            top10teams.append([rank, elem[0], elem[1]])
+            top10teams.append([rank, element[0], element[1]])
             time_was_equal = True
     return top10teams
 
 
 for map_record in map_server:
+    map_server[map_record] = list(map_server[map_record].values())
     map_server[map_record] = get_marked_top10(sorted(map_server[map_record], key=lambda x: x[1]))
     # print(map_record, map_server[map_record])
 
