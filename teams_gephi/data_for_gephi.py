@@ -7,13 +7,13 @@ import csv
 map_points = {}
 with open('../ddnet-stats/maps.csv', 'r', encoding='utf-8') as fp:
     reader = csv.reader(fp, delimiter=',')
-    next(fp)
+    next(reader)
     for row in reader:
         map_points[row[0]] = int(row[2])
 # for deleted maps
 with open('../ddnet-stats/race.csv', 'r', encoding='utf-8') as fp:
     reader = csv.reader(fp, delimiter=',')
-    next(fp)
+    next(reader)
     for row in reader:
         if row[0] not in map_points.keys():
             map_points[row[0]] = 0

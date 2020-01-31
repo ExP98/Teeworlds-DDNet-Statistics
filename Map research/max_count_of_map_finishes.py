@@ -12,13 +12,14 @@ def get_val_idx_min(mylist):
 
 
 nicks_to_ignore = {'brainless tee', 'nameless tee'}
-race_maps_to_ignore = set()
+maps_to_ignore = set()
 with open('../ddnet-stats/maps.csv', 'r', encoding='utf-8') as fp:
     reader = csv.reader(fp, delimiter=',')
     next(reader)
     for row in reader:
         if row[1] == 'Race':
-            race_maps_to_ignore.add(row[0])
+            maps_to_ignore.add(row[0])
+maps_to_ignore.add('NUT_short_race6')
 
 general_dict = dict()
 with open('../ddnet-stats/race.csv', 'r', encoding='utf-8') as f:
@@ -26,7 +27,7 @@ with open('../ddnet-stats/race.csv', 'r', encoding='utf-8') as f:
     for line in f:
         map_name = re.split(',".*",', line)[0][1:-1]
         nick_name = ''.join((re.findall(',".*",', line))[0].split(',')[1:-3])[1:-1]
-        if map_name in race_maps_to_ignore or nick_name in nicks_to_ignore:
+        if map_name in maps_to_ignore or nick_name in nicks_to_ignore:
             continue
         if nick_name not in general_dict.keys():
             general_dict[nick_name] = dict()
@@ -50,5 +51,5 @@ for nn in general_dict.keys():
 most_finishes_list = sorted(most_finishes_list, key=lambda x: x[2], reverse=True)
 
 print("Ignoring Race maps and \'nameless tee\' and \'brainless tee\'")
-for i, it in enumerate(most_finishes_list):
-    print(i+1, *it)
+for i, it in enumerate(most_finishes_list, 1):
+    print(i, *it)
