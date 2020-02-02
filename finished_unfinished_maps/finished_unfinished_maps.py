@@ -69,13 +69,13 @@ print('Count of unfinished maps:', len(unfinished_maps))
 
 with open('output/finished_maps.csv', 'w', encoding='utf-8') as f:
     f.write('No.,Map,Points,CountOfFinishedTees,MedianTime(min),' + nick + '_time(min)\n')
-    for no, item in enumerate(read_data):
-        f.write('{},{},{},{},{},{}\n'.format(no+1, item[0], item[1][0], item[1][1], item[1][2],
+    for no, item in enumerate(read_data, 1):
+        f.write('{},{},{},{},{},{}\n'.format(no, item[0], item[1][0], item[1][1], item[1][2],
                                              maps_finished_by_selected_nickname[item[0]]))
 with open('output/unfinished_maps.csv', 'w', encoding='utf-8') as f:
     f.write('No.,Map,Points,CountOfUnfinishedTees,MedianTime(min)\n')
-    for no, item in enumerate(unfinished_maps):
-        f.write('{},{},{},{},{}\n'.format(no+1, item[0], item[1][0], item[1][1], item[1][2]))
+    for no, item in enumerate(unfinished_maps, 1):
+        f.write('{},{},{},{},{}\n'.format(no, item[0], item[1][0], item[1][1], item[1][2]))
 
 finishes = [item[1][1] for item in unfinished_maps]
 med_time = [item[1][2] for item in unfinished_maps]

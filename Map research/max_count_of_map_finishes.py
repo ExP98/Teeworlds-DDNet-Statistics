@@ -50,6 +50,6 @@ for nn in general_dict.keys():
 
 most_finishes_list = sorted(most_finishes_list, key=lambda x: x[2], reverse=True)
 
-print("Ignoring Race maps and \'nameless tee\' and \'brainless tee\'")
+print("Ignoring Race and \'NUT_short_race6\' maps and \'nameless tee\' and \'brainless tee\'")
 for i, it in enumerate(most_finishes_list, 1):
     print(i, *it)
