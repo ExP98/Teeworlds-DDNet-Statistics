@@ -24,7 +24,7 @@ with open('../ddnet-stats/race.csv', 'r', encoding='utf-8') as f:
         map = re.split(',".*",', line)[0][1:-1]
         nick = ','.join((re.findall(',".*",', line))[0].split(',')[1:-3])[1:-1]
         if nick not in nick_dict.keys():
-            nick_dict[nick] = set()
+            nick_dict[nick] = {map}
         else:
             nick_dict[nick].add(map)
 

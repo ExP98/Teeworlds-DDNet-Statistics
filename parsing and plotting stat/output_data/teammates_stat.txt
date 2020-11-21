@@ -1,79 +1,286 @@
-Team Statistics for Zasa
+Team Statistics for PeX
 
-Number of different teammates: 72
-Number of finishes in team: 161
+Number of different teammates: 279
+Number of finishes in team: 695
 
 List of teammates:
-1. |Michel: 35
-2. BaconDrink: 19
-3. secreT: 13
-4. Blurry: 10
-5. ┇»MíM«┇: 9
-6. Fluday: 7
-7. Gignr: 4
-8. Amu~Cookie: 4
-9. Lier.: 3
-10. Ganjah: 3
-11. Miausuke: 2
-12. \\/Vo0b\\/Vo0b: 2
-13. zup: 2
-14. Owlfan: 2
-15. zasa-dummy: 2
-16. Keyowah: 2
-17. mumy: 2
-18. Tyga.: 2
-19. =Denkst du=: 1
-20. ღHunciiღ: 1
-21. WhiteBULL: 1
-22. [BOT] єlєςtгo: 1
-23. jayce: 1
-24. enRage: 1
-25. DarkToaster: 1
-26. Varon: 1
-27. Sektion: 1
-28. Zant: 1
-29. <BµmM>: 1
-30. hi_leute_gll: 1
-31. Shawn.: 1
-32. BumBumeq: 1
-33. kekse und tee: 1
-34. ZimE: 1
-35. Takito: 1
-36. Daffy: 1
-37. Rm|Mr.Mongo: 1
-38. Dr.Pep: 1
-39. Wondernoob: 1
-40. Timbo: 1
-41. .Jeex: 1
-42. =xPeke=: 1
-43. Dead: 1
-44. KlexMikrowelle: 1
-45. 'faceless: 1
-46. [CSGS]Runescape: 1
-47. asaZ: 1
-48. ZP|Koksy': 1
-49. TechnoBär !: 1
-50. Derk: 1
-51. Derkus: 1
-52. Jimmy Jazz: 1
-53. snailx3: 1
-54. BRAIT: 1
-55. Saij Legend': 1
-56. bob: 1
-57. Lefty: 1
-58. Mos: 1
-59. iParano: 1
-60. Hi: 1
-61. Yek: 1
-62. Telus AFK: 1
-63. Ļåҕ | Qed: 1
-64. Key: 1
-65. lolk: 1
-66. notfix: 1
-67. Likyta: 1
-68. SoSb: 1
-69. snAko: 1
-70. Bre3kAcHu: 1
-71. miamia: 1
-72. Atomcat: 1
-73. Sama: 1
+1. ad: 198
+2. AvapiX: 34
+3. whý: 33
+4. Faramoz: 23
+5. BaconDrink: 20
+6. Fexa: 19
+7. it robertusg: 19
+8. Axaris: 18
+9. ReD: 16
+10. Patiga: 14
+11. Negativ: 13
+12. ℬσℜҿⅅ.: 11
+13. Kendo: 9
+14. B'RexterPL: 8
+15. sXb|BσRҿD.: 8
+16. Jambi*: 7
+17. AbortiønErrør: 7
+18. gigi7187: 6
+19. Thundercat: 6
+20. Reonarex: 5
+21. Mr.Nobody: 5
+22. Chirua: 5
+23. Theon: 5
+24. H٤иđعгĩα: 5
+25. CheekepoO: 4
+26. SUKA: 4
+27. not PeX: 4
+28. TeeWurst Neon: 4
+29. simple: 4
+30. BOT: ON! -0%: 4
+31. Dome: 3
+32. Inaccuracy: 3
+33. Pastoer: 3
+34. ~0: 3
+35. Brook: 3
+36. Black Jack: 3
+37. Luna: 3
+38. Ama: 3
+39. shameless tee: 3
+40. DummpiX: 3
+41. Venki: 3
+42. ReaS: 2
+43. Andre: 2
+44. TeeLee: 2
+45. White Shark: 2
+46. 8=э: 2
+47. Gun Tee: 2
+48. BAN: 2
+49. Likyta: 2
+50. RavQ: 2
+51. Tero: 2
+52. Alasia <3: 2
+53. Down: 2
+54. Damocles: 2
+55. Fckin': 2
+56. Calebras: 2
+57. SoSb: 2
+58. Teek: 2
+59. IIIIIIIIIIIIIII: 2
+60. Krawalski: 2
+61. bzw: 2
+62. Borup: 2
+63. (b)ad: 2
+64. not ad: 2
+65. Khejanin: 2
+66. Edy: 2
+67. AssasinMaster: 2
+68. Keiss: 2
+69. PlantKnight: 2
+70. Lagar: 2
+71. ZimE: 2
+72. '☣BσRҿD': 2
+73. Celrus: 2
+74. Z[a]X: 2
+75. Anni: 1
+76. NiiiKer :3: 1
+77. Balance=): 1
+78. xXKillXx4: 1
+79. Nofear: 1
+80. sellas: 1
+81. Kitch: 1
+82. Deluxe: 1
+83. Vein: 1
+84. С₂H₅OH: 1
+85. Crazy_Boggart: 1
+86. Goodra: 1
+87. elvior: 1
+88. Gumbee: 1
+89. neforsRUS: 1
+90. CrabeMan: 1
+91. Zylau: 1
+92. Billy: 1
+93. Arial Wall: 1
+94. Livio: 1
+95. Jakral: 1
+96. KILLER_DEN: 1
+97. LyRoV #1: 1
+98. Zephir: 1
+99. [D] Laenib: 1
+100. bano: 1
+101. zup: 1
+102. Šøø™: 1
+103. SmokeR: 1
+104. Mad and Funny: 1
+105. .Sadabenn: 1
+106. SirVivi: 1
+107. Lokomit: 1
+108. slime789: 1
+109. roko: 1
+110. programer 8.0.5: 1
+111. KingZEPA: 1
+112. e32: 1
+113. ProsTo/urpok/: 1
+114. By^Kuroko: 1
+115. .mario>: 1
+116. Juicyanide: 1
+117. trololo: 1
+118. sneky': 1
+119. Sad*Boy: 1
+120. yassin: 1
+121. Toxicvipa: 1
+122. Weeboo: 1
+123. Pib: 1
+124. <RemBoomChing*: 1
+125. Popular-Tee: 1
+126. Natsume: 1
+127. teeles name: 1
+128. Black: 1
+129. Haraknos: 1
+130. Hz|btomika28: 1
+131. Google Chrome: 1
+132. Qu!ck: 1
+133. HotSpanish: 1
+134. Seppl: 1
+135. Điare: 1
+136. ~sergss~: 1
+137. MrJerry: 1
+138. КОРЧ: 1
+139. haisito = cucc: 1
+140. Oh no: 1
+141. Sepsentto: 1
+142. Ameno: 1
+143. MKplays4U: 1
+144. Luffy: 1
+145. ɣȊɮ: 1
+146. ania: 1
+147. m ga-tee: 1
+148. Moryspooks: 1
+149. Krasty: 1
+150. Matrix: 1
+151. <~{Barsik}~>: 1
+152. Victory: 1
+153. Antoki: 1
+154. Pryanik: 1
+155. notfix: 1
+156. Henk: 1
+157. Lifeless Tee: 1
+158. NetFusion: 1
+159. V~electrone: 1
+160. Teek [D]: 1
+161. Karol: 1
+162. i use love :): 1
+163. i use heart :): 1
+164. Essentiel: 1
+165. WhîteØne: 1
+166. Sanjar: 1
+167. CptDalv: 1
+168. McLovin: 1
+169. The real LOL: 1
+170. Tanatopsis: 1
+171. Lier.: 1
+172. PeX's Butler: 1
+173. Exory<3: 1
+174. Chevy: 1
+175. vanik: 1
+176. Grey: 1
+177. [Happy]: 1
+178. öéñíß: 1
+179. Colgate.: 1
+180. safddsa: 1
+181. GRIZZLY: 1
+182. §§IUDEX§§: 1
+183. Mugii: 1
+184. MtKuma: 1
+185. Ko: 1
+186. Skrrt: 1
+187. larlokmalobzw: 1
+188. VisiøƞX: 1
+189. Eule die Klinge: 1
+190. ʂƙɾιʅʅҽx: 1
+191. cyberFighter: 1
+192. SilviuXtrem: 1
+193. LePyromen: 1
+194. PaD: 1
+195. Eratyck: 1
+196. KazuKing: 1
+197. reVar: 1
+198. Smardey: 1
+199. Sweeeeet GM :>: 1
+200. Al.Se.: 1
+201. NRG: 1
+202. ƒirew∂√e: 1
+203. 'faceless: 1
+204. RageBaby: 1
+205. Krókette: 1
+206. ┇»MíM«┇: 1
+207. KRN: 1
+208. cunt: 1
+209. enigma: 1
+210. yeet ad: 1
+211. Workiii: 1
+212. Sopol: 1
+213. Zwelf: 1
+214. Work: 1
+215. [D] Zwelf: 1
+216. 21: 1
+217. ArmaCurrySoße: 1
+218. Aomine›: 1
+219. El qp: 1
+220. G@$Tr0: 1
+221. *~Cooki3~*: 1
+222. brainless tii: 1
+223. nori: 1
+224. ghoul: 1
+225. Pandarix: 1
+226. Ex'(*SPIDER*): 1
+227. Pados: 1
+228. Noctua: 1
+229. Peter Gandalf: 1
+230. seLFiii <33: 1
+231. szaro: 1
+232. AM|WolfyLenny: 1
+233. kamino: 1
+234. lola: 1
+235. LCSG47: 1
+236. Xeny T'nP: 1
+237. Rude: 1
+238. GreenDragons: 1
+239. Tadzio: 1
+240. nub PeX: 1
+241. Miu: 1
+242. Kicker: 1
+243. Latunix: 1
+244. Ɍøηɋȵ: 1
+245. Teeson: 1
+246. Peks: 1
+247. russsell: 1
+248. Zedow: 1
+249. DummpIX: 1
+250. Elit3N0ob: 1
+251. Cana: 1
+252. Kill4FuN: 1
+253. shoxX: 1
+254. íᶮϠi: 1
+255. υgly god: 1
+256. SvechAS: 1
+257. Pilotaraflo_: 1
+258. ScreaT: 1
+259. Deathman: 1
+260. Songoku: 1
+261. Radoo-'SaT: 1
+262. Silver: 1
+263. Yuzu: 1
+264. Vorpallulu: 1
+265. Baby Groot: 1
+266. ☣'BσRҿD': 1
+267. Monik: 1
+268. PeX flex: 1
+269. plex the flex: 1
+270. cB Yeassss: 1
+271. ScReeNy: 1
+272. ɱelanդie: 1
+273. |JB*|Golden Axe: 1
+274. Sanvorg: 1
+275. Mewie: 1
+276. AspHyXiA: 1
+277. Dreky≖: 1
+278. Aca^: 1
+279. Sam1337: 1
+280. Nooback: 1

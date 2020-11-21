@@ -4,3 +4,4 @@ old_ddnet-stats/
 .idea/
 venv/
 parsing and plotting stat/output_data/test.html
+/ddnet-stats_may2020/

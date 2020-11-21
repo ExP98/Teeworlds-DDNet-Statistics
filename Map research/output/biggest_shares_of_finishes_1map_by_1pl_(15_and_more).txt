@@ -1,1002 +1,1002 @@
 Players with the largest share of finishes on maps (only >= 15 finishes on the map)
 No., map, nick, share, finishes for player, overall number of finishes
-1. Rush Clouds 2 - Kicker - 0.3889, 7, 18
-2. run_birming - Matrose l_I - 0.2881, 17, 59
-3. run_2rocketstwo - Push - 0.2500, 35, 140
-4. Justice 2 - =645654= - 0.2340, 22, 94
-5. run_world_war_zero - Matrose l_I - 0.2286, 8, 35
-6. Disposition - Ravie - 0.2206, 15, 68
-7. run_keksi - another - 0.2000, 61, 305
-8. Caverun - *~Rôny~* - 0.2000, 9, 45
-9. Equivalent Exchange 2 - DataClaw - 0.2000, 7, 35
-10. UpNDown2 - Miastral - 0.1922, 84, 437
-11. Where am I - N9mkOik - 0.1850, 32, 173
-12. Cequals3 - maggi323 - 0.1750, 7, 40
-13. combo II - ReD - 0.1734, 30, 173
-14. Ghoul - Kicker - 0.1667, 3, 18
-15. Ghoul - Vendetta - 0.1667, 3, 18
-16. Justice 2 - =phacrum= - 0.1596, 15, 94
-17. Caverun - N9mkOik - 0.1556, 7, 45
-18. Honkstar 3 - Crytikal - 0.1538, 6, 39
-19. Airsky - Kicker - 0.1538, 8, 52
-20. kipling - Silent - 0.1525, 9, 59
-21. Nalar - kezo - 0.1515, 5, 33
-22. Justice - =645654= - 0.1512, 13, 86
-23. Just_Shotgun - Lwai - 0.1502, 79, 526
-24. It'sYourDeath - *~Rôny~* - 0.1463, 6, 41
-25. run_2rocketstwo - Matrose l_I - 0.1429, 20, 140
-26. Eternity - *~Rôny~* - 0.1415, 15, 106
-27. Stop Over 4.0 - Fimp - 0.1365, 34, 249
-28. Honkstar 2 - *~Rôny~* - 0.1346, 7, 52
-29. Exhale - Shawn. - 0.1333, 4, 30
-30. Exhale - Spyker - 0.1333, 4, 30
-31. Hostile 2 - Tropo - 0.1304, 3, 23
-32. Equivalent Exchange - kys :) - 0.1290, 4, 31
-33. combo - N9mkOik - 0.1280, 27, 211
-34. Synesthesia - Shawn. - 0.1268, 9, 71
-35. LichKing - Kicker - 0.1250, 4, 32
-36. Commandont - Grk0ne - 0.1250, 3, 24
-37. run_golden_toilet - Matrose l_I - 0.1237, 24, 194
-38. aled - Kicker - 0.1233, 65, 527
-39. Stop Over 3.0 - Chrona - 0.1231, 32, 260
-40. Where am I - *~Rôny~* - 0.1214, 21, 173
-41. Sooth - Shawn. - 0.1212, 4, 33
-42. Triplecan 2 - *~Rôny~* - 0.1200, 6, 50
-43. Lifture - N9mkOik - 0.1200, 3, 25
-44. Rush Clouds - N9mkOik - 0.1154, 3, 26
-45. Equivalent Exchange 2 - Tyga. - 0.1143, 4, 35
-46. Adragaline 2 - kys :) - 0.1132, 6, 53
-47. Handifly - Delirio - 0.1132, 12, 106
-48. DarkSpy 2 - Vendetta - 0.1132, 6, 53
-49. Adragaline - kys :) - 0.1127, 8, 71
-50. Caverun - kys :) - 0.1111, 5, 45
-51. Redefined - Knuski - 0.1111, 6, 54
-52. Day Two - Vasten100 - 0.1053, 16, 152
-53. Stop Over 2.0 - N9mkOik - 0.1053, 6, 57
-54. nameless_run - Fudgyking - 0.1042, 5, 48
-55. Heartcore - Vendetta - 0.1028, 11, 107
-56. Honkstar 3 - Nyanto - 0.1026, 4, 39
-57. Canyon - NovaShock - 0.1020, 10, 98
-58. Grind - N9mkOik - 0.1011, 9, 89
-59. Birinci - N9mkOik - 0.1000, 6, 60
-60. Relief - Tyga. - 0.1000, 4, 40
-61. Sky Movement - gdin - 0.1000, 4, 40
-62. Speedfly - Spyker - 0.1000, 3, 30
-63. Speedfly - Cyclic~ - 0.1000, 3, 30
-64. Speedfly - Shawn. - 0.1000, 3, 30
-65. Speedfly - Grk0ne - 0.1000, 3, 30
-66. Firestone - Vendetta - 0.1000, 3, 30
-67. Panic Paradise - Neox - 0.1000, 2, 20
-68. Epinephrine - Kicker - 0.1000, 2, 20
-69. Epinephrine - N9mkOik - 0.1000, 2, 20
-70. Exhale - Cyclic~ - 0.1000, 3, 30
-71. Exhale - Grk0ne - 0.1000, 3, 30
-72. Stop Over 3.0 - nopea - 0.1000, 26, 260
-73. Cequals3 - N9mkOik - 0.1000, 4, 40
-74. Verification 9.0 - Crytikal - 0.0976, 4, 41
-75. miA - kys :) - 0.0976, 8, 82
-76. Falling Down - LanuX - 0.0968, 3, 31
-77. Equivalent Exchange - Vendetta - 0.0968, 3, 31
-78. Honkstar 2 - nether - 0.0962, 5, 52
-79. Justice 2 - Freezestyler - 0.0957, 9, 94
-80. Regen 2 - N9mkOik - 0.0952, 4, 42
-81. Cloud Dreams - coradax - 0.0952, 4, 42
-82. Cloud Dreams - Ra!n - 0.0952, 4, 42
-83. DoomWorld - Genex - 0.0952, 4, 42
-84. DoomWorld - Syltoox - 0.0952, 4, 42
-85. run_three - Nyanto - 0.0949, 15, 158
-86. Injection 3 - Lwai - 0.0946, 7, 74
-87. LichKing - Vendetta - 0.0938, 3, 32
-88. Hermit - Syntex - 0.0936, 19, 203
-89. Verification 7.1 - *~Rôny~* - 0.0933, 14, 150
-90. DarkWorld - kys :) - 0.0933, 7, 75
-91. Ravillion - Lwai - 0.0927, 37, 399
-92. CHILLUMINATI - ☆.Sυsнι♪ - 0.0927, 24, 259
-93. yoshiloop - Fudgyking - 0.0925, 21, 227
-94. Canyon - coradax - 0.0918, 9, 98
-95. Speedster - [Nub]Wiesel - 0.0917, 100, 1090
-96. Network - *~Rôny~* - 0.0909, 4, 44
-97. Lunar Base - ZimE - 0.0909, 2, 22
-98. Nalar - Vendetta - 0.0909, 3, 33
-99. DeepDrag - Micro - 0.0905, 20, 221
-100. run_get50 - RedPig - 0.0904, 16, 177
-101. run_get50 - PoKeMoN [TD] - 0.0904, 16, 177
-102. NUT_race9 - ReD - 0.0903, 289, 3202
-103. Difficult 1.3 - !_Vergeboy_! - 0.0893, 10, 112
-104. Hermit - LanuX - 0.0887, 18, 203
-105. Stop Over 4.0 - Chrona - 0.0884, 22, 249
-106. Safe Place - *~Rôny~* - 0.0882, 3, 34
-107. Resistance - Kicker - 0.0882, 3, 34
-108. Resistance - Cor - 0.0882, 3, 34
-109. Lawrence - N9mkOik - 0.0880, 11, 125
-110. Jazz Hands 2 - N9mkOik - 0.0870, 2, 23
-111. Jazz Hands 2 - Shawn. - 0.0870, 2, 23
-112. run_2Rockets - Matrose l_I - 0.0866, 22, 254
-113. Embrace - Shawn. - 0.0859, 11, 128
-114. run_world_war_zero - EryX - 0.0857, 3, 35
-115. run_world_war_zero - N9mkOik - 0.0857, 3, 35
-116. Equivalent Exchange 2 - N9mkOik - 0.0857, 3, 35
-117. Equivalent Exchange 2 - mor - 0.0857, 3, 35
-118. Cya Nerd - Destoros - 0.0855, 13, 152
-119. miA - Lwai - 0.0854, 7, 82
-120. run_crystal - po² - 0.0848, 90, 1061
-121. Verification 6 - Red-i - 0.0847, 90, 1062
-122. run_birming - N9mkOik - 0.0847, 5, 59
-123. kipling - Kicker - 0.0847, 5, 59
-124. nore - N9mkOik - 0.0844, 19, 225
-125. Atmosphere - N9mkOik - 0.0843, 7, 83
-126. run_pink.lila - Matrose l_I - 0.0841, 52, 618
-127. Victory 3 - NovaShock - 0.0833, 5, 60
-128. nemesis - Lady Saavik - 0.0833, 3, 36
-129. nameless_run - nether - 0.0833, 4, 48
-130. nameless_run - Push - 0.0833, 4, 48
-131. Aurora - Lwai - 0.0833, 14, 168
-132. Relentless - Kicker - 0.0833, 2, 24
-133. Relentless - Vendetta - 0.0833, 2, 24
-134. Relentless - Cyclic~ - 0.0833, 2, 24
-135. Relentless - Grk0ne - 0.0833, 2, 24
-136. Commandont - nexusrf - 0.0833, 2, 24
-137. Commandont - .:Danytto:. - 0.0833, 2, 24
-138. Commandont - ano :3 - 0.0833, 2, 24
-139. Commandont - Мамбо - 0.0833, 2, 24
-140. Stop Over 1.0 - N9mkOik - 0.0827, 46, 556
-141. Stacked - Dimp - 0.0821, 28, 341
-142. run_hard_hundred - Push - 0.0820, 15, 183
-143. Just_Shotgun - Esckiller - 0.0817, 43, 526
-144. BlackBear7 - Vendetta - 0.0817, 169, 2069
-145. brainduck2 - Freezestyler - 0.0816, 4, 49
-146. Justice - =phacrum= - 0.0814, 7, 86
-147. Double Dragin - Soapy Sandwich - 0.0814, 14, 172
-148. blue-mountains - nooby - 0.0813, 56, 689
-149. Stop Over 4.0 - N9mkOik - 0.0803, 20, 249
-150. run_escape_the_darkness - Push - 0.0802, 21, 262
-151. Lifture - Le Petit Prince - 0.0800, 2, 25
-152. Lifture - maggi323 - 0.0800, 2, 25
-153. Microlity - Micro - 0.0795, 7, 88
-154. Dodge - fokkonaut - 0.0794, 30, 378
-155. GG - Graves - 0.0789, 3, 38
-156. GG - NISO - 0.0789, 3, 38
-157. Fall into the Future - daladen - 0.0789, 3, 38
-158. Honkstar - N9mkOik - 0.0779, 6, 77
-159. Airsky - Grk0ne - 0.0769, 4, 52
-160. Tatooine 2 - ☯Mڶɴ3☯ - 0.0769, 2, 26
-161. Tatooine 2 - Colo-Colo - 0.0769, 2, 26
-162. Tatooine 2 - Grk0ne - 0.0769, 2, 26
-163. Aimlicious - Vendetta - 0.0769, 2, 26
-164. Aimlicious - Shawn. - 0.0769, 2, 26
-165. Rush Clouds - xeno - 0.0769, 2, 26
-166. Rush Clouds - Gwendal - 0.0769, 2, 26
-167. GenericDrag - kys :) - 0.0762, 8, 105
-168. BlackBear6 - RayB. - 0.0760, 73, 961
-169. Wormhole - N9mkOik - 0.0756, 155, 2050
-170. Pharoah - *~Rôny~* - 0.0755, 4, 53
-171. DarkSpy 2 - ☆.Sυsнι♪ - 0.0755, 4, 53
-172. DarkSpy 2 - Lwai - 0.0755, 4, 53
-173. run_harder_than_hard - Fudgyking - 0.0751, 34, 453
-174. Relief - kys :) - 0.0750, 3, 40
-175. Sky Movement - *~Rôny~* - 0.0750, 3, 40
-176. Unisex - Shawn. - 0.0750, 3, 40
-177. Cequals3 - Kicker - 0.0750, 3, 40
-178. Justice 2 - Tropo - 0.0745, 7, 94
-179. w3na - .:Danytto:. - 0.0741, 2, 27
-180. w3na - Grk0ne - 0.0741, 2, 27
-181. w3na - Cyclic~ - 0.0741, 2, 27
-182. w3na - Julia :3 - 0.0741, 2, 27
-183. Disposition - Beiroc - 0.0735, 5, 68
-184. Disposition - N9mkOik - 0.0735, 5, 68
-185. It'sYourDeath - nealson T'nP - 0.0732, 3, 41
-186. The Enchanted Clearing - Vendetta - 0.0732, 3, 41
-187. Gedan - <BµmM> - 0.0731, 61, 834
-188. Stop Over 3.0 - xeno - 0.0731, 19, 260
-189. Black&White - Esckiller - 0.0730, 17, 233
-190. Ravillion - 人形 - 0.0727, 29, 399
-191. run_skizz_loop1200 - Fudgyking - 0.0726, 23, 317
-192. AIB Quest 4 - *~Rôny~* - 0.0723, 6, 83
-193. BlackBear6 - Exotix - 0.0718, 69, 961
-194. Animus - Hidden-Ezio - 0.0714, 2, 28
-195. Animus - Tropo - 0.0714, 2, 28
-196. Animus - bano - 0.0714, 2, 28
-197. Animus - Cireme - 0.0714, 2, 28
-198. Animus - Cor - 0.0714, 2, 28
-199. Regen 2 - Vendetta - 0.0714, 3, 42
-200. run_shutter - Fudgyking - 0.0714, 7, 98
-201. run_shutter - Matrose l_I - 0.0714, 7, 98
-202. Cloud Dreams - sorgaxD - 0.0714, 3, 42
-203. Mina - xeno - 0.0714, 3, 42
-204. yoshiloop - Push - 0.0705, 16, 227
-205. Synesthesia - Elephant - 0.0704, 5, 71
-206. Synesthesia - Spyker - 0.0704, 5, 71
-207. run_three - Fudgyking - 0.0696, 11, 158
-208. Nyan Cat - Tropo - 0.0696, 110, 1581
-209. Ecstasy - Vendetta - 0.0696, 8, 115
-210. Sparadrap - Lexin - 0.0696, 8, 115
-211. Enormous - *~Rôny~* - 0.0693, 7, 101
-212. Agile - LanuX - 0.0693, 7, 101
-213. run_skizzpopo - Fudgyking - 0.0688, 55, 799
-214. Binary - Vendetta - 0.0686, 14, 204
-215. BlackBear5 - Nekoma - 0.0684, 34, 497
-216. aled II - Kicker - 0.0683, 19, 278
-217. Verification 3.9 - FUMOFFU - 0.0683, 11, 161
-218. Stop Over 4.0 - ɌʘϚКỤṨ - 0.0683, 17, 249
+1. run_world_war_zero - Matrose l_I - 0.3333, 15, 45
+2. Rush Clouds 2 - Kicker - 0.3043, 7, 23
+3. Reflect - Lenah - 0.2750, 11, 40
+4. run_birming - Matrose l_I - 0.2683, 22, 82
+5. run_2rocketstwo - Push - 0.2529, 43, 170
+6. Disposition - Ravie - 0.2471, 21, 85
+7. Justice 2 - =645654= - 0.2340, 22, 94
+8. UpNDown2 - Miastral - 0.1928, 107, 555
+9. Just_Shotgun - Lwai - 0.1885, 131, 695
+10. run_keksi - another - 0.1840, 62, 337
+11. Disabled - rhino - 0.1837, 9, 49
+12. Aries - Cyclic~ - 0.1795, 7, 39
+13. Aries - N9mkOik - 0.1795, 7, 39
+14. Euthanasia - ano :3 - 0.1765, 3, 17
+15. Rapid - Tea - 0.1714, 24, 140
+16. Equivalent Exchange 2 - DataClaw - 0.1667, 7, 42
+17. Where am I - N9mkOik - 0.1641, 32, 195
+18. combo II - ReD - 0.1618, 33, 204
+19. Caverun - *~Rôny~* - 0.1607, 9, 56
+20. Justice 2 - =phacrum= - 0.1596, 15, 94
+21. Equivalent Exchange - Yota. - 0.1579, 6, 38
+22. run_grass_hell - Push - 0.1538, 14, 91
+23. run_2rocketstwo - Matrose l_I - 0.1529, 26, 170
+24. Reflect - N9mkOik - 0.1500, 6, 40
+25. Anima - Мамбо - 0.1468, 16, 109
+26. Justice - =645654= - 0.1444, 13, 90
+27. Caverun - Yota. - 0.1429, 8, 56
+28. run_unbelievable - N9mkOik - 0.1364, 3, 22
+29. DontMove - Dan_cao - 0.1359, 14, 103
+30. Airsky - Kicker - 0.1333, 8, 60
+31. Just_Shotgun - Esckiller - 0.1324, 92, 695
+32. Eternity - *~Rôny~* - 0.1316, 15, 114
+33. Nalar - kezo - 0.1282, 5, 39
+34. run_golden_toilet - Matrose l_I - 0.1256, 28, 223
+35. Caverun - N9mkOik - 0.1250, 7, 56
+36. Ghoul - Kicker - 0.1250, 3, 24
+37. Ghoul - Vendetta - 0.1250, 3, 24
+38. Sandanjuu - Lwai - 0.1250, 3, 24
+39. Sandanjuu - Chyste - 0.1250, 3, 24
+40. run_grass_hell - Matrose l_I - 0.1209, 11, 91
+41. Honkstar 3 - Crytikal - 0.1200, 6, 50
+42. kipling - Silent - 0.1200, 9, 75
+43. combo - N9mkOik - 0.1189, 29, 244
+44. LichKing - Kicker - 0.1176, 4, 34
+45. Euthanasia - Tea - 0.1176, 2, 17
+46. Euthanasia - natchies - 0.1176, 2, 17
+47. It'sYourDeath - *~Rôny~* - 0.1154, 6, 52
+48. Adragaline - Yota. - 0.1154, 9, 78
+49. Entropy - Comebäck - 0.1154, 6, 52
+50. Rapid - Anomynous - 0.1143, 16, 140
+51. Synesthesia - Shawn. - 0.1139, 9, 79
+52. Jump Shooter - KlexMikrowelle - 0.1136, 56, 493
+53. Sky High - Comebäck - 0.1127, 8, 71
+54. nameless_run - Push - 0.1111, 7, 63
+55. Mana - Cireme - 0.1111, 6, 54
+56. Soap - Cireme - 0.1098, 9, 82
+57. Honkstar 2 - *~Rôny~* - 0.1077, 7, 65
+58. Where am I - *~Rôny~* - 0.1077, 21, 195
+59. Cequals3 - maggi323 - 0.1061, 7, 66
+60. Stop Over 3.0 - Chrona - 0.1042, 32, 307
+61. Hostile 2 - Tropo - 0.1034, 3, 29
+62. Aries - Tea - 0.1026, 4, 39
+63. Disabled - 123dd - 0.1020, 5, 49
+64. DarkSpy 2 - Vendetta - 0.1000, 6, 60
+65. Redefined - Knuski - 0.1000, 7, 70
+66. Verification 6 - Red-i - 0.0998, 133, 1333
+67. miA - Yota. - 0.0990, 10, 101
+68. Crooked Mind - N9mkOik - 0.0988, 25, 253
+69. run_2Rockets - Matrose l_I - 0.0982, 33, 336
+70. Grind - N9mkOik - 0.0980, 10, 102
+71. Falling Down - LanuX - 0.0968, 3, 31
+72. Canyon - NovaShock - 0.0965, 11, 114
+73. Entropy - N9mkOik - 0.0962, 5, 52
+74. Justice 2 - Freezestyler - 0.0957, 9, 94
+75. Adragaline 2 - Yota. - 0.0952, 6, 63
+76. Firestone - Grk0ne - 0.0952, 4, 42
+77. Equivalent Exchange 2 - Tyga. - 0.0952, 4, 42
+78. run_golden_toilet - NeXus - 0.0942, 21, 223
+79. NUT_short_race6 - Tropo - 0.0940, 3000, 31905
+80. Blood Moon - Genex - 0.0938, 3, 32
+81. Ephemeral - Genex - 0.0930, 28, 301
+82. GG - Graves - 0.0926, 5, 54
+83. GG - NISO - 0.0926, 5, 54
+84. Road to Rank 1 - Brokecdx- - 0.0926, 5, 54
+85. Legacy - Cireme - 0.0926, 5, 54
+86. Mana - rezee - 0.0926, 5, 54
+87. Triplecan 2 - *~Rôny~* - 0.0909, 6, 66
+88. Relief - Yota. - 0.0909, 4, 44
+89. Relief - Tyga. - 0.0909, 4, 44
+90. Lunar Base - ZimE - 0.0909, 2, 22
+91. Mina - Cyclic~ - 0.0909, 5, 55
+92. Cequals3 - DaGiese :> - 0.0909, 6, 66
+93. run_unbelievable - Matrose l_I - 0.0909, 2, 22
+94. Van Gogh - abcqwerty - 0.0897, 7, 78
+95. Double Dragin - Soapy Sandwich - 0.0893, 20, 224
+96. Sooth - Shawn. - 0.0889, 4, 45
+97. TeeTacToe - UnlucksMcBot - 0.0889, 4, 45
+98. TeeTacToe - UnlucksMcGee - 0.0889, 4, 45
+99. Time Shop - Soapy Sandwich - 0.0888, 15, 169
+100. LichKing - Vendetta - 0.0882, 3, 34
+101. Rush Clouds - N9mkOik - 0.0882, 3, 34
+102. Black&White - Esckiller - 0.0881, 26, 295
+103. Stop Over 3.0 - nopea - 0.0879, 27, 307
+104. run_pink.lila - Matrose l_I - 0.0871, 59, 677
+105. zelda - MindlessRookie - 0.0870, 66, 759
+106. Regen 2 - N9mkOik - 0.0870, 4, 46
+107. Ephemeral - Kicker - 0.0864, 26, 301
+108. Heartcore - Vendetta - 0.0859, 11, 128
+109. Birinci - N9mkOik - 0.0857, 6, 70
+110. Speedster - [Nub]Wiesel - 0.0853, 100, 1173
+111. DarkWorld - Yota. - 0.0851, 8, 94
+112. DarkWorld - 'Cסugαr♫ - 0.0851, 8, 94
+113. Lawrence - N9mkOik - 0.0845, 12, 142
+114. Sky High - Jawsh - 0.0845, 6, 71
+115. Stop Over 4.0 - Fimp - 0.0843, 36, 427
+116. Sunburst - N9mkOik - 0.0842, 17, 202
+117. GenericDrag - Cyclic~ - 0.0840, 11, 131
+118. CHILLUMINATI - ☆.Sυsнι♪ - 0.0839, 24, 286
+119. Ghoul - Shawn. - 0.0833, 2, 24
+120. Relentless - Kicker - 0.0833, 2, 24
+121. Relentless - Vendetta - 0.0833, 2, 24
+122. Relentless - Cyclic~ - 0.0833, 2, 24
+123. Relentless - Grk0ne - 0.0833, 2, 24
+124. Commandont - Grk0ne - 0.0833, 3, 36
+125. GetSpeed 3 - 'Cסugαr♫ - 0.0833, 5, 60
+126. Onyx - Cor - 0.0833, 5, 60
+127. Sandanjuu - Neben - 0.0833, 2, 24
+128. Sandanjuu - N9mkOik - 0.0833, 2, 24
+129. Verification 7.1 - *~Rôny~* - 0.0828, 14, 169
+130. Anima - ReD - 0.0826, 9, 109
+131. Difficult 1.3 - !_Vergeboy_! - 0.0820, 10, 122
+132. Hermit - Syntex - 0.0819, 19, 232
+133. NUT_race9 - ReD - 0.0818, 300, 3667
+134. run_hard_hundred - Push - 0.0817, 17, 208
+135. Lifture - N9mkOik - 0.0811, 3, 37
+136. aled - Kicker - 0.0810, 71, 877
+137. Ravillion - Lwai - 0.0805, 40, 497
+138. run_shutter - Matrose l_I - 0.0804, 9, 112
+139. NUT_short_race6 - Tropo[D] - 0.0800, 2553, 31905
+140. Honkstar 3 - Nyanto - 0.0800, 4, 50
+141. Epinephrine - Kicker - 0.0800, 2, 25
+142. Epinephrine - N9mkOik - 0.0800, 2, 25
+143. Exhale - Shawn. - 0.0800, 4, 50
+144. Exhale - Spyker - 0.0800, 4, 50
+145. DeepDrag - Micro - 0.0797, 20, 251
+146. nameless_run - Fudgyking - 0.0794, 5, 63
+147. yoshiloop - Fudgyking - 0.0792, 21, 265
+148. Equivalent Exchange - Vendetta - 0.0789, 3, 38
+149. Canyon - coradax - 0.0789, 9, 114
+150. Toe Taps - Soapy Sandwich - 0.0789, 36, 456
+151. Day Two - Vasten100 - 0.0784, 16, 204
+152. Network - *~Rôny~* - 0.0784, 4, 51
+153. Time Calculator - rhino - 0.0784, 12, 153
+154. Shortgun - N9mkOik - 0.0779, 6, 77
+155. Push it 2 - Welf - 0.0778, 26, 334
+156. Justice - =phacrum= - 0.0778, 7, 90
+157. Hermit - LanuX - 0.0776, 18, 232
+158. nore - N9mkOik - 0.0772, 19, 246
+159. Honkstar 2 - nether - 0.0769, 5, 65
+160. Nalar - Yota. - 0.0769, 3, 39
+161. Nalar - Vendetta - 0.0769, 3, 39
+162. Tatooine 2 - ☯Mڶɴ3☯ - 0.0769, 2, 26
+163. Tatooine 2 - Grk0ne - 0.0769, 2, 26
+164. Adrenaline 4 - Grk0ne - 0.0769, 2, 26
+165. Stop Over 2.0 - N9mkOik - 0.0769, 6, 78
+166. Van Gogh - Addison Rae - 0.0769, 6, 78
+167. run_crystal - po² - 0.0769, 90, 1171
+168. GenericDrag - Yota. - 0.0763, 10, 131
+169. Yun Gu 3 - Folugen - 0.0762, 26, 341
+170. Synesthesia - Elephant - 0.0759, 6, 79
+171. Sky Movement - gdin - 0.0755, 4, 53
+172. Handifly - Delirio - 0.0755, 12, 159
+173. Reflect - DarkOort - 0.0750, 3, 40
+174. Reflect - Tyga. - 0.0750, 3, 40
+175. Reflect - Cyclic~ - 0.0750, 3, 40
+176. run_three - Nyanto - 0.0746, 15, 201
+177. Justice 2 - Tropo - 0.0745, 7, 94
+178. blue-mountains - nooby - 0.0744, 56, 753
+179. run_get50 - RedPig - 0.0741, 16, 216
+180. run_get50 - Push - 0.0741, 16, 216
+181. run_get50 - PoKeMoN [TD] - 0.0741, 16, 216
+182. Cloud Dreams - coradax - 0.0741, 4, 54
+183. Cloud Dreams - Ra!n - 0.0741, 4, 54
+184. Cloud Dreams - N9mkOik - 0.0741, 4, 54
+185. Road to Rank 1 - painn - 0.0741, 4, 54
+186. Legacy - Elephant - 0.0741, 4, 54
+187. Stop Over 1.0 - N9mkOik - 0.0734, 47, 640
+188. Safe Place - *~Rôny~* - 0.0732, 3, 41
+189. run_birming - 'Cסugαr♫ - 0.0732, 6, 82
+190. Aurora - Lwai - 0.0731, 16, 219
+191. Injection 3 - Lwai - 0.0729, 7, 96
+192. Stop Over 4.0 - N9mkOik - 0.0726, 31, 427
+193. Atmosphere - N9mkOik - 0.0722, 7, 97
+194. Verification 9.0 - Crytikal - 0.0714, 4, 56
+195. nemesis - Lady Saavik - 0.0714, 3, 42
+196. Speedfly - Spyker - 0.0714, 3, 42
+197. Speedfly - Cyclic~ - 0.0714, 3, 42
+198. Speedfly - Shawn. - 0.0714, 3, 42
+199. Speedfly - Grk0ne - 0.0714, 3, 42
+200. Firestone - Vendetta - 0.0714, 3, 42
+201. Firestone - Filis - 0.0714, 3, 42
+202. Panic Paradise - Neox - 0.0714, 2, 28
+203. Equivalent Exchange 2 - N9mkOik - 0.0714, 3, 42
+204. Equivalent Exchange 2 - mor - 0.0714, 3, 42
+205. Equivalent Exchange 2 - Fimp - 0.0714, 3, 42
+206. DoomWorld - Genex - 0.0714, 4, 56
+207. DoomWorld - Syltoox - 0.0714, 4, 56
+208. Rapid - Lowiteahe - 0.0714, 10, 140
+209. ECHOR - ano :3 - 0.0714, 3, 42
+210. run_escape_the_darkness - Push - 0.0712, 21, 295
+211. Enormous - coradax - 0.0703, 9, 128
+212. miA - Lwai - 0.0693, 7, 101
+213. Dodge - fokkonaut - 0.0693, 30, 433
+214. Gedan - <BµmM> - 0.0692, 61, 882
+215. Cya Nerd - Destoros - 0.0691, 13, 188
+216. run_blood_thirst - Push - 0.0690, 12, 174
+217. Brosty - Cireme - 0.0690, 4, 58
+218. run_harder_than_hard - Fudgyking - 0.0687, 34, 495
 219. Striped Clouds - Starkiller - 0.0682, 3, 44
-220. Network - Ninjed - 0.0682, 3, 44
-221. Network - Ra!n - 0.0682, 3, 44
-222. Network - N9mkOik - 0.0682, 3, 44
-223. Road to Rank 1 - Brokecdx- - 0.0682, 3, 44
-224. Road to Rank 1 - Shawn. - 0.0682, 3, 44
-225. run_pink.lila - another - 0.0680, 42, 618
-226. Damage - !_Vergeboy_! - 0.0678, 4, 59
-227. Shortgun - coradax - 0.0678, 4, 59
-228. kipling - xeno - 0.0678, 4, 59
-229. DarkSpy - kys :) - 0.0673, 7, 104
-230. Nyanpasu - ☆.Sυsнι♪ - 0.0673, 7, 104
-231. Hostile - =Pipou= - 0.0667, 3, 45
-232. Hostile - Colo-Colo - 0.0667, 3, 45
-233. Speedfly - Vendetta - 0.0667, 2, 30
-234. Caverun - Yota. - 0.0667, 3, 45
-235. Firestone - Kicker - 0.0667, 2, 30
-236. Firestone - N9mkOik - 0.0667, 2, 30
-237. Firestone - Grk0ne - 0.0667, 2, 30
-238. Loopie - BaconDrink - 0.0667, 9, 135
-239. run_alkohol - N9mkOik - 0.0665, 25, 376
-240. Handifly - Aoe - 0.0660, 7, 106
-241. Handifly - vizur - 0.0660, 7, 106
-242. Momentum - Kicker - 0.0657, 9, 137
-243. run_grass_hell - nether - 0.0656, 4, 61
-244. run_grass_hell - Push - 0.0656, 4, 61
-245. Spaceman - *~Rôny~* - 0.0653, 16, 245
-246. FreeDoom - =Pipou= - 0.0652, 9, 138
-247. Flamara - Ra!n - 0.0650, 8, 123
-248. Elitist - Ping - 0.0649, 5, 77
-249. Elitist - Pong - 0.0649, 5, 77
-250. Sunburst - *~Rôny~* - 0.0649, 12, 185
-251. Sunburst - N9mkOik - 0.0649, 12, 185
-252. Rampage - 950 - 0.0645, 4, 62
-253. Rampage - bano - 0.0645, 4, 62
-254. Falling Down - Grk0ne - 0.0645, 2, 31
-255. Falling Down - Cyclic~ - 0.0645, 2, 31
-256. Falling Down - Shawn. - 0.0645, 2, 31
-257. Equivalent Exchange - ☆.Sυsнι♪ - 0.0645, 2, 31
-258. Equivalent Exchange - Yota. - 0.0645, 2, 31
-259. GetSpeed2 - N9mkOik - 0.0643, 9, 140
-260. To the moon - Black Jack - 0.0640, 8, 125
-261. Adrenaline 4.2 - Colo-Colo - 0.0638, 3, 47
-262. Failable - ☯Mڶɴ3☯ - 0.0635, 4, 63
-263. Crooked Mind - Ra!n - 0.0633, 15, 237
-264. Crooked Mind - N9mkOik - 0.0633, 15, 237
-265. Amazing Drags - Lwai - 0.0628, 24, 382
-266. run_groove - Fudgyking - 0.0628, 30, 478
-267. DarkEagle - *~Rôny~* - 0.0625, 8, 128
-268. LichKing - Frosty - 0.0625, 2, 32
-269. run_hot_or_not - po² - 0.0624, 63, 1010
-270. Verification 7.2 - *~Rôny~* - 0.0615, 11, 179
-271. run_shutter - RedPig - 0.0612, 6, 98
-272. Hitode - N9mkOik - 0.0612, 3, 49
-273. Hitode - *~Rôny~* - 0.0612, 3, 49
-274. Hitode - coradax - 0.0612, 3, 49
-275. brainduck2 - Zhady - 0.0612, 3, 49
-276. brainduck2 - bano - 0.0612, 3, 49
-277. Alone Together 1.0 - Shawn. - 0.0610, 5, 82
-278. Sunburst2 - *~Rôny~* - 0.0610, 5, 82
-279. Wormhole - Grk0ne - 0.0610, 125, 2050
-280. Delirious - Freezestyler - 0.0609, 7, 115
-281. Hell Fly - Delirio - 0.0609, 30, 493
-282. Complex - Shawn. - 0.0606, 2, 33
-283. Nalar - kys :) - 0.0606, 2, 33
-284. Nalar - Cyclic~ - 0.0606, 2, 33
-285. Nalar - N9mkOik - 0.0606, 2, 33
-286. Sooth - -Twist°~ - 0.0606, 2, 33
-287. Sooth - Jesus Christ - 0.0606, 2, 33
-288. Sooth - ScReeNy - 0.0606, 2, 33
-289. Sooth - Yota. - 0.0606, 2, 33
-290. Triplecan 2 - Gridwyn - 0.0600, 3, 50
-291. Punica - ScReeNy - 0.0600, 3, 50
-292. Just Triple Fly - Lunamy - 0.0599, 16, 267
-293. Enormous - Ra!n - 0.0594, 6, 101
-294. Loopie - N9mkOik - 0.0593, 8, 135
-295. Insane 3 - bano - 0.0588, 3, 51
-296. Insane 3 - coradax - 0.0588, 3, 51
-297. Insane 3 - NovaShock - 0.0588, 3, 51
-298. run_skizz_keres - Push - 0.0588, 13, 221
-299. Safe Place - N9mkOik - 0.0588, 2, 34
-300. Resistance - Lexin - 0.0588, 2, 34
-301. Resistance - Vendetta - 0.0588, 2, 34
-302. Resistance - BaconDrink - 0.0588, 2, 34
-303. Genericore 8 - Cyclic~ - 0.0588, 2, 34
-304. run_not_short - Weonix - 0.0586, 38, 649
-305. Toe Taps - Soapy Sandwich - 0.0585, 20, 342
-306. Heraconx - RedFight - 0.0584, 9, 154
-307. run_4xerhul - Fudgyking - 0.0584, 35, 599
-308. Jungler - Tea - 0.0584, 8, 137
-309. Jungler - Chrona - 0.0584, 8, 137
-310. Difficult 2.3 - Lexin - 0.0583, 6, 103
-311. Ephemeral - Kicker - 0.0583, 12, 206
-312. Verification 3.6 - nether - 0.0581, 5, 86
-313. Mirai - Cyclic~ - 0.0580, 4, 69
-314. Mirai - Grk0ne - 0.0580, 4, 69
-315. Airsky - Cyclic~ - 0.0577, 3, 52
-316. Generic Fly - iParano - 0.0577, 3, 52
-317. Generic Fly - Shawn. - 0.0577, 3, 52
-318. Generic Fly - Skyrel - 0.0577, 3, 52
-319. Fly to the Legends 2 - Sasukey - 0.0576, 33, 573
-320. Nincorn - NovaShock - 0.0575, 5, 87
-321. NUT_short_race6 - fikmesån - 0.0574, 1342, 23367
-322. Equity [Hard] - EryX - 0.0571, 2, 35
-323. Equity [Hard] - reflect - 0.0571, 2, 35
-324. Equity [Hard] - wylect - 0.0571, 2, 35
-325. Equity [Hard] - *~Rôny~* - 0.0571, 2, 35
-326. Equity [Hard] - N9mkOik - 0.0571, 2, 35
-327. run_world_war_zero - nether - 0.0571, 2, 35
-328. Equivalent Exchange 2 - Vendetta - 0.0571, 2, 35
-329. Equivalent Exchange 2 - Lwai - 0.0571, 2, 35
-330. Cave Fly - WAFthfguaq19012 - 0.0569, 7, 123
-331. Microlity - *~Rôny~* - 0.0568, 5, 88
-332. First Try - Shawn. - 0.0566, 3, 53
-333. Adragaline 2 - Vendetta - 0.0566, 3, 53
-334. DarkSpy 2 - kys :) - 0.0566, 3, 53
-335. run_get50 - Push - 0.0565, 10, 177
-336. Bizarre Untold - ScReeNy - 0.0563, 17, 302
-337. Heartcore - kys :) - 0.0561, 6, 107
-338. Day One - Vasten100 - 0.0558, 12, 215
-339. Maximum speed - kill the tee - 0.0556, 16, 288
-340. Ghoul - Lexin - 0.0556, 1, 18
-341. Ghoul - snailx3 - 0.0556, 1, 18
-342. Ghoul - Cor - 0.0556, 1, 18
-343. Ghoul - Freezestyler - 0.0556, 1, 18
-344. Ghoul - Starkiller - 0.0556, 1, 18
-345. Ghoul - Tropo - 0.0556, 1, 18
-346. Ghoul - LanuX - 0.0556, 1, 18
-347. Ghoul - triki kogdaskip - 0.0556, 1, 18
-348. Ghoul - Shawn. - 0.0556, 1, 18
-349. Ghoul - Spyker - 0.0556, 1, 18
-350. Ghoul - Cyclic~ - 0.0556, 1, 18
-351. Ghoul - Grk0ne - 0.0556, 1, 18
-352. Quick - fokkonaut - 0.0556, 5, 90
-353. Rush Clouds 2 - Knuski - 0.0556, 1, 18
-354. Rush Clouds 2 - =Schulzer= - 0.0556, 1, 18
-355. Rush Clouds 2 - Starkiller - 0.0556, 1, 18
-356. Rush Clouds 2 - Cor - 0.0556, 1, 18
-357. Rush Clouds 2 - BaconDrink - 0.0556, 1, 18
-358. Rush Clouds 2 - N9mkOik - 0.0556, 1, 18
-359. Rush Clouds 2 - Miulaplusbella - 0.0556, 1, 18
-360. Rush Clouds 2 - Black Jack - 0.0556, 1, 18
-361. Rush Clouds 2 - Grk0ne - 0.0556, 1, 18
-362. Rush Clouds 2 - yishun - 0.0556, 1, 18
-363. Rush Clouds 2 - Lwai - 0.0556, 1, 18
-364. Gedan - Vaiper - 0.0552, 46, 834
-365. Speedster - Genex - 0.0550, 60, 1090
-366. Killstreak 2 - [Nub]Wiesel - 0.0545, 27, 495
-367. New Generation - Vendetta - 0.0545, 3, 55
-368. Puzzle Box - Black Jack - 0.0544, 27, 496
-369. Moonstone - Shawn. - 0.0543, 5, 92
-370. Autumn Sky - N9mkOik - 0.0543, 10, 184
-371. PurpleHeaven - FUMOFFU - 0.0543, 10, 184
-372. DeepDrag - Ninja_Valik - 0.0543, 12, 221
-373. Reckless - iParano - 0.0543, 14, 258
-374. Yoko 4.1 - *WuDL* - 0.0541, 2, 37
-375. Yoko 4.1 - Blurry - 0.0541, 2, 37
-376. Yoko 4.1 - Fluday - 0.0541, 2, 37
-377. Yoko 4.1 - Zhady - 0.0541, 2, 37
-378. Shotsky - *~Rôny~* - 0.0541, 6, 111
-379. run_4mystery - Fudgyking - 0.0540, 29, 537
-380. run_redbull - RedPig - 0.0538, 56, 1040
-381. Yo'Ci - Vendetta - 0.0536, 3, 56
-382. Yo'Ci - N9mkOik - 0.0536, 3, 56
-383. Yo'Ci - Grk0ne - 0.0536, 3, 56
-384. run_galaxy - Fudgyking - 0.0535, 13, 243
-385. Ephemeral - N9mkOik - 0.0534, 11, 206
-386. Verification 9.1 - Ninjed - 0.0533, 4, 75
-387. nore - Cireme - 0.0533, 12, 225
-388. run_longWAR - Fudgyking - 0.0533, 51, 957
-389. Noh - N9mkOik - 0.0530, 7, 132
-390. NUT_short_race6 - Tropo - 0.0529, 1236, 23367
-391. run_painted - Fudgyking - 0.0528, 13, 246
-392. External 2 - Lexin - 0.0526, 2, 38
-393. External 2 - Elephant - 0.0526, 2, 38
-394. likeOldschool - Colo-Colo - 0.0526, 4, 76
-395. Space Rate - Freezestyler - 0.0526, 2, 38
-396. Space Rate - TyшkaNчuk - 0.0526, 2, 38
-397. GG - iParano - 0.0526, 2, 38
-398. Fall into the Future - xeno - 0.0526, 2, 38
-399. Fall into the Future - Black Jack - 0.0526, 2, 38
-400. Fall into the Future - N9mkOik - 0.0526, 2, 38
-401. Stop Over 2.0 - Noctua - 0.0526, 3, 57
-402. Stop Over 2.0 - Chrona - 0.0526, 3, 57
-403. GetSpeed - Konsti - 0.0525, 19, 362
-404. Chill Let's Climb - Nocsis - 0.0523, 126, 2411
-405. run_blood_thirst - Crytikal - 0.0522, 7, 134
-406. Delirious - Colo-Colo - 0.0522, 6, 115
-407. Sparadrap - N9mkOik - 0.0522, 6, 115
-408. run_pink.lila - Hitaru - 0.0518, 32, 618
-409. Zephronikon - Jim-panse - 0.0517, 9, 174
-410. The Fusion - Spyker - 0.0515, 7, 136
-411. The Fusion - Shawn. - 0.0515, 7, 136
-412. Masquerade - kys :) - 0.0515, 7, 136
-413. Masquerade - I.K.U - 0.0515, 7, 136
-414. The Rapture - kys :) - 0.0513, 6, 117
-415. The Rapture - Vendetta - 0.0513, 6, 117
-416. Honkstar 3 - N9mkOik - 0.0513, 2, 39
-417. HearTbeaT - Forris - 0.0513, 2, 39
-418. HearTbeaT - QzBoY - 0.0513, 2, 39
-419. Nentori - N9mkOik - 0.0513, 2, 39
-420. Nentori - Lwai - 0.0513, 2, 39
-421. Nentori - Cor - 0.0513, 2, 39
-422. Jungler - Ļåҕ | Qed - 0.0511, 7, 137
-423. run_shutter - nether - 0.0510, 5, 98
-424. Canyon - Graves - 0.0510, 5, 98
-425. Fahrenheit - =645654= - 0.0508, 3, 59
-426. Repentance - kys :) - 0.0508, 6, 118
-427. Shortgun - Goran - 0.0508, 3, 59
-428. Shortgun - N9mkOik - 0.0508, 3, 59
-429. run_birming - Syltoox - 0.0508, 3, 59
-430. kipling - N9mkOik - 0.0508, 3, 59
-431. run_skizzrettex - Fudgyking - 0.0507, 14, 276
-432. run_inset_into_the_light - EryX - 0.0506, 13, 257
-433. From Death to Destiny - Kicker - 0.0502, 33, 658
-434. Birinci - nealson T'nP - 0.0500, 3, 60
-435. Birinci - *~Rôny~* - 0.0500, 3, 60
-436. HyperEdge - nether - 0.0500, 3, 60
-437. HyperEdge - *~Rôny~* - 0.0500, 3, 60
-438. HyperEdge - xeno - 0.0500, 3, 60
-439. Relief - kezo - 0.0500, 2, 40
-440. Relief - Vendetta - 0.0500, 2, 40
-441. Relief - Grk0ne - 0.0500, 2, 40
-442. Stereotype 4 - Cor - 0.0500, 2, 40
-443. Stereotype 3 - =Schulzer= - 0.0500, 2, 40
-444. Stereotype 3 - Tropo - 0.0500, 2, 40
-445. Sky Movement - Ninjed - 0.0500, 2, 40
-446. Sperance - Spyker - 0.0500, 2, 40
-447. GetSpeed2 - Konsti - 0.0500, 7, 140
-448. Unisex - Vendetta - 0.0500, 2, 40
-449. Unisex - -iKaRoS - 0.0500, 2, 40
-450. Unisex - Yota. - 0.0500, 2, 40
-451. Unisex - Jesus Christ - 0.0500, 2, 40
-452. Panic Paradise - iParano - 0.0500, 1, 20
-453. Panic Paradise - HaHAxD* - 0.0500, 1, 20
-454. Panic Paradise - Kicker - 0.0500, 1, 20
-455. Panic Paradise - Vendetta - 0.0500, 1, 20
-456. Panic Paradise - Forris - 0.0500, 1, 20
-457. Panic Paradise - Tropo - 0.0500, 1, 20
-458. Panic Paradise - Freezestyler - 0.0500, 1, 20
-459. Panic Paradise - Starkiller - 0.0500, 1, 20
-460. Panic Paradise - Colo-Colo - 0.0500, 1, 20
-461. Panic Paradise - Grk0ne - 0.0500, 1, 20
-462. Panic Paradise - ☯Mڶɴ3☯ - 0.0500, 1, 20
-463. Panic Paradise - Xi - 0.0500, 1, 20
-464. Panic Paradise - (D)Cor - 0.0500, 1, 20
-465. Panic Paradise - Cor - 0.0500, 1, 20
-466. Panic Paradise - bano - 0.0500, 1, 20
-467. Panic Paradise - lola - 0.0500, 1, 20
-468. Panic Paradise - Graves - 0.0500, 1, 20
-469. Panic Paradise - TyшkaNчuk - 0.0500, 1, 20
-470. Epinephrine - Shawn. - 0.0500, 1, 20
-471. Epinephrine - triki - 0.0500, 1, 20
-472. Epinephrine - Starkiller - 0.0500, 1, 20
-473. Epinephrine - StarkillerJr.<3 - 0.0500, 1, 20
-474. Epinephrine - xeno - 0.0500, 1, 20
-475. Epinephrine - xeno² - 0.0500, 1, 20
-476. Epinephrine - Grk0ne - 0.0500, 1, 20
-477. Epinephrine - Cyclic~ - 0.0500, 1, 20
-478. Epinephrine - (D)Cor - 0.0500, 1, 20
-479. Epinephrine - Cor - 0.0500, 1, 20
-480. Epinephrine - Gorden - 0.0500, 1, 20
-481. Epinephrine - bano - 0.0500, 1, 20
-482. Epinephrine - Dimp - 0.0500, 1, 20
-483. Epinephrine - Julia :3 - 0.0500, 1, 20
-484. Epinephrine - Graves - 0.0500, 1, 20
-485. Epinephrine - TyшkaNчuk - 0.0500, 1, 20
-486. Stop Over 3.0 - N9mkOik - 0.0500, 13, 260
-487. Cequals3 - Dummy|maggi323 - 0.0500, 2, 40
-488. Cequals3 - sorgaxD - 0.0500, 2, 40
-489. Cequals3 - coradax - 0.0500, 2, 40
-490. run_skizz_keres - Crytikal - 0.0498, 11, 221
-491. run_skizz_keres - Silent - 0.0498, 11, 221
-492. run_escape_the_darkness - Matrose l_I - 0.0496, 13, 262
-493. Enormous - wylect - 0.0495, 5, 101
-494. Agile - N9mkOik - 0.0495, 5, 101
-495. aled - AM|Notorious✔ - 0.0493, 26, 527
-496. BlackBear7 - Lexin - 0.0493, 102, 2069
-497. Pentamine - Shawn. - 0.0493, 10, 203
-498. supernice - *WuDL* - 0.0492, 3, 61
-499. run_grass_hell - Forris - 0.0492, 3, 61
-500. run_grass_hell - Xerhul - 0.0492, 3, 61
-501. run_grass_hell - Crytikal - 0.0492, 3, 61
-502. run_grass_hell - EryX - 0.0492, 3, 61
-503. run_grass_hell - Fudgyking - 0.0492, 3, 61
-504. run_grass_hell - PoKeMoN [TD] - 0.0492, 3, 61
-505. Spaceman - N9mkOik - 0.0490, 12, 245
-506. Alone Together 1.0 - Cireme - 0.0488, 4, 82
-507. Verification 9.0 - Hindu - 0.0488, 2, 41
-508. Verification 9.0 - FUMOFFU - 0.0488, 2, 41
-509. Verification 9.0 - gdin - 0.0488, 2, 41
-510. It'sYourDeath - kys :) - 0.0488, 2, 41
-511. miA - Vendetta - 0.0488, 4, 82
-512. Sunburst2 - nether - 0.0488, 4, 82
-513. Sunburst2 - ŊØṼÅ - 0.0488, 4, 82
-514. Sunburst2 - Noctua - 0.0488, 4, 82
-515. The Enchanted Clearing - =645654= - 0.0488, 2, 41
-516. The Enchanted Clearing - HaHAxD* - 0.0488, 2, 41
-517. The Enchanted Clearing - [NinjaSkill]:ON - 0.0488, 2, 41
-518. Arcadian - Shawn. - 0.0486, 7, 144
-519. Difficult 2.3 - !_Vergeboy_! - 0.0485, 5, 103
-520. AIB Quest 4 - Ninjed - 0.0482, 4, 83
-521. AIB Quest 4 - Ra!n - 0.0482, 4, 83
-522. Atmosphere - *~Rôny~* - 0.0482, 4, 83
-523. Atmosphere - Ferret - 0.0482, 4, 83
-524. Stop Over 4.0 - abcqwerty - 0.0482, 12, 249
-525. Stop Over 4.0 - ano :3 - 0.0482, 12, 249
-526. Lawrence - Themix - 0.0480, 6, 125
-527. To the moon - cc - 0.0480, 6, 125
-528. SavannaDrag 4 - Horst - 0.0479, 7, 146
-529. UpNDown3 - zyr.f - 0.0478, 28, 586
-530. Apex2 - Ra!n - 0.0476, 4, 84
-531. Regen 2 - Kicker - 0.0476, 2, 42
-532. Regen 2 - Yota. - 0.0476, 2, 42
-533. Aurora - Vendetta - 0.0476, 8, 168
-534. Cloud Dreams - Lwai - 0.0476, 2, 42
-535. Cloud Dreams - N9mkOik - 0.0476, 2, 42
-536. Mina - N9mkOik - 0.0476, 2, 42
-537. Mina - Noctua - 0.0476, 2, 42
-538. Mina - Lwai - 0.0476, 2, 42
-539. Mina - Cyclic~ - 0.0476, 2, 42
-540. DoomWorld - Cireme - 0.0476, 2, 42
-541. DoomWorld - Shawn. - 0.0476, 2, 42
-542. DoomWorld - Tyga. - 0.0476, 2, 42
-543. Skychase 2 - Shawn. - 0.0476, 4, 84
-544. Eternity - Lwai - 0.0472, 5, 106
-545. Stacked - OneLimeyBoi - 0.0469, 16, 341
-546. Fever - Shawn. - 0.0469, 3, 64
-547. DarkEagle - Ninjed - 0.0469, 6, 128
-548. Plocky - *~Rôny~* - 0.0468, 8, 171
-549. The Swamp - fikmesån - 0.0466, 21, 451
-550. At Sundown - MilTee - 0.0465, 8, 172
-551. Justice - Freezestyler - 0.0465, 4, 86
-552. Verification 3.6 - *~Rôny~* - 0.0465, 4, 86
-553. Verification 3.6 - Ferret - 0.0465, 4, 86
-554. run_inset_into_the_heavy_jungle - Push - 0.0465, 12, 258
-555. Crooked Mind - Cor - 0.0464, 11, 237
-556. run_golden_toilet - Hitaru - 0.0464, 9, 194
-557. CHILLUMINATI - Tea - 0.0463, 12, 259
-558. RocketIsKey - Black Jack - 0.0463, 22, 475
-559. Fly out of hell - Sasukey - 0.0462, 8, 173
-560. Just deep fly - Delirio - 0.0461, 29, 629
-561. Old Style - SkiLLz - 0.0459, 28, 610
-562. Just_Shotgun - *~Rôny~* - 0.0456, 24, 526
-563. Microlity - gdin - 0.0455, 4, 88
-564. Yumizo - gB. | Kayumi - 0.0455, 2, 44
-565. Yumizo - FUMOFFU - 0.0455, 2, 44
-566. Yumizo - Cor - 0.0455, 2, 44
-567. Tatooine - MilTee - 0.0455, 3, 66
-568. Tatooine - N9mkOik - 0.0455, 3, 66
-569. Striped Clouds - Cendren - 0.0455, 2, 44
-570. Generic World - Neox - 0.0455, 4, 88
-571. run_hard_hell - RedPig - 0.0455, 6, 132
-572. run_hard_hell - N9mkOik - 0.0455, 6, 132
-573. The Way to the Hell - Lexin - 0.0455, 6, 132
-574. Network - Roco - 0.0455, 2, 44
-575. Network - nether - 0.0455, 2, 44
-576. Kickout - .:Danytto:. - 0.0455, 2, 44
-577. Adrenaline 5 - =Pipou= - 0.0455, 1, 22
-578. Adrenaline 5 - Amu~Cookie - 0.0455, 1, 22
-579. Adrenaline 5 - 2oo - 0.0455, 1, 22
-580. Adrenaline 5 - TyшkaNчuk - 0.0455, 1, 22
-581. Adrenaline 5 - Freezestyler - 0.0455, 1, 22
-582. Adrenaline 5 - Wombat - 0.0455, 1, 22
-583. Adrenaline 5 - Forris - 0.0455, 1, 22
-584. Adrenaline 5 - Tropo - 0.0455, 1, 22
-585. Adrenaline 5 - DataClaw - 0.0455, 1, 22
-586. Adrenaline 5 - xeno - 0.0455, 1, 22
-587. Adrenaline 5 - Genex - 0.0455, 1, 22
-588. Adrenaline 5 - Starkiller - 0.0455, 1, 22
-589. Adrenaline 5 - Grk0ne - 0.0455, 1, 22
-590. Adrenaline 5 - Colo-Colo - 0.0455, 1, 22
-591. Adrenaline 5 - Cyclic~ - 0.0455, 1, 22
-592. Adrenaline 5 - Cendren - 0.0455, 1, 22
-593. Adrenaline 5 - Porphi - 0.0455, 1, 22
-594. Adrenaline 5 - zelda. - 0.0455, 1, 22
-595. Adrenaline 5 - (D)Cor - 0.0455, 1, 22
-596. Adrenaline 5 - Cor - 0.0455, 1, 22
-597. Adrenaline 5 - DaGiese :> - 0.0455, 1, 22
-598. Adrenaline 5 - DaSocke :> - 0.0455, 1, 22
-599. Lunar Base - gdin - 0.0455, 1, 22
-600. Lunar Base - =Schulzer= - 0.0455, 1, 22
-601. Lunar Base - LanuX - 0.0455, 1, 22
-602. Lunar Base - Goran - 0.0455, 1, 22
-603. Lunar Base - kys :) - 0.0455, 1, 22
-604. Lunar Base - TyшkaNчuk - 0.0455, 1, 22
-605. Lunar Base - Lorenzo - 0.0455, 1, 22
-606. Lunar Base - Shorts - 0.0455, 1, 22
-607. Lunar Base - nether - 0.0455, 1, 22
-608. Lunar Base - Starkiller - 0.0455, 1, 22
-609. Lunar Base - halts maul - 0.0455, 1, 22
-610. Lunar Base - Konsti - 0.0455, 1, 22
-611. Lunar Base - *~Rôny~* - 0.0455, 1, 22
-612. Lunar Base - HaHAxD* - 0.0455, 1, 22
-613. Lunar Base - coradax - 0.0455, 1, 22
-614. Lunar Base - Forris - 0.0455, 1, 22
-615. Lunar Base - Cor - 0.0455, 1, 22
-616. Lunar Base - Black Jack - 0.0455, 1, 22
-617. Lunar Base - Nyanto - 0.0455, 1, 22
-618. Lunar Base - N9mkOik - 0.0455, 1, 22
-619. Noh - >DragZ<showoff - 0.0455, 6, 132
-620. Road to Rank 1 - painn - 0.0455, 2, 44
-621. Road to Rank 1 - ɌʘϚКỤṨ - 0.0455, 2, 44
-622. Road to Rank 1 - ZimE - 0.0455, 2, 44
-623. Road to Rank 1 - .:Danytto:. - 0.0455, 2, 44
-624. Road to Rank 1 - Grk - 0.0455, 2, 44
-625. Nightstar 2 - Frucht - 0.0455, 2, 44
-626. Nightstar 2 - Miausuke - 0.0455, 2, 44
-627. Nightstar 2 - Shawn. - 0.0455, 2, 44
-628. Nightstar 2 - Grk0ne - 0.0455, 2, 44
-629. Nightstar 2 - Tyga. - 0.0455, 2, 44
-630. run_galaxy - Push - 0.0453, 11, 243
-631. run_redbull - Fudgyking - 0.0452, 47, 1040
-632. Fly to the Legends - .:Mivv - 0.0452, 7, 155
-633. Fly to the Legends - Sasukey - 0.0452, 7, 155
-634. Fly to the Legends - Lwai - 0.0452, 7, 155
-635. GLL - Ra!n - 0.0451, 6, 133
-636. Furypleasure - Colo-Colo - 0.0451, 6, 133
-637. Mines of Fear - Hindu - 0.0450, 5, 111
-638. Stop Over 1.0 - ReD - 0.0450, 25, 556
-639. Skywalk - Vendetta - 0.0449, 4, 89
-640. Just Triple Fly - Delirio - 0.0449, 12, 267
-641. Grind - *~Rôny~* - 0.0449, 4, 89
-642. run_blood_thirst - Fudgyking - 0.0448, 6, 134
-643. ghbdtn - kys :) - 0.0444, 10, 225
-644. Stay Alive - ^b[Bro] flummi - 0.0444, 2, 45
-645. Hostile - Tropo - 0.0444, 2, 45
-646. Caverun - Cor - 0.0444, 2, 45
-647. Caverun - Ninjed - 0.0444, 2, 45
-648. Caverun - Vendetta - 0.0444, 2, 45
-649. New World - Shawn. - 0.0444, 4, 90
-650. Quick - YAMBORGHINI - 0.0444, 4, 90
-651. Quick - Knuski - 0.0444, 4, 90
-652. Quick - N9mkOik [BOT] - 0.0444, 4, 90
-653. Springlobe 3 - Cor - 0.0444, 2, 45
-654. Hermit - nether - 0.0443, 9, 203
-655. run_three - EryX - 0.0443, 7, 158
-656. run_skizz_loop1200 - EryX - 0.0442, 14, 317
-657. Aimazing - Aoe - 0.0441, 3, 68
-658. Disposition - *~Rôny~* - 0.0441, 3, 68
-659. Disposition - Nyanto - 0.0441, 3, 68
-660. Disposition - Kicker - 0.0441, 3, 68
-661. Disposition - N9mkOik [CHEAT] - 0.0441, 3, 68
-662. Circle - Lady Saavik - 0.0441, 26, 590
-663. Day 'n' Night - Hindu - 0.0440, 4, 91
-664. Verification 2.1 - Silent - 0.0438, 37, 844
-665. ZooDrag - kys :) - 0.0438, 6, 137
-666. ZooDrag - Vendetta - 0.0438, 6, 137
-667. ZooDrag - Bonny - 0.0438, 6, 137
-668. Momentum - coradax - 0.0438, 6, 137
-669. Jungler - ScReeNy - 0.0438, 6, 137
-670. BrokeysChallenge - mikey12 - 0.0435, 2, 46
-671. BrokeysChallenge - kys :) - 0.0435, 2, 46
-672. Verification 3.9 - Ninjed - 0.0435, 7, 161
-673. Ecstasy - Loop :3 - 0.0435, 5, 115
-674. Ecstasy - Spyker - 0.0435, 5, 115
-675. Lamb - kys :) - 0.0435, 3, 69
-676. Lamb - *~Rôny~* - 0.0435, 3, 69
-677. Mirai - Shawn. - 0.0435, 3, 69
-678. Delirious - Sorah - 0.0435, 5, 115
-679. Hostile 2 - Hidden-Ezio - 0.0435, 1, 23
-680. Hostile 2 - ☆.Sυsнι♪ - 0.0435, 1, 23
-681. Hostile 2 - TyшkaNчuk - 0.0435, 1, 23
-682. Hostile 2 - Blake Griffin - 0.0435, 1, 23
-683. Hostile 2 - Kicker - 0.0435, 1, 23
-684. Hostile 2 - triki - 0.0435, 1, 23
-685. Hostile 2 - Starkiller - 0.0435, 1, 23
-686. Hostile 2 - Forris - 0.0435, 1, 23
-687. Hostile 2 - HaHAxD* - 0.0435, 1, 23
-688. Hostile 2 - Cyclic~ - 0.0435, 1, 23
-689. Hostile 2 - Grk0ne - 0.0435, 1, 23
-690. Hostile 2 - N9mkOik - 0.0435, 1, 23
-691. Hostile 2 - N9mkOik [CHEAT] - 0.0435, 1, 23
-692. Hostile 2 - BaconDrink - 0.0435, 1, 23
-693. Hostile 2 - bano - 0.0435, 1, 23
-694. Hostile 2 - (D)Cor - 0.0435, 1, 23
-695. Hostile 2 - Cor - 0.0435, 1, 23
-696. Hostile 2 - ☯Mڶɴ3☯ - 0.0435, 1, 23
-697. Hostile 2 - Xi - 0.0435, 1, 23
-698. Hostile 2 - Colo-Colo - 0.0435, 1, 23
-699. Looney [Extreme] - MilTee - 0.0435, 2, 46
-700. Looney [Extreme] - Cyclic~ - 0.0435, 2, 46
-701. Sparadrap - clefairy' - 0.0435, 5, 115
-702. Jazz Hands 2 - Starkiller - 0.0435, 1, 23
-703. Jazz Hands 2 - porco - 0.0435, 1, 23
-704. Jazz Hands 2 - Vendetta - 0.0435, 1, 23
-705. Jazz Hands 2 - Cor - 0.0435, 1, 23
-706. Jazz Hands 2 - Tyga. - 0.0435, 1, 23
-707. Jazz Hands 2 - a fess e mammt - 0.0435, 1, 23
-708. Jazz Hands 2 - Lwai - 0.0435, 1, 23
-709. Jazz Hands 2 - Kicker - 0.0435, 1, 23
-710. Jazz Hands 2 - triki - 0.0435, 1, 23
-711. Jazz Hands 2 - kys :) - 0.0435, 1, 23
-712. Jazz Hands 2 - Jimmy Jazz - 0.0435, 1, 23
-713. Jazz Hands 2 - Grk0ne - 0.0435, 1, 23
-714. Jazz Hands 2 - Brokecdx- - 0.0435, 1, 23
-715. Jazz Hands 2 - Cyclic~ - 0.0435, 1, 23
-716. Jazz Hands 2 - MilTee - 0.0435, 1, 23
-717. Jazz Hands 2 - BaconDrink - 0.0435, 1, 23
-718. Jazz Hands 2 - Bawki - 0.0435, 1, 23
-719. Jazz Hands 2 - Bug - 0.0435, 1, 23
-720. Jazz Hands 2 - DaGiese :> - 0.0435, 1, 23
-721. Not Adrenaline 6 - <BµmM> - 0.0435, 1, 23
-722. Not Adrenaline 6 - Shawn. - 0.0435, 1, 23
-723. Not Adrenaline 6 - NotLoop :3 - 0.0435, 1, 23
-724. Not Adrenaline 6 - Pistro - 0.0435, 1, 23
-725. Not Adrenaline 6 - Starkiller - 0.0435, 1, 23
-726. Not Adrenaline 6 - zelda. - 0.0435, 1, 23
-727. Not Adrenaline 6 - Lwai - 0.0435, 1, 23
-728. Not Adrenaline 6 - triki - 0.0435, 1, 23
-729. Not Adrenaline 6 - Grk0ne - 0.0435, 1, 23
-730. Not Adrenaline 6 - Cyclic~ - 0.0435, 1, 23
-731. Not Adrenaline 6 - Cendren - 0.0435, 1, 23
-732. Not Adrenaline 6 - Hesse - 0.0435, 1, 23
-733. Not Adrenaline 6 - bano - 0.0435, 1, 23
-734. Not Adrenaline 6 - Freezestyler - 0.0435, 1, 23
-735. Not Adrenaline 6 - Zhady - 0.0435, 1, 23
-736. Not Adrenaline 6 - Mamax_du_51 - 0.0435, 1, 23
-737. Not Adrenaline 6 - -Mage- - 0.0435, 1, 23
-738. Not Adrenaline 6 - Xi - 0.0435, 1, 23
-739. Not Adrenaline 6 - .:Danytto:. - 0.0435, 1, 23
-740. Not Adrenaline 6 - (D)Cor - 0.0435, 1, 23
-741. Not Adrenaline 6 - Cor - 0.0435, 1, 23
-742. Not Adrenaline 6 - DaGiese :> - 0.0435, 1, 23
-743. Not Adrenaline 6 - DaSocke :> - 0.0435, 1, 23
-744. Awayza - *~Rôny~* - 0.0432, 7, 162
-745. Push it 2 - Welf - 0.0431, 10, 232
-746. Movement I - Crytikal - 0.0430, 13, 302
-747. brainduck - Jim-panse - 0.0430, 4, 93
-748. brainduck - Cøke - 0.0430, 4, 93
-749. Rocky Horror Fly - Graves - 0.0429, 3, 70
-750. Rocky Horror Fly - Grk0ne - 0.0429, 3, 70
-751. The Rapture - Trap - 0.0427, 5, 117
-752. Short Sky - Spooky - 0.0426, 24, 563
-753. Ravillion - MilTee - 0.0426, 17, 399
-754. Justice 2 - Colo-Colo - 0.0426, 4, 94
-755. Adrenaline 4.2 - .:Danytto:. - 0.0426, 2, 47
-756. Adrenaline 4.2 - Iaan~| - 0.0426, 2, 47
-757. Woader - NANAMAR - 0.0424, 12, 283
-758. Dodge - Imperfect - 0.0423, 16, 378
-759. Verification 3.5 - Squee - 0.0423, 30, 709
-760. run_for_ghost - Fudgyking - 0.0423, 20, 473
-761. Cry - fikmesån - 0.0423, 12, 284
-762. Adragaline - milk - 0.0423, 3, 71
-763. Shockwave - Kicker - 0.0423, 3, 71
-764. 4u - <BµmM> - 0.0423, 3, 71
-765. Synesthesia - Lexin - 0.0423, 3, 71
-766. Synesthesia - Genex - 0.0423, 3, 71
-767. Impetuous - Teetee - 0.0422, 86, 2039
-768. Thomas - Im 'corneum - 0.0420, 5, 119
-769. Fly Around - Delirio - 0.0417, 18, 432
-770. WoodDivision V - kys :) - 0.0417, 13, 312
-771. WoodDivision V - MilTee - 0.0417, 13, 312
-772. nameless_run - EryX - 0.0417, 2, 48
-773. nameless_run - Noved - 0.0417, 2, 48
-774. nameless_run - Nyanto - 0.0417, 2, 48
-775. Aurora - kys :) - 0.0417, 7, 168
-776. Relentless - NYZE - 0.0417, 1, 24
-777. Relentless - triki - 0.0417, 1, 24
-778. Relentless - -Twist°~ - 0.0417, 1, 24
-779. Relentless - xeno - 0.0417, 1, 24
-780. Relentless - Wondernoob - 0.0417, 1, 24
-781. Relentless - brainless tee - 0.0417, 1, 24
-782. Relentless - Genex - 0.0417, 1, 24
-783. Relentless - Starkiller - 0.0417, 1, 24
-784. Relentless - Graves - 0.0417, 1, 24
-785. Relentless - TyшkaNчuk - 0.0417, 1, 24
-786. Relentless - Cor - 0.0417, 1, 24
-787. Relentless - HaHAxD* - 0.0417, 1, 24
-788. Relentless - BaconDrink - 0.0417, 1, 24
-789. Relentless - bano - 0.0417, 1, 24
-790. Relentless - Freezestyler - 0.0417, 1, 24
-791. Relentless - cc - 0.0417, 1, 24
-792. Commandont - Cireme - 0.0417, 1, 24
-793. Commandont - BaconDrink - 0.0417, 1, 24
-794. Commandont - I.K.U - 0.0417, 1, 24
-795. Commandont - Cor - 0.0417, 1, 24
-796. Commandont - DaGiese :> - 0.0417, 1, 24
-797. Commandont - Freezestyler - 0.0417, 1, 24
-798. Commandont - Starkiller - 0.0417, 1, 24
-799. Commandont - Shawn. - 0.0417, 1, 24
-800. Commandont - Mos - 0.0417, 1, 24
-801. Commandont - Tea - 0.0417, 1, 24
-802. Commandont - Limbo - 0.0417, 1, 24
-803. Commandont - Xi - 0.0417, 1, 24
-804. Commandont - Cyclic~ - 0.0417, 1, 24
-805. run_blue - Matrose l_I - 0.0415, 2790, 67258
-806. Extension 1.0 - Nyanto - 0.0415, 16, 386
-807. Verification 6.2 - Crytek - 0.0414, 6, 145
-808. SavannaDrag 4 - Vendetta - 0.0411, 6, 146
-809. Jelly - Blurry - 0.0411, 3, 73
-810. Jelly - Tyga. - 0.0411, 3, 73
-811. NUT_short_race6 - snailx3 - 0.0411, 960, 23367
-812. Triplecan - Crytikal - 0.0410, 5, 122
-813. Triplecan - Forris - 0.0410, 5, 122
-814. Triplecan - kys :) - 0.0410, 5, 122
-815. Triplecan - *~Rôny~* - 0.0410, 5, 122
-816. Regen 3 - Shawn. - 0.0408, 4, 98
-817. run_shutter - ROles!  l_I - 0.0408, 4, 98
-818. run_shutter - Im 'corneum - 0.0408, 4, 98
-819. Hitode - Cor - 0.0408, 2, 49
-820. Hitode - maggi323 - 0.0408, 2, 49
-821. Hitode - ano :3 - 0.0408, 2, 49
-822. Hitode - Lwai - 0.0408, 2, 49
-823. Canyon - N9mkOik - 0.0408, 4, 98
-824. brainduck2 - KlexMikrowelle - 0.0408, 2, 49
-825. brainduck2 - <BµmM> - 0.0408, 2, 49
-826. brainduck2 - NovaShock - 0.0408, 2, 49
-827. Gedan - EryX - 0.0408, 34, 834
-828. NUT_short_race2 - Mos - 0.0408, 141, 3460
-829. At Sundown - Vendetta - 0.0407, 7, 172
-830. Verification 3.7 - ReD - 0.0407, 5, 123
-831. Venture 2 - Shocker - 0.0405, 3, 74
-832. Injection 3 - Vendetta - 0.0405, 3, 74
-833. Injection 3 - kys :) - 0.0405, 3, 74
-834. Aufnahmetest_AE - Fudgyking - 0.0405, 35, 865
-835. SolarStrike - -Twist°~ - 0.0404, 4, 99
-836. SolarStrike - Shawn. - 0.0404, 4, 99
-837. Spiders - kys :) - 0.0403, 5, 124
-838. Provence - Moooo - 0.0402, 13, 323
-839. Ultimatum 2 - Kicker - 0.0400, 13, 325
-840. Triplecan 2 - Crytikal - 0.0400, 2, 50
-841. Triplecan 2 - Ninjed - 0.0400, 2, 50
-842. Triplecan 2 - reflect - 0.0400, 2, 50
-843. Triplecan 2 - Cyclic~ - 0.0400, 2, 50
-844. Verification 9.1 - Forris - 0.0400, 3, 75
-845. Lawrence - nealson T'nP - 0.0400, 5, 125
-846. Undisclosed - darky - 0.0400, 2, 50
-847. Undisclosed - milk - 0.0400, 2, 50
-848. Undisclosed - Starkiller - 0.0400, 2, 50
-849. Undisclosed - Fluday - 0.0400, 2, 50
-850. Undisclosed - |Michel - 0.0400, 2, 50
-851. 4q - Colo-Colo - 0.0400, 2, 50
-852. 4q - Grk0ne - 0.0400, 2, 50
-853. 4q - Kicker - 0.0400, 2, 50
-854. 4q - Hidden-Ezio - 0.0400, 2, 50
-855. 4q - Loop :3 - 0.0400, 2, 50
-856. DarkWorld - NovaShock - 0.0400, 3, 75
-857. Punica - Genex - 0.0400, 2, 50
-858. Punica - Jesus Christ - 0.0400, 2, 50
-859. Punica - Cazanna - 0.0400, 2, 50
-860. Lifture - Nyanto - 0.0400, 1, 25
-861. Lifture - gdin - 0.0400, 1, 25
-862. Lifture - Cor - 0.0400, 1, 25
-863. Lifture - Beiroc - 0.0400, 1, 25
-864. Lifture - Starkiller - 0.0400, 1, 25
-865. Lifture - Black Jack - 0.0400, 1, 25
-866. Lifture - FUMOFFU - 0.0400, 1, 25
-867. Lifture - =Schulzer= - 0.0400, 1, 25
-868. Lifture - Im 'corneum - 0.0400, 1, 25
-869. Lifture - Freezestyler - 0.0400, 1, 25
-870. Lifture - Lwai - 0.0400, 1, 25
-871. Lifture - Kicker - 0.0400, 1, 25
-872. Lifture - BaconDrink - 0.0400, 1, 25
-873. Lifture - Cendren - 0.0400, 1, 25
-874. Lifture - Hesse - 0.0400, 1, 25
-875. Lifture - Jim-panse - 0.0400, 1, 25
-876. Lifture - Grk0ne - 0.0400, 1, 25
-877. Lifture - Zorua - 0.0400, 1, 25
-878. SkipIt2 - EryX - 0.0399, 80, 2004
-879. run_out_jungle - Fudgyking - 0.0399, 11, 276
-880. Desert Mine - *~Rôny~* - 0.0396, 4, 101
-881. Enormous - nealson T'nP - 0.0396, 4, 101
-882. Enormous - Ninjed - 0.0396, 4, 101
-883. Enormous - Okami - 0.0396, 4, 101
-884. Agile - Shawn. - 0.0396, 4, 101
-885. KeepOut - kys :) - 0.0395, 10, 253
-886. likeOldschool - Grk0ne - 0.0395, 3, 76
-887. Eclipse - Tropo - 0.0395, 3, 76
-888. Eclipse - lufu1 - 0.0395, 3, 76
-889. Squidgy - cunt - 0.0394, 16, 406
-890. Insane 3 - Beiroc - 0.0392, 2, 51
-891. Insane 3 - Soapy Sandwich - 0.0392, 2, 51
-892. Triple Kill - Wombot - 0.0392, 2, 51
-893. Triple Kill - Konsti - 0.0392, 2, 51
-894. Binary - N9mkOik - 0.0392, 8, 204
-895. ChillDontKill - Saki` - 0.0392, 2, 51
-896. ChillDontKill - Colo-Colo - 0.0392, 2, 51
-897. ChillDontKill - Cyclic~ - 0.0392, 2, 51
-898. ChillDontKill - .:Danytto:. - 0.0392, 2, 51
-899. ChillDontKill - Grk0ne - 0.0392, 2, 51
-900. ChillDontKill - bano - 0.0392, 2, 51
-901. run_radioactive - !_Vergeboy_! - 0.0391, 23, 588
-902. Embrace - gdin - 0.0391, 5, 128
-903. Honkstar - *~Rôny~* - 0.0390, 3, 77
-904. Honkstar - Lwai - 0.0390, 3, 77
-905. Difficult 2.3 - ._-:!zZz!:-_. - 0.0388, 4, 103
-906. Difficult 2.3 - nealson T'nP - 0.0388, 4, 103
-907. Ephemeral - ^b[Bro] flummi - 0.0388, 8, 206
-908. Draxut - TNT - 0.0388, 9, 232
-909. run_inset_into_the_heavy_jungle - Elephant - 0.0388, 10, 258
-910. EaSy_HarD 4 - Chak - 0.0388, 5, 129
-911. Fly to the Legends - nealson T'nP - 0.0387, 6, 155
-912. WSMS - *~Rôny~* - 0.0387, 14, 362
-913. Regen - Shawn. - 0.0385, 3, 78
-914. Honkstar 2 - Honky_Tonk_Man - 0.0385, 2, 52
-915. Honkstar 2 - nealson T'nP - 0.0385, 2, 52
-916. Honkstar 2 - ZimE - 0.0385, 2, 52
-917. Honkstar 2 - N9mkOik - 0.0385, 2, 52
-918. Dry Valley - Trap - 0.0385, 7, 182
-919. AnotherEra - *Ninja* - 0.0385, 1, 26
-920. AnotherEra - gB. | FeIs - 0.0385, 1, 26
-921. AnotherEra - gB. | Kayumi - 0.0385, 1, 26
-922. AnotherEra - 2oo - 0.0385, 1, 26
-923. AnotherEra - Ninja_Valik - 0.0385, 1, 26
-924. AnotherEra - milk - 0.0385, 1, 26
-925. AnotherEra - (1)TyшkaNчuk - 0.0385, 1, 26
-926. AnotherEra - TyшkaNчuk - 0.0385, 1, 26
-927. AnotherEra - Starkiller - 0.0385, 1, 26
-928. AnotherEra - Cor - 0.0385, 1, 26
-929. AnotherEra - HaHAxD* - 0.0385, 1, 26
-930. AnotherEra - god*Xola_Xola77 - 0.0385, 1, 26
-931. AnotherEra - Gorden - 0.0385, 1, 26
-932. AnotherEra - Wombat - 0.0385, 1, 26
-933. AnotherEra - Xi - 0.0385, 1, 26
-934. AnotherEra - .:Danytto:. - 0.0385, 1, 26
-935. AnotherEra - Grk0ne - 0.0385, 1, 26
-936. AnotherEra - -Denox/ - 0.0385, 1, 26
-937. AnotherEra - Grk - 0.0385, 1, 26
-938. AnotherEra - Shawn. - 0.0385, 1, 26
-939. AnotherEra - triki - 0.0385, 1, 26
-940. AnotherEra - Failer - 0.0385, 1, 26
-941. AnotherEra - MPA3b - 0.0385, 1, 26
-942. AnotherEra - bano - 0.0385, 1, 26
-943. AnotherEra - Freezestyler - 0.0385, 1, 26
-944. AnotherEra - Genex - 0.0385, 1, 26
-945. Stereotype 2 - 2oo - 0.0385, 1, 26
-946. Stereotype 2 - DarkKenny - 0.0385, 1, 26
-947. Stereotype 2 - milk - 0.0385, 1, 26
-948. Stereotype 2 - Konsti - 0.0385, 1, 26
-949. Stereotype 2 - HaHAxD* - 0.0385, 1, 26
-950. Stereotype 2 - Starkiller - 0.0385, 1, 26
-951. Stereotype 2 - Cendren - 0.0385, 1, 26
-952. Stereotype 2 - bano - 0.0385, 1, 26
-953. Stereotype 2 - Tropo - 0.0385, 1, 26
-954. Stereotype 2 - Zwelf - 0.0385, 1, 26
-955. Stereotype 2 - 950 - 0.0385, 1, 26
-956. Stereotype 2 - Freezestyler - 0.0385, 1, 26
-957. Stereotype 2 - Grk0ne - 0.0385, 1, 26
-958. Stereotype 2 - .:Danytto:. - 0.0385, 1, 26
-959. Stereotype 2 - Colo-Colo - 0.0385, 1, 26
-960. Stereotype 2 - Billie Eilish - 0.0385, 1, 26
-961. Stereotype 2 - ~Thunder~ - 0.0385, 1, 26
-962. Stereotype 2 - Kicker - 0.0385, 1, 26
-963. Stereotype 2 - opa - 0.0385, 1, 26
-964. Stereotype 2 - Cyclic~ - 0.0385, 1, 26
-965. Stereotype 2 - (D)Cor - 0.0385, 1, 26
-966. Stereotype 2 - =Schulzer= - 0.0385, 1, 26
-967. Stereotype 2 - A-Team - 0.0385, 1, 26
-968. Stereotype 2 - Cor - 0.0385, 1, 26
-969. Stereotype 2 - TyшkaNчuk - 0.0385, 1, 26
-970. Stereotype 2 - Graves - 0.0385, 1, 26
-971. DarkSpy - MilTee - 0.0385, 4, 104
-972. DarkSpy - Lwai - 0.0385, 4, 104
-973. Airsky - Vendetta - 0.0385, 2, 52
-974. Genericore 6 - HaHAxD* - 0.0385, 3, 78
-975. Genericore 6 - cc - 0.0385, 3, 78
-976. Generic Fly - Cireme - 0.0385, 2, 52
-977. Generic Fly - Spyker - 0.0385, 2, 52
-978. Generic Fly - Graves - 0.0385, 2, 52
-979. Generic Fly - ScReeNy - 0.0385, 2, 52
-980. Generic Fly - ɌʘϚКỤṨ - 0.0385, 2, 52
-981. Tatooine 2 - <BµmM> - 0.0385, 1, 26
-982. Tatooine 2 - Forris - 0.0385, 1, 26
-983. Tatooine 2 - Freezestyler - 0.0385, 1, 26
-984. Tatooine 2 - Starkiller - 0.0385, 1, 26
-985. Tatooine 2 - Tropo - 0.0385, 1, 26
-986. Tatooine 2 - iParano - 0.0385, 1, 26
-987. Tatooine 2 - AERO=NOEZ?AMA? - 0.0385, 1, 26
-988. Tatooine 2 - Kicker - 0.0385, 1, 26
-989. Tatooine 2 - MilTee - 0.0385, 1, 26
-990. Tatooine 2 - Vendetta - 0.0385, 1, 26
-991. Tatooine 2 - .DanieL. - 0.0385, 1, 26
-992. Tatooine 2 - lil cyclic - 0.0385, 1, 26
-993. Tatooine 2 - .:Danytto:. - 0.0385, 1, 26
-994. Tatooine 2 - Cyclic~ - 0.0385, 1, 26
-995. Tatooine 2 - Fermer - 0.0385, 1, 26
-996. Tatooine 2 - N9mkOik - 0.0385, 1, 26
-997. Tatooine 2 - N9mkOik [CHEAT] - 0.0385, 1, 26
-998. Tatooine 2 - triki - 0.0385, 1, 26
-999. Tatooine 2 - Cor - 0.0385, 1, 26
-1000. Tatooine 2 - cc - 0.0385, 1, 26
+220. DontMove - Dancao - 0.0680, 7, 103
+221. yoshiloop - Push - 0.0679, 18, 265
+222. Honkstar - N9mkOik - 0.0674, 6, 89
+223. Microlity - Micro - 0.0667, 7, 105
+224. Airsky - Grk0ne - 0.0667, 4, 60
+225. run_world_war_zero - EryX - 0.0667, 3, 45
+226. run_world_war_zero - N9mkOik - 0.0667, 3, 45
+227. Resistance - Kicker - 0.0667, 3, 45
+228. Resistance - Cor - 0.0667, 3, 45
+229. DarkSpy 2 - ☆.Sυsнι♪ - 0.0667, 4, 60
+230. DarkSpy 2 - Lwai - 0.0667, 4, 60
+231. kipling - Kicker - 0.0667, 5, 75
+232. kipling - N9mkOik - 0.0667, 5, 75
+233. Masquerade - Yota. - 0.0658, 10, 152
+234. Regen 2 - Vendetta - 0.0652, 3, 46
+235. run_skizz_loop1200 - Fudgyking - 0.0652, 23, 353
+236. Pharoah - *~Rôny~* - 0.0645, 4, 62
+237. Falling Down - Grk0ne - 0.0645, 2, 31
+238. Falling Down - Cyclic~ - 0.0645, 2, 31
+239. Falling Down - Shawn. - 0.0645, 2, 31
+240. Jazz Hands 2 - N9mkOik - 0.0645, 2, 31
+241. Jazz Hands 2 - Shawn. - 0.0645, 2, 31
+242. Jazz Hands 2 - Cyclic~ - 0.0645, 2, 31
+243. Jazz Hands 2 - 'Cסugαr♫ - 0.0645, 2, 31
+244. Ravillion - 人形 - 0.0644, 32, 497
+245. The Dungeon - maggi323 - 0.0642, 17, 265
+246. Stacked - Dimp - 0.0641, 28, 437
+247. Verification 3.9 - FUMOFFU - 0.0636, 11, 173
+248. Embrace - Shawn. - 0.0636, 11, 173
+249. nameless_run - nether - 0.0635, 4, 63
+250. blmapV3ROYAL - Antoo :3 - 0.0635, 16, 252
+251. Synesthesia - Spyker - 0.0633, 5, 79
+252. Stop Over 4.0 - Chao - 0.0632, 27, 427
+253. Polarity - Folugen - 0.0631, 13, 206
+254. run_shutter - Fudgyking - 0.0625, 7, 112
+255. GetSpeed2 - N9mkOik - 0.0625, 10, 160
+256. Looney [Extreme] - Shawn. - 0.0625, 4, 64
+257. Looney [Extreme] - Spooky - 0.0625, 4, 64
+258. Heartcore - Yota. - 0.0625, 8, 128
+259. Aimlicious - Vendetta - 0.0625, 2, 32
+260. Aimlicious - Shawn. - 0.0625, 2, 32
+261. Aimlicious - Yota. - 0.0625, 2, 32
+262. Sparadrap - N9mkOik - 0.0625, 8, 128
+263. Sparadrap - Lexin - 0.0625, 8, 128
+264. Sparadrap - clefairy' - 0.0625, 8, 128
+265. Blood Moon - Noctua - 0.0625, 2, 32
+266. Blood Moon - Tyga. - 0.0625, 2, 32
+267. Blood Moon - J$ON - 0.0625, 2, 32
+268. Blood Moon - Bug - 0.0625, 2, 32
+269. Blood Moon - Esckiller - 0.0625, 2, 32
+270. run_pink.lila - another - 0.0620, 42, 677
+271. Stop Over 3.0 - xeno - 0.0619, 19, 307
+272. Wormhole - N9mkOik - 0.0618, 156, 2526
+273. Failable - Cor - 0.0617, 5, 81
+274. BlackBear7 - Vendetta - 0.0617, 169, 2741
+275. run_skizzpopo - Fudgyking - 0.0616, 55, 893
+276. DarkSpy - Yota. - 0.0614, 7, 114
+277. Disabled - 路木 - 0.0612, 3, 49
+278. FreeDoom - =Pipou= - 0.0610, 10, 164
+279. run_birming - N9mkOik - 0.0610, 5, 82
+280. Soap - Shawn. - 0.0610, 5, 82
+281. Soap - Tyga. - 0.0610, 5, 82
+282. run_alkohol - N9mkOik - 0.0607, 25, 412
+283. Cequals3 - N9mkOik - 0.0606, 4, 66
+284. Exhale - Cyclic~ - 0.0600, 3, 50
+285. Exhale - Grk0ne - 0.0600, 3, 50
+286. Sunburst - *~Rôny~* - 0.0594, 12, 202
+287. Crooked Mind - Ra!n - 0.0593, 15, 253
+288. Ecstasy - Vendetta - 0.0593, 8, 135
+289. Network - Ninjed - 0.0588, 3, 51
+290. Network - Ra!n - 0.0588, 3, 51
+291. Network - N9mkOik - 0.0588, 3, 51
+292. Disposition - Beiroc - 0.0588, 5, 85
+293. Disposition - N9mkOik - 0.0588, 5, 85
+294. Binary - Vendetta - 0.0588, 14, 238
+295. Agile - LanuX - 0.0588, 7, 119
+296. LichKing - Frosty - 0.0588, 2, 34
+297. Rush Clouds - xeno - 0.0588, 2, 34
+298. Rush Clouds - Gwendal - 0.0588, 2, 34
+299. Euthanasia - maggi323 - 0.0588, 1, 17
+300. Euthanasia - N9mkOik - 0.0588, 1, 17
+301. Euthanasia - Tezcan - 0.0588, 1, 17
+302. Euthanasia - Ruchyz - 0.0588, 1, 17
+303. Euthanasia - BaconDrink - 0.0588, 1, 17
+304. Euthanasia - superdial - 0.0588, 1, 17
+305. Euthanasia - Truxton - 0.0588, 1, 17
+306. Euthanasia - =Schulzer= - 0.0588, 1, 17
+307. Euthanasia - Cor - 0.0588, 1, 17
+308. Euthanasia - okmine|Bro - 0.0588, 1, 17
+309. run_skizz_keres - Silent - 0.0586, 16, 273
+310. run_hot_or_not - po² - 0.0583, 68, 1167
+311. DontMove - 123dd - 0.0583, 6, 103
+312. DontMove - KuNao - 0.0583, 6, 103
+313. Adrenaline 4.2 - Colo-Colo - 0.0580, 4, 69
+314. brainduck2 - Freezestyler - 0.0580, 4, 69
+315. brainduck2 - Zhady - 0.0580, 4, 69
+316. brainduck2 - bano - 0.0580, 4, 69
+317. It'sYourDeath - nealson T'nP - 0.0577, 3, 52
+318. It'sYourDeath - Yota. - 0.0577, 3, 52
+319. It'sYourDeath - Tea - 0.0577, 3, 52
+320. Unisex - Shawn. - 0.0577, 3, 52
+321. Fall into the Future - daladen - 0.0577, 3, 52
+322. Entropy - ano :3 - 0.0577, 3, 52
+323. Entropy - Lwai - 0.0577, 3, 52
+324. run_escape_the_darkness - Matrose l_I - 0.0576, 17, 295
+325. Flamara - Ra!n - 0.0576, 8, 139
+326. AIB Quest 4 - *~Rôny~* - 0.0571, 6, 105
+327. Complex - Yota. - 0.0571, 2, 35
+328. Complex - Shawn. - 0.0571, 2, 35
+329. Sunburst2 - *~Rôny~* - 0.0568, 5, 88
+330. Sunburst2 - N9mkOik - 0.0568, 5, 88
+331. Sky Movement - *~Rôny~* - 0.0566, 3, 53
+332. Flow Fever - Qywinc - 0.0566, 3, 53
+333. Flow Fever - Cor - 0.0566, 3, 53
+334. Spaceman - *~Rôny~* - 0.0565, 16, 283
+335. run_groove - Fudgyking - 0.0565, 30, 531
+336. Repentance - Yota. - 0.0565, 7, 124
+337. aled II - Kicker - 0.0561, 23, 410
+338. BlackBear6 - RayB. - 0.0556, 73, 1314
+339. GG - iParano - 0.0556, 3, 54
+340. Cloud Dreams - sorgaxD - 0.0556, 3, 54
+341. Road to Rank 1 - Shawn. - 0.0556, 3, 54
+342. Loopie - BaconDrink - 0.0556, 9, 162
+343. Commandont - nexusrf - 0.0556, 2, 36
+344. Commandont - .:Danytto:. - 0.0556, 2, 36
+345. Commandont - ano :3 - 0.0556, 2, 36
+346. Commandont - Мамбо - 0.0556, 2, 36
+347. Legacy - Tea - 0.0556, 3, 54
+348. Mana - Tyga. - 0.0556, 3, 54
+349. Mana - ©ßøæø® - 0.0556, 3, 54
+350. Jungle Rush - Tea - 0.0556, 5, 90
+351. Jungle Rush - Cyclic~ - 0.0556, 5, 90
+352. DarkEagle - *~Rôny~* - 0.0552, 8, 145
+353. Autumn Sky - N9mkOik - 0.0547, 11, 201
+354. run_three - Fudgyking - 0.0547, 11, 201
+355. Enormous - *~Rôny~* - 0.0547, 7, 128
+356. Enormous - N9mkOik - 0.0547, 7, 128
+357. Mina - N9mkOik - 0.0545, 3, 55
+358. Mina - xeno - 0.0545, 3, 55
+359. Mina - 'Cסugαr♫ - 0.0545, 3, 55
+360. Skychase 2 - Cor - 0.0545, 6, 110
+361. Heraconx - RedFight - 0.0542, 9, 166
+362. BlackBear5 - Nekoma - 0.0541, 34, 628
+363. Stereotype 5 - bano - 0.0541, 2, 37
+364. Stereotype 5 - Cor - 0.0541, 2, 37
+365. Lifture - Le Petit Prince - 0.0541, 2, 37
+366. Lifture - maggi323 - 0.0541, 2, 37
+367. Ton 2 - Cor - 0.0541, 2, 37
+368. Ton 2 - cute af - 0.0541, 2, 37
+369. Amazing Drags - Lwai - 0.0538, 26, 483
+370. Nyan Cat - Tropo - 0.0538, 110, 2044
+371. Hell Fly - Delirio - 0.0537, 30, 559
+372. Yumizo - FUMOFFU - 0.0536, 3, 56
+373. run_shutter - RedPig - 0.0536, 6, 112
+374. Just Triple Fly - Lunamy - 0.0535, 16, 299
+375. Polarity - Vendetta - 0.0534, 11, 206
+376. Damage - !_Vergeboy_! - 0.0533, 4, 75
+377. kipling - xeno - 0.0533, 4, 75
+378. Gedan - Vaiper - 0.0533, 47, 882
+379. Difficult 2.3 - Lexin - 0.0531, 6, 113
+380. run_galaxy - Push - 0.0530, 16, 302
+381. Verification 7.2 - *~Rôny~* - 0.0529, 11, 208
+382. Copy Love Box - Rodolfo0711 - 0.0528, 21, 398
+383. run_not_short - Weonix - 0.0527, 38, 721
+384. likeOldschool - Colo-Colo - 0.0526, 4, 76
+385. Equivalent Exchange - ☆.Sυsнι♪ - 0.0526, 2, 38
+386. Equivalent Exchange - Cyclic~ - 0.0526, 2, 38
+387. Equivalent Exchange - 'Cסugαr♫ - 0.0526, 2, 38
+388. Momentum - Kicker - 0.0526, 9, 171
+389. noru - Tyga. - 0.0526, 4, 76
+390. noru - Dimp - 0.0526, 4, 76
+391. noru - vak - 0.0526, 4, 76
+392. Not Naufrage 4 - Shawn. - 0.0526, 2, 38
+393. Not Naufrage 4 - ✧Rune - 0.0526, 2, 38
+394. Not Naufrage 4 - murpi - 0.0526, 2, 38
+395. Not Naufrage 4 - OnePiece - 0.0526, 2, 38
+396. Not Naufrage 4 - <BµmM> - 0.0526, 2, 38
+397. BlackBear6 - Exotix - 0.0525, 69, 1314
+398. aled - AM|Notorious✔ - 0.0525, 46, 877
+399. Time Calculator - Jac0X - 0.0523, 8, 153
+400. Time Calculator - 123dd - 0.0523, 8, 153
+401. Time Calculator - KuNao - 0.0523, 8, 153
+402. Time Calculator - MoYan - 0.0523, 8, 153
+403. Nyanpasu - ☆.Sυsнι♪ - 0.0522, 7, 134
+404. Alone Together 1.0 - Shawn. - 0.0521, 5, 96
+405. Injection 3 - Yota. - 0.0521, 5, 96
+406. Shortgun - coradax - 0.0519, 4, 77
+407. run_4xerhul - Fudgyking - 0.0519, 35, 674
+408. Desert Mine - Yota. - 0.0517, 6, 116
+409. blmapV3ROYAL - El Sutrini - 0.0516, 13, 252
+410. Verification 3.6 - nether - 0.0515, 5, 97
+411. Stop Over 4.0 - Chrona - 0.0515, 22, 427
+412. run_skizz_keres - Push - 0.0513, 14, 273
+413. Nalar - Cyclic~ - 0.0513, 2, 39
+414. Nalar - N9mkOik - 0.0513, 2, 39
+415. Nalar - 'Cסugαr♫ - 0.0513, 2, 39
+416. Aries - ✧Rune - 0.0513, 2, 39
+417. Aries - Colo-Colo - 0.0513, 2, 39
+418. Speedster - Genex - 0.0512, 60, 1173
+419. Victory 3 - NovaShock - 0.0510, 5, 98
+420. First Try - Shawn. - 0.0508, 3, 59
+421. The Enchanted Clearing - Vendetta - 0.0508, 3, 59
+422. Lamb - Yota. - 0.0506, 4, 79
+423. Stereotype 4 - Cor - 0.0500, 2, 40
+424. Airsky - Cyclic~ - 0.0500, 3, 60
+425. HearTbeaT - Forris - 0.0500, 3, 60
+426. Stereotype 3 - =Schulzer= - 0.0500, 2, 40
+427. Stereotype 3 - Tropo - 0.0500, 2, 40
+428. To the moon - Black Jack - 0.0500, 8, 160
+429. Hitode - N9mkOik - 0.0500, 3, 60
+430. Hitode - *~Rôny~* - 0.0500, 3, 60
+431. Hitode - coradax - 0.0500, 3, 60
+432. Noh - N9mkOik - 0.0500, 7, 140
+433. DarkSpy 2 - Yota. - 0.0500, 3, 60
+434. DarkSpy 2 - N9mkOik - 0.0500, 3, 60
+435. GetSpeed 3 - Black Jack - 0.0500, 3, 60
+436. GetSpeed 3 - Nejik :3 - 0.0500, 3, 60
+437. GetSpeed 3 - I.K.U - 0.0500, 3, 60
+438. Onyx - Freezestyler - 0.0500, 3, 60
+439. Onyx - Lexin - 0.0500, 3, 60
+440. Onyx - Sui :3 - 0.0500, 3, 60
+441. Onyx - Ļåҕ | Qed - 0.0500, 3, 60
+442. Rapid - Rico - 0.0500, 7, 140
+443. Fly to the Legends 2 - Sasukey - 0.0498, 34, 683
+444. Nincorn - NovaShock - 0.0495, 5, 101
+445. 2 To Tango - Soapy Sandwich - 0.0495, 10, 202
+446. Wormhole - Grk0ne - 0.0495, 125, 2526
+447. Failable - ☯Mڶɴ3☯ - 0.0494, 4, 81
+448. Loopie - N9mkOik - 0.0494, 8, 162
+449. The Fusion - Spyker - 0.0493, 7, 142
+450. The Fusion - Shawn. - 0.0493, 7, 142
+451. Reckless - iParano - 0.0493, 14, 284
+452. Hostile - =Pipou= - 0.0492, 3, 61
+453. Hostile - Colo-Colo - 0.0492, 3, 61
+454. Zephronikon - Jim-panse - 0.0490, 10, 204
+455. Safe Place - Yota. - 0.0488, 2, 41
+456. Safe Place - N9mkOik - 0.0488, 2, 41
+457. Safe Place - Bug - 0.0488, 2, 41
+458. nore - Cireme - 0.0488, 12, 246
+459. Zap - Kandiifloss - 0.0487, 66, 1355
+460. Cave Fly - WAFthfguaq19012 - 0.0486, 7, 144
+461. Bizarre Untold - ScReeNy - 0.0486, 17, 350
+462. DontMove - rhino - 0.0485, 5, 103
+463. Punica - ScReeNy - 0.0484, 3, 62
+464. run_redbull - RedPig - 0.0483, 56, 1160
+465. DarkEagle - Ninjed - 0.0483, 7, 145
+466. run_longWAR - Fudgyking - 0.0479, 51, 1064
+467. DeepDrag - Ninja_Valik - 0.0478, 12, 251
+468. Puzzle Box - Black Jack - 0.0477, 28, 587
+469. Microlity - *~Rôny~* - 0.0476, 5, 105
+470. Animus - Hidden-Ezio - 0.0476, 2, 42
+471. Animus - Tropo - 0.0476, 2, 42
+472. Animus - bano - 0.0476, 2, 42
+473. Animus - Cireme - 0.0476, 2, 42
+474. Animus - Cor - 0.0476, 2, 42
+475. Animus - Freezestyler - 0.0476, 2, 42
+476. Animus - Konsti - 0.0476, 2, 42
+477. Adragaline 2 - Vendetta - 0.0476, 3, 63
+478. Speedfly - Vendetta - 0.0476, 2, 42
+479. Firestone - Kicker - 0.0476, 2, 42
+480. Firestone - N9mkOik - 0.0476, 2, 42
+481. Genericore 8 - Cyclic~ - 0.0476, 2, 42
+482. Genericore 8 - TyшkaNчuk - 0.0476, 2, 42
+483. Equivalent Exchange 2 - Vendetta - 0.0476, 2, 42
+484. Equivalent Exchange 2 - Lwai - 0.0476, 2, 42
+485. Back in the sky - :0 - 0.0476, 2, 42
+486. blmapV3ROYAL - TomasArm - 0.0476, 12, 252
+487. ECHOR - Nejik :3 - 0.0476, 2, 42
+488. ECHOR - ✧Rune - 0.0476, 2, 42
+489. ECHOR - Donger - 0.0476, 2, 42
+490. ECHOR - Chyste - 0.0476, 2, 42
+491. ECHOR - N9mkOik - 0.0476, 2, 42
+492. run_4mystery - Fudgyking - 0.0475, 29, 610
+493. Maximum speed - kill the tee - 0.0473, 16, 338
+494. Delirious - Freezestyler - 0.0473, 7, 148
+495. run_pink.lila - Hitaru - 0.0473, 32, 677
+496. Killstreak 2 - [Nub]Wiesel - 0.0470, 27, 575
+497. Enormous - Ra!n - 0.0469, 6, 128
+498. Looney [Extreme] - N9mkOik - 0.0469, 3, 64
+499. Heartcore - N9mkOik - 0.0469, 6, 128
+500. GetSpeed - Konsti - 0.0466, 19, 408
+501. Aimazing - Aoe - 0.0465, 4, 86
+502. Chill Let's Climb - Nocsis - 0.0464, 126, 2713
+503. The Swamp - fikmesån - 0.0464, 25, 539
+504. Aufnahmetest 3 - Ra!n - 0.0463, 5, 108
+505. Aufnahmetest 3 - N9mkOik - 0.0463, 5, 108
+506. Embrace - N9mkOik - 0.0462, 8, 173
+507. Next LvL - Don´t be sorry - 0.0462, 11, 238
+508. Generic Fly - iParano - 0.0462, 3, 65
+509. Generic Fly - Shawn. - 0.0462, 3, 65
+510. Generic Fly - Skyrel - 0.0462, 3, 65
+511. Masquerade - I.K.U - 0.0461, 7, 152
+512. run_painted - Fudgyking - 0.0459, 13, 283
+513. Spaceman - N9mkOik - 0.0459, 13, 283
+514. Triplecan 2 - Gridwyn - 0.0455, 3, 66
+515. Relief - kezo - 0.0455, 2, 44
+516. Relief - Vendetta - 0.0455, 2, 44
+517. Relief - Grk0ne - 0.0455, 2, 44
+518. Striped Clouds - _ - 0.0455, 2, 44
+519. run_inset_into_the_light - EryX - 0.0455, 13, 286
+520. Mirai - Cyclic~ - 0.0455, 4, 88
+521. Mirai - Grk0ne - 0.0455, 4, 88
+522. Sunburst2 - nether - 0.0455, 4, 88
+523. Sunburst2 - ŊØṼÅ - 0.0455, 4, 88
+524. Sunburst2 - Noctua - 0.0455, 4, 88
+525. Lunar Base - gdin - 0.0455, 1, 22
+526. Lunar Base - =Schulzer= - 0.0455, 1, 22
+527. Lunar Base - LanuX - 0.0455, 1, 22
+528. Lunar Base - Goran - 0.0455, 1, 22
+529. Lunar Base - Yota. - 0.0455, 1, 22
+530. Lunar Base - TyшkaNчuk - 0.0455, 1, 22
+531. Lunar Base - Łorenzo→♡ - 0.0455, 1, 22
+532. Lunar Base - Shorts - 0.0455, 1, 22
+533. Lunar Base - nether - 0.0455, 1, 22
+534. Lunar Base - Starkiller - 0.0455, 1, 22
+535. Lunar Base - halts maul - 0.0455, 1, 22
+536. Lunar Base - Konsti - 0.0455, 1, 22
+537. Lunar Base - *~Rôny~* - 0.0455, 1, 22
+538. Lunar Base - HaHAxD* - 0.0455, 1, 22
+539. Lunar Base - coradax - 0.0455, 1, 22
+540. Lunar Base - Forris - 0.0455, 1, 22
+541. Lunar Base - Cor - 0.0455, 1, 22
+542. Lunar Base - Black Jack - 0.0455, 1, 22
+543. Lunar Base - Nyanto - 0.0455, 1, 22
+544. Lunar Base - N9mkOik - 0.0455, 1, 22
+545. Cequals3 - Kicker - 0.0455, 3, 66
+546. run_unbelievable - Inner peace - 0.0455, 1, 22
+547. run_unbelievable - Kicker - 0.0455, 1, 22
+548. run_unbelievable - J$ON - 0.0455, 1, 22
+549. run_unbelievable - Comebäck - 0.0455, 1, 22
+550. run_unbelievable - Starkiller - 0.0455, 1, 22
+551. run_unbelievable - BaconDrink - 0.0455, 1, 22
+552. run_unbelievable - NeXus - 0.0455, 1, 22
+553. run_unbelievable - Konsti - 0.0455, 1, 22
+554. run_unbelievable - archimede67 - 0.0455, 1, 22
+555. run_unbelievable - Arch Linux - 0.0455, 1, 22
+556. run_unbelievable - Cor - 0.0455, 1, 22
+557. run_unbelievable - =Schulzer= - 0.0455, 1, 22
+558. run_unbelievable - Cøke - 0.0455, 1, 22
+559. run_unbelievable - Freezestyler - 0.0455, 1, 22
+560. run_unbelievable - Issi - 0.0455, 1, 22
+561. run_unbelievable - Tezcan - 0.0455, 1, 22
+562. run_unbelievable - superdial - 0.0455, 1, 22
+563. Fly to the Legends - Lwai - 0.0450, 9, 200
+564. Verification 9.1 - Ninjed - 0.0449, 4, 89
+565. run_4xerhul2 - Push - 0.0448, 9, 201
+566. New Generation - Vendetta - 0.0448, 3, 67
+567. run_shutter - nether - 0.0446, 5, 112
+568. Quick - N9mkOik - 0.0446, 5, 112
+569. Quick - fokkonaut - 0.0446, 5, 112
+570. 2 To Tango - Novic - 0.0446, 9, 202
+571. 2 To Tango - Peter - 0.0446, 9, 202
+572. Justice - Freezestyler - 0.0444, 4, 90
+573. Equity [Hard] - EryX - 0.0444, 2, 45
+574. Equity [Hard] - reflect - 0.0444, 2, 45
+575. Equity [Hard] - wylect - 0.0444, 2, 45
+576. Equity [Hard] - *~Rôny~* - 0.0444, 2, 45
+577. Equity [Hard] - N9mkOik - 0.0444, 2, 45
+578. run_world_war_zero - nether - 0.0444, 2, 45
+579. Resistance - Lexin - 0.0444, 2, 45
+580. Resistance - Vendetta - 0.0444, 2, 45
+581. Resistance - Shawn. - 0.0444, 2, 45
+582. Resistance - BaconDrink - 0.0444, 2, 45
+583. Sooth - Cor - 0.0444, 2, 45
+584. Sooth - Neben - 0.0444, 2, 45
+585. Sooth - -Twist°~ - 0.0444, 2, 45
+586. Sooth - Jesus Christ - 0.0444, 2, 45
+587. Sooth - ScReeNy - 0.0444, 2, 45
+588. Sooth - Yota. - 0.0444, 2, 45
+589. Jungle Rush - ReD - 0.0444, 4, 90
+590. Jungle Rush - Imperius - 0.0444, 4, 90
+591. TeeTacToe - Night_L - 0.0444, 2, 45
+592. TeeTacToe - 幕后黑手950 - 0.0444, 2, 45
+593. TeeTacToe - By - 0.0444, 2, 45
+594. TeeTacToe - [D] By - 0.0444, 2, 45
+595. Freezejump - coradax - 0.0444, 13, 293
+596. From Death to Destiny - Kicker - 0.0444, 33, 744
+597. Difficult 2.3 - !_Vergeboy_! - 0.0442, 5, 113
+598. run_skizzrettex - Fudgyking - 0.0442, 14, 317
+599. Handifly - Aoe - 0.0440, 7, 159
+600. Handifly - Keun - 0.0440, 7, 159
+601. ZooDrag - Yota. - 0.0440, 7, 159
+602. run_grass_hell - nether - 0.0440, 4, 91
+603. Eternity - Lwai - 0.0439, 5, 114
+604. Canyon - Graves - 0.0439, 5, 114
+605. The Way to the Hell - Lexin - 0.0438, 6, 137
+606. GetSpeed2 - Konsti - 0.0437, 7, 160
+607. KeepOut - coradax - 0.0436, 13, 298
+608. External 2 - Lexin - 0.0435, 2, 46
+609. External 2 - Elephant - 0.0435, 2, 46
+610. Crooked Mind - Cor - 0.0435, 11, 253
+611. Rampage - 950 - 0.0435, 4, 92
+612. Rampage - bano - 0.0435, 4, 92
+613. ghbdtn - Yota. - 0.0435, 11, 253
+614. Regen 2 - Kicker - 0.0435, 2, 46
+615. Regen 2 - Yota. - 0.0435, 2, 46
+616. Rush Clouds 2 - Knuski - 0.0435, 1, 23
+617. Rush Clouds 2 - =Schulzer= - 0.0435, 1, 23
+618. Rush Clouds 2 - Starkiller - 0.0435, 1, 23
+619. Rush Clouds 2 - Cor - 0.0435, 1, 23
+620. Rush Clouds 2 - BaconDrink - 0.0435, 1, 23
+621. Rush Clouds 2 - N9mkOik - 0.0435, 1, 23
+622. Rush Clouds 2 - Miulaplusbella - 0.0435, 1, 23
+623. Rush Clouds 2 - Black Jack - 0.0435, 1, 23
+624. Rush Clouds 2 - Grk0ne - 0.0435, 1, 23
+625. Rush Clouds 2 - yishun - 0.0435, 1, 23
+626. Rush Clouds 2 - Lwai - 0.0435, 1, 23
+627. Rush Clouds 2 - Colo-Colo - 0.0435, 1, 23
+628. Rush Clouds 2 - Comebäck - 0.0435, 1, 23
+629. Rush Clouds 2 - Bug - 0.0435, 1, 23
+630. Rush Clouds 2 - [Wu]*GzA - 0.0435, 1, 23
+631. Rush Clouds 2 - Goran - 0.0435, 1, 23
+632. UpNDown2 - Gazebr - 0.0432, 24, 555
+633. The Rapture - Yota. - 0.0432, 6, 139
+634. The Rapture - Vendetta - 0.0432, 6, 139
+635. run_galaxy - Fudgyking - 0.0430, 13, 302
+636. Birinci - nealson T'nP - 0.0429, 3, 70
+637. Birinci - *~Rôny~* - 0.0429, 3, 70
+638. run_inset_into_the_heavy_jungle - Push - 0.0429, 12, 280
+639. Noh - >DragZ<showoff - 0.0429, 6, 140
+640. Rapid - maggi323 - 0.0429, 6, 140
+641. Rapid - Julia :3 - 0.0429, 6, 140
+642. Yoko 4.1 - *WuDL* - 0.0426, 2, 47
+643. Yoko 4.1 - Blurry - 0.0426, 2, 47
+644. Yoko 4.1 - Fluday - 0.0426, 2, 47
+645. Yoko 4.1 - Zhady - 0.0426, 2, 47
+646. Yoko 4.1 - bano - 0.0426, 2, 47
+647. DarkWorld - NovaShock - 0.0426, 4, 94
+648. Stop Over 3.0 - N9mkOik - 0.0423, 13, 307
+649. Lawrence - Themix - 0.0423, 6, 142
+650. Fahrenheit - =645654= - 0.0423, 3, 71
+651. Sky High - Genex - 0.0423, 3, 71
+652. Sky High - Cyclic~ - 0.0423, 3, 71
+653. Arcadian - Shawn. - 0.0422, 7, 166
+654. WoodDivision V - Yota. - 0.0421, 15, 356
+655. NUT_short_race6 - fikmesån - 0.0421, 1342, 31905
+656. Moonstone - Shawn. - 0.0420, 5, 119
+657. Pentamine - Shawn. - 0.0420, 10, 238
+658. Binary - N9mkOik - 0.0420, 10, 238
+659. Agile - N9mkOik - 0.0420, 5, 119
+660. Next LvL - Tea - 0.0420, 10, 238
+661. CHILLUMINATI - Tea - 0.0420, 12, 286
+662. At Sundown - MilTee - 0.0417, 8, 192
+663. Alone Together 1.0 - Cireme - 0.0417, 4, 96
+664. GLL - Ra!n - 0.0417, 6, 144
+665. Sperance - Spyker - 0.0417, 2, 48
+666. Sperance - TyшkaNчuk - 0.0417, 2, 48
+667. PurpleHeaven - FUMOFFU - 0.0417, 10, 240
+668. Eclipsis - Tea - 0.0417, 2, 48
+669. Eclipsis - Ļåҕ | Qed - 0.0417, 2, 48
+670. Ghoul - Lexin - 0.0417, 1, 24
+671. Ghoul - snailx3 - 0.0417, 1, 24
+672. Ghoul - Cor - 0.0417, 1, 24
+673. Ghoul - Freezestyler - 0.0417, 1, 24
+674. Ghoul - Starkiller - 0.0417, 1, 24
+675. Ghoul - Tropo - 0.0417, 1, 24
+676. Ghoul - LanuX - 0.0417, 1, 24
+677. Ghoul - triki kogdaskip - 0.0417, 1, 24
+678. Ghoul - Spyker - 0.0417, 1, 24
+679. Ghoul - Cyclic~ - 0.0417, 1, 24
+680. Ghoul - Grk0ne - 0.0417, 1, 24
+681. Ghoul - Yota. - 0.0417, 1, 24
+682. Ghoul - Spooky - 0.0417, 1, 24
+683. Ghoul - bitchoke - 0.0417, 1, 24
+684. Ghoul - .:Danytto:. - 0.0417, 1, 24
+685. Ghoul - Colo-Colo - 0.0417, 1, 24
+686. Relentless - NYZE - 0.0417, 1, 24
+687. Relentless - triki - 0.0417, 1, 24
+688. Relentless - -Twist°~ - 0.0417, 1, 24
+689. Relentless - xeno - 0.0417, 1, 24
+690. Relentless - Wondernoob - 0.0417, 1, 24
+691. Relentless - brainless tee - 0.0417, 1, 24
+692. Relentless - Genex - 0.0417, 1, 24
+693. Relentless - Starkiller - 0.0417, 1, 24
+694. Relentless - Graves - 0.0417, 1, 24
+695. Relentless - TyшkaNчuk - 0.0417, 1, 24
+696. Relentless - Cor - 0.0417, 1, 24
+697. Relentless - HaHAxD* - 0.0417, 1, 24
+698. Relentless - BaconDrink - 0.0417, 1, 24
+699. Relentless - bano - 0.0417, 1, 24
+700. Relentless - Freezestyler - 0.0417, 1, 24
+701. Relentless - cc - 0.0417, 1, 24
+702. Nentori - N9mkOik - 0.0417, 2, 48
+703. Nentori - Lwai - 0.0417, 2, 48
+704. Nentori - Yota. - 0.0417, 2, 48
+705. Nentori - Cor - 0.0417, 2, 48
+706. w3na - .:Danytto:. - 0.0417, 2, 48
+707. w3na - Colo-Colo - 0.0417, 2, 48
+708. w3na - Grk0ne - 0.0417, 2, 48
+709. w3na - Cyclic~ - 0.0417, 2, 48
+710. w3na - Cor - 0.0417, 2, 48
+711. w3na - Julia :3 - 0.0417, 2, 48
+712. Sandanjuu - Mischga sucks - 0.0417, 1, 24
+713. Sandanjuu - Starkiller - 0.0417, 1, 24
+714. Sandanjuu - Aoe - 0.0417, 1, 24
+715. Sandanjuu - Cor - 0.0417, 1, 24
+716. Sandanjuu - Gorden - 0.0417, 1, 24
+717. Sandanjuu - Zuko - 0.0417, 1, 24
+718. Sandanjuu - DaGiese :> - 0.0417, 1, 24
+719. Sandanjuu - weirdFlex# - 0.0417, 1, 24
+720. Sandanjuu - Vendetta - 0.0417, 1, 24
+721. Sandanjuu - Keun - 0.0417, 1, 24
+722. Sandanjuu - NightMarsmellow - 0.0417, 1, 24
+723. Sandanjuu - I.K.U - 0.0417, 1, 24
+724. Sandanjuu - 'Cסugαr♫ - 0.0417, 1, 24
+725. Sandanjuu - =Schulzer= - 0.0417, 1, 24
+726. Movement I - Crytikal - 0.0415, 13, 313
+727. Atmosphere - *~Rôny~* - 0.0412, 4, 97
+728. Atmosphere - Ferret - 0.0412, 4, 97
+729. Verification 3.6 - *~Rôny~* - 0.0412, 4, 97
+730. Verification 3.6 - Ferret - 0.0412, 4, 97
+731. Stacked - OneLimeyBoi - 0.0412, 18, 437
+732. Thomas - N9mkOik - 0.0411, 6, 146
+733. Aurora - Yota. - 0.0411, 9, 219
+734. Aurora - Cyclic~ - 0.0411, 9, 219
+735. Old Style - SkiLLz - 0.0409, 28, 685
+736. Generic World - Neox - 0.0408, 4, 98
+737. Disabled - RedMaxted - 0.0408, 2, 49
+738. Disabled - By - 0.0408, 2, 49
+739. Delirious - Sorah - 0.0405, 6, 148
+740. Delirious - Colo-Colo - 0.0405, 6, 148
+741. 9gates - 黑猫 - 0.0405, 3, 74
+742. run_redbull - Fudgyking - 0.0405, 47, 1160
+743. Verification 3.9 - Ninjed - 0.0405, 7, 173
+744. Fly out of hell - Sasukey - 0.0404, 8, 198
+745. Day One - Vasten100 - 0.0404, 12, 297
+746. Plocky - *~Rôny~* - 0.0404, 8, 198
+747. run_golden_toilet - Hitaru - 0.0404, 9, 223
+748. Piston - cαgιн - 0.0403, 21, 521
+749. run_skizz_keres - Crytikal - 0.0403, 11, 273
+750. Shotsky - *~Rôny~* - 0.0403, 6, 149
+751. Shotsky - Comebäck - 0.0403, 6, 149
+752. run_blood_thirst - Crytikal - 0.0402, 7, 174
+753. run_blood_thirst - Fudgyking - 0.0402, 7, 174
+754. Copy Love Box - TomasArm - 0.0402, 16, 398
+755. Copy Love Box - Antoo :3 - 0.0402, 16, 398
+756. Just Triple Fly - Delirio - 0.0401, 12, 299
+757. Speedster - |JB*|Golden Axe - 0.0401, 47, 1173
+758. Damage - Cor - 0.0400, 3, 75
+759. Damage - Freezestyler - 0.0400, 3, 75
+760. Triplecan - Forris - 0.0400, 6, 150
+761. Triplecan - Yota. - 0.0400, 6, 150
+762. supernice - *WuDL* - 0.0400, 3, 75
+763. Honkstar 3 - N9mkOik - 0.0400, 2, 50
+764. Insane 3 - bano - 0.0400, 3, 75
+765. Insane 3 - coradax - 0.0400, 3, 75
+766. Insane 3 - NovaShock - 0.0400, 3, 75
+767. New World - Shawn. - 0.0400, 4, 100
+768. Epinephrine - Shawn. - 0.0400, 1, 25
+769. Epinephrine - triki - 0.0400, 1, 25
+770. Epinephrine - Starkiller - 0.0400, 1, 25
+771. Epinephrine - StarkillerJr.<3 - 0.0400, 1, 25
+772. Epinephrine - xeno - 0.0400, 1, 25
+773. Epinephrine - xeno² - 0.0400, 1, 25
+774. Epinephrine - Grk0ne - 0.0400, 1, 25
+775. Epinephrine - Cyclic~ - 0.0400, 1, 25
+776. Epinephrine - (D)Cor - 0.0400, 1, 25
+777. Epinephrine - Cor - 0.0400, 1, 25
+778. Epinephrine - Gorden - 0.0400, 1, 25
+779. Epinephrine - bano - 0.0400, 1, 25
+780. Epinephrine - Dimp - 0.0400, 1, 25
+781. Epinephrine - Julia :3 - 0.0400, 1, 25
+782. Epinephrine - Graves - 0.0400, 1, 25
+783. Epinephrine - TyшkaNчuk - 0.0400, 1, 25
+784. Epinephrine - Xi - 0.0400, 1, 25
+785. Epinephrine - .:Danytto:. - 0.0400, 1, 25
+786. Epinephrine - Colo-Colo - 0.0400, 1, 25
+787. Epinephrine - BaconDrink - 0.0400, 1, 25
+788. Epinephrine - Freezestyler - 0.0400, 1, 25
+789. UpNDown3 - zyr.f - 0.0399, 28, 701
+790. Zap - Greeen - 0.0399, 54, 1355
+791. Stop Over 4.0 - ɌʘϚКỤṨ - 0.0398, 17, 427
+792. run_three - Freezestyler - 0.0398, 8, 201
+793. blmapV3ROYAL - María - 0.0397, 10, 252
+794. run_skizz_loop1200 - EryX - 0.0397, 14, 353
+795. miA - Vendetta - 0.0396, 4, 101
+796. miA - Cyclic~ - 0.0396, 4, 101
+797. Nincorn - N9mkOik - 0.0396, 4, 101
+798. likeOldschool - Grk0ne - 0.0395, 3, 76
+799. Yo'Ci - Vendetta - 0.0395, 3, 76
+800. Yo'Ci - N9mkOik - 0.0395, 3, 76
+801. Yo'Ci - Grk0ne - 0.0395, 3, 76
+802. noru - Cyclic~ - 0.0395, 3, 76
+803. noru - Noctua - 0.0395, 3, 76
+804. Elitist - Ping - 0.0394, 5, 127
+805. Elitist - Pong - 0.0394, 5, 127
+806. Mines of Fear - Hindu - 0.0394, 5, 127
+807. Network - Roco - 0.0392, 2, 51
+808. Network - nether - 0.0392, 2, 51
+809. Grind - *~Rôny~* - 0.0392, 4, 102
+810. Time Calculator - Cup of Tee - 0.0392, 6, 153
+811. Time Calculator - Naruto - 0.0392, 6, 153
+812. Zap - OP|TeeGOD - 0.0391, 53, 1355
+813. Enormous - wylect - 0.0391, 5, 128
+814. Stop Over 1.0 - ReD - 0.0391, 25, 640
+815. Short Sky - N9mkOik - 0.0390, 26, 666
+816. Shortgun - Goran - 0.0390, 3, 77
+817. Day 'n' Night - Hindu - 0.0388, 4, 103
+818. DontMove - NonPolynomial - 0.0388, 4, 103
+819. Hermit - nether - 0.0388, 9, 232
+820. Gedan - EryX - 0.0385, 34, 882
+821. Circle - Lady Saavik - 0.0385, 27, 701
+822. HyperEdge - nether - 0.0385, 3, 78
+823. HyperEdge - *~Rôny~* - 0.0385, 3, 78
+824. HyperEdge - xeno - 0.0385, 3, 78
+825. Stereotype 2 - 2oo - 0.0385, 1, 26
+826. Stereotype 2 - DarkKenny - 0.0385, 1, 26
+827. Stereotype 2 - milk - 0.0385, 1, 26
+828. Stereotype 2 - Konsti - 0.0385, 1, 26
+829. Stereotype 2 - HaHAxD* - 0.0385, 1, 26
+830. Stereotype 2 - Starkiller - 0.0385, 1, 26
+831. Stereotype 2 - _ - 0.0385, 1, 26
+832. Stereotype 2 - bano - 0.0385, 1, 26
+833. Stereotype 2 - Tropo - 0.0385, 1, 26
+834. Stereotype 2 - Zwelf - 0.0385, 1, 26
+835. Stereotype 2 - 950 - 0.0385, 1, 26
+836. Stereotype 2 - Freezestyler - 0.0385, 1, 26
+837. Stereotype 2 - Grk0ne - 0.0385, 1, 26
+838. Stereotype 2 - .:Danytto:. - 0.0385, 1, 26
+839. Stereotype 2 - Colo-Colo - 0.0385, 1, 26
+840. Stereotype 2 - Billie Eilish - 0.0385, 1, 26
+841. Stereotype 2 - ~Thunder~ - 0.0385, 1, 26
+842. Stereotype 2 - Kicker - 0.0385, 1, 26
+843. Stereotype 2 - opa - 0.0385, 1, 26
+844. Stereotype 2 - Cyclic~ - 0.0385, 1, 26
+845. Stereotype 2 - (D)Cor - 0.0385, 1, 26
+846. Stereotype 2 - =Schulzer= - 0.0385, 1, 26
+847. Stereotype 2 - A-Team - 0.0385, 1, 26
+848. Stereotype 2 - Cor - 0.0385, 1, 26
+849. Stereotype 2 - TyшkaNчuk - 0.0385, 1, 26
+850. Stereotype 2 - Graves - 0.0385, 1, 26
+851. Adragaline - milk - 0.0385, 3, 78
+852. Adrenaline 5 - =Pipou= - 0.0385, 1, 26
+853. Adrenaline 5 - Amu~Cookie - 0.0385, 1, 26
+854. Adrenaline 5 - 2oo - 0.0385, 1, 26
+855. Adrenaline 5 - TyшkaNчuk - 0.0385, 1, 26
+856. Adrenaline 5 - Freezestyler - 0.0385, 1, 26
+857. Adrenaline 5 - Wombat - 0.0385, 1, 26
+858. Adrenaline 5 - Forris - 0.0385, 1, 26
+859. Adrenaline 5 - Tropo - 0.0385, 1, 26
+860. Adrenaline 5 - DataClaw - 0.0385, 1, 26
+861. Adrenaline 5 - xeno - 0.0385, 1, 26
+862. Adrenaline 5 - Genex - 0.0385, 1, 26
+863. Adrenaline 5 - Starkiller - 0.0385, 1, 26
+864. Adrenaline 5 - Grk0ne - 0.0385, 1, 26
+865. Adrenaline 5 - Colo-Colo - 0.0385, 1, 26
+866. Adrenaline 5 - Cyclic~ - 0.0385, 1, 26
+867. Adrenaline 5 - _ - 0.0385, 1, 26
+868. Adrenaline 5 - murpi - 0.0385, 1, 26
+869. Adrenaline 5 - zelda. - 0.0385, 1, 26
+870. Adrenaline 5 - (D)Cor - 0.0385, 1, 26
+871. Adrenaline 5 - Cor - 0.0385, 1, 26
+872. Adrenaline 5 - DaGiese :> - 0.0385, 1, 26
+873. Adrenaline 5 - DaSocke :> - 0.0385, 1, 26
+874. Adrenaline 5 - Shadou - 0.0385, 1, 26
+875. Adrenaline 5 - kezo - 0.0385, 1, 26
+876. Adrenaline 5 - Infern@L - 0.0385, 1, 26
+877. Adrenaline 5 - Ske - 0.0385, 1, 26
+878. Unisex - Vendetta - 0.0385, 2, 52
+879. Unisex - -iKaRoS - 0.0385, 2, 52
+880. Unisex - TyшkaNчuk - 0.0385, 2, 52
+881. Unisex - xeno - 0.0385, 2, 52
+882. Unisex - Yota. - 0.0385, 2, 52
+883. Unisex - Jesus Christ - 0.0385, 2, 52
+884. Tatooine 2 - <BµmM> - 0.0385, 1, 26
+885. Tatooine 2 - Forris - 0.0385, 1, 26
+886. Tatooine 2 - Freezestyler - 0.0385, 1, 26
+887. Tatooine 2 - Starkiller - 0.0385, 1, 26
+888. Tatooine 2 - Tropo - 0.0385, 1, 26
+889. Tatooine 2 - iParano - 0.0385, 1, 26
+890. Tatooine 2 - AERO=NOEZ?AMA? - 0.0385, 1, 26
+891. Tatooine 2 - Kicker - 0.0385, 1, 26
+892. Tatooine 2 - MilTee - 0.0385, 1, 26
+893. Tatooine 2 - Vendetta - 0.0385, 1, 26
+894. Tatooine 2 - kenzo - 0.0385, 1, 26
+895. Tatooine 2 - .DanieL. - 0.0385, 1, 26
+896. Tatooine 2 - lil cyclic - 0.0385, 1, 26
+897. Tatooine 2 - Colo-Colo - 0.0385, 1, 26
+898. Tatooine 2 - .:Danytto:. - 0.0385, 1, 26
+899. Tatooine 2 - Cyclic~ - 0.0385, 1, 26
+900. Tatooine 2 - Fermer - 0.0385, 1, 26
+901. Tatooine 2 - N9mkOik - 0.0385, 1, 26
+902. Tatooine 2 - N9mkOik [CHEAT] - 0.0385, 1, 26
+903. Tatooine 2 - triki - 0.0385, 1, 26
+904. Tatooine 2 - Cor - 0.0385, 1, 26
+905. Tatooine 2 - cc - 0.0385, 1, 26
+906. Adrenaline 4 - <BµmM> - 0.0385, 1, 26
+907. Adrenaline 4 - =Schulzer= - 0.0385, 1, 26
+908. Adrenaline 4 - Forris - 0.0385, 1, 26
+909. Adrenaline 4 - Freezestyler - 0.0385, 1, 26
+910. Adrenaline 4 - HaHAxD* - 0.0385, 1, 26
+911. Adrenaline 4 - Starkiller - 0.0385, 1, 26
+912. Adrenaline 4 - Tropo - 0.0385, 1, 26
+913. Adrenaline 4 - kenzo - 0.0385, 1, 26
+914. Adrenaline 4 - Cor - 0.0385, 1, 26
+915. Adrenaline 4 - bano - 0.0385, 1, 26
+916. Adrenaline 4 - lufu1 - 0.0385, 1, 26
+917. Adrenaline 4 - xXxTee' - 0.0385, 1, 26
+918. Adrenaline 4 - .:Danytto:. - 0.0385, 1, 26
+919. Adrenaline 4 - Colo-Colo - 0.0385, 1, 26
+920. Adrenaline 4 - Cyclic~ - 0.0385, 1, 26
+921. Adrenaline 4 - Xi - 0.0385, 1, 26
+922. Adrenaline 4 - FapMan - 0.0385, 1, 26
+923. Adrenaline 4 - kezo - 0.0385, 1, 26
+924. Adrenaline 4 - Shadou - 0.0385, 1, 26
+925. Adrenaline 4 - Cendren - 0.0385, 1, 26
+926. Adrenaline 4 - Tea - 0.0385, 1, 26
+927. Adrenaline 4 - ano :3 - 0.0385, 1, 26
+928. Adrenaline 4 - Aoe - 0.0385, 1, 26
+929. Adrenaline 4 - iParano - 0.0385, 1, 26
+930. Fall into the Future - xeno - 0.0385, 2, 52
+931. Fall into the Future - Black Jack - 0.0385, 2, 52
+932. Fall into the Future - N9mkOik - 0.0385, 2, 52
+933. Stop Over 2.0 - Noctua - 0.0385, 3, 78
+934. Stop Over 2.0 - Chrona - 0.0385, 3, 78
+935. Entropy - Knuski - 0.0385, 2, 52
+936. Entropy - maggi323 - 0.0385, 2, 52
+937. Entropy - Cor - 0.0385, 2, 52
+938. Entropy - I.K.U - 0.0385, 2, 52
+939. Entropy - ©ßøæø® - 0.0385, 2, 52
+940. Entropy - coradax - 0.0385, 2, 52
+941. Entropy - Tea - 0.0385, 2, 52
+942. Van Gogh - Genex - 0.0385, 3, 78
+943. Piston - MindlessRookie - 0.0384, 20, 521
+944. Extension 1.0 - Nyanto - 0.0383, 16, 418
+945. Gorou - pv - 0.0383, 110, 2874
+946. GenericDrag - Vendetta - 0.0382, 5, 131
+947. Microlity - gdin - 0.0381, 4, 105
+948. Skywalk - Vendetta - 0.0381, 4, 105
+949. AIB Quest 4 - Ninjed - 0.0381, 4, 105
+950. AIB Quest 4 - Ra!n - 0.0381, 4, 105
+951. Lamb - *~Rôny~* - 0.0380, 3, 79
+952. Synesthesia - Lexin - 0.0380, 3, 79
+953. Synesthesia - Genex - 0.0380, 3, 79
+954. Verification 2.1 - Silent - 0.0378, 38, 1006
+955. run_hard_hell - RedPig - 0.0377, 6, 159
+956. run_hard_hell - N9mkOik - 0.0377, 6, 159
+957. Sky Movement - Ninjed - 0.0377, 2, 53
+958. Sky Movement - N9mkOik - 0.0377, 2, 53
+959. Kickout - .:Danytto:. - 0.0377, 2, 53
+960. Handifly - KrosH - 0.0377, 6, 159
+961. ZooDrag - Vendetta - 0.0377, 6, 159
+962. ZooDrag - Bonny - 0.0377, 6, 159
+963. Flow Fever - Shawn. - 0.0377, 2, 53
+964. Flow Fever - Yota. - 0.0377, 2, 53
+965. run_blue - Matrose l_I - 0.0376, 2833, 75259
+966. Day Three - AM|WolfyLenny - 0.0376, 7, 186
+967. BlackBear7 - MindlessRookie - 0.0376, 103, 2741
+968. Fever - Shawn. - 0.0375, 3, 80
+969. Tatooine - MilTee - 0.0375, 3, 80
+970. Tatooine - N9mkOik - 0.0375, 3, 80
+971. To the moon - cc - 0.0375, 6, 160
+972. Back in Time 2 - MØtiv - 0.0374, 4, 107
+973. run_for_ghost - Fudgyking - 0.0373, 20, 536
+974. BlackBear7 - Lexin - 0.0372, 102, 2741
+975. Aufnahmetest_AE - Fudgyking - 0.0372, 35, 942
+976. Ecstasy - Loop :3 - 0.0370, 5, 135
+977. Ecstasy - Spyker - 0.0370, 5, 135
+978. whitehell - Cor - 0.0370, 2, 54
+979. Failable - (D)Cor - 0.0370, 3, 81
+980. Awayza - *~Rôny~* - 0.0370, 7, 189
+981. SavannaDrag 4 - Horst - 0.0370, 7, 189
+982. SavannaDrag 4 - Graves - 0.0370, 7, 189
+983. run_get50 - Hitaru - 0.0370, 8, 216
+984. GG - ɌʘϚКỤṨ - 0.0370, 2, 54
+985. Cloud Dreams - Lwai - 0.0370, 2, 54
+986. Road to Rank 1 - ɌʘϚКỤṨ - 0.0370, 2, 54
+987. Road to Rank 1 - ZimE - 0.0370, 2, 54
+988. Road to Rank 1 - .:Danytto:. - 0.0370, 2, 54
+989. Road to Rank 1 - Filis - 0.0370, 2, 54
+990. Road to Rank 1 - Cireme - 0.0370, 2, 54
+991. Road to Rank 1 - Mizkibo - 0.0370, 2, 54
+992. Legacy - Freezestyler - 0.0370, 2, 54
+993. Legacy - Tyga. - 0.0370, 2, 54
+994. Legacy - Miu - 0.0370, 2, 54
+995. Legacy - Shawn. - 0.0370, 2, 54
+996. Legacy - Dimp - 0.0370, 2, 54
+997. Legacy - Genex - 0.0370, 2, 54
+998. Legacy - Akari - 0.0370, 2, 54
+999. Mana - Spooky - 0.0370, 2, 54
+1000. Mana - AspHyXiA - 0.0370, 2, 54

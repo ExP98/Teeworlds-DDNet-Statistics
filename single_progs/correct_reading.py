@@ -18,7 +18,7 @@ with open('../ddnet-stats/race.csv', 'r', encoding='utf-8') as f:
         # print('timestamp: ', timestamp)
         # print('server: ', server)
 
-with open('../ddnet-stats/teamrace.csv', 'r', encoding='utf-8') as f:
+with open('../ddnet-stats/teamrace.csv', 'r', encoding='latin-1') as f:
     next(f)  # skipping header
     for line in f:
         map_name = re.split(',".*",', line)[0][1:-1]

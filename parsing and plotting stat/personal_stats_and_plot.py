@@ -29,14 +29,14 @@ selected_nick_name = "PeX"
 
 # dict {'map':points}
 map_points = {}
-with open('../ddnet-stats/maps.csv', 'r', encoding='utf-8') as fp:
+with open('../ddnet-stats/maps.csv', 'r', encoding='latin-1') as fp:
     reader = csv.reader(fp, delimiter=',')
     next(fp)
     for row in reader:
         map_points[row[0]] = int(row[2])
 
 # for deleted maps
-with open('../ddnet-stats/race.csv', 'r', encoding='utf-8') as fp:
+with open('../ddnet-stats/race.csv', 'r', encoding='latin-1') as fp:
     reader = csv.reader(fp, delimiter=',')
     for row in reader:
         if row[0] not in map_points.keys():
@@ -46,7 +46,7 @@ with open('../ddnet-stats/race.csv', 'r', encoding='utf-8') as fp:
 time_counter = 0        # sum of time of all finishes
 date_points_map_dict = {}
 set_of_finished_maps = set()
-with open('../ddnet-stats/race.csv', 'r', encoding='utf-8') as f:
+with open('../ddnet-stats/race.csv', 'r', encoding='latin-1') as f:
     next(f)  # skipping header
     for line in f:
         other_info = (re.findall(',".*",', line))[0].split(',')
@@ -226,7 +226,7 @@ save_figure(fig5, "annual_stats")
 
 tid = set()
 teammates = {}
-with open('../ddnet-stats/teamrace.csv', 'r', encoding='utf-8') as f:
+with open('../ddnet-stats/teamrace.csv', 'r', encoding='latin-1') as f:
     next(f)  # skipping header
     for line in f:
         info = re.findall(',".*",', line)[0].split(',')
@@ -235,7 +235,7 @@ with open('../ddnet-stats/teamrace.csv', 'r', encoding='utf-8') as f:
             team_id = info[-2][1:-1]
             tid.add(team_id)
 
-with open('../ddnet-stats/teamrace.csv', 'r', encoding='utf-8') as f:
+with open('../ddnet-stats/teamrace.csv', 'r', encoding='latin-1') as f:
     next(f)  # skipping header
     for line in f:
         info = re.findall(',".*",', line)[0].split(',')
@@ -253,7 +253,7 @@ del teammates[selected_nick_name]
 teammates = sorted(teammates.items(), key=lambda x: x[1], reverse=True)
 best_teammates = teammates[:15]
 
-with open('output_data/teammates_stat.txt', 'w', encoding='utf-8') as f_write:
+with open('output_data/teammates_stat.txt', 'w', encoding='latin-1') as f_write:
     f_write.write("Team Statistics for " + selected_nick_name + "\n\n")
     f_write.write("Number of different teammates: " + str(len(teammates)-1) + '\n')
     f_write.write("Number of finishes in team: " + str(n_fin) + '\n')
@@ -262,7 +262,7 @@ with open('output_data/teammates_stat.txt', 'w', encoding='utf-8') as f_write:
         f_write.write('%d. %s: %d\n' % (rate + 1, nick, count))
 # ***   team stats  ***
 
-with open('output_data/personal_stats.txt', 'w', encoding='utf-8') as f_stat:
+with open('output_data/personal_stats.txt', 'w', encoding='latin-1') as f_stat:
     f_stat.write("Personal Statistics for " + selected_nick_name + "\n\n")
     f_stat.write("Points: " + str(total_points) + '\n\n')
     f_stat.write(top5_text + '\n')

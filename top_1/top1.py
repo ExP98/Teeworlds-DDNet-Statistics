@@ -156,3 +156,5 @@ fig.savefig('output_files/top1points_plot.pdf', dpi=1000)
 
 print("Figure was saved")
 print(time.clock() - start_time, " seconds")
+
+# in case of error "PermissionError: [Errno 13] Permission denied: 'output_files/top1points_plot.pdf'" just close the window with existing .pdf file

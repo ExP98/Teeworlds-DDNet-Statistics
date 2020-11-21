@@ -1,33 +1,33 @@
-Personal Statistics for Zasa
+Personal Statistics for PeX
 
-Points: 7828
+Points: 6095
 
 Top 5 days with max points:
-Dec 30 2018 - 117 points - maps: ['nora (25 p)', 'noro (20 p)', 'Double Dragin (24 p)', 'Kobra 3 Solo (8 p)', 'Templerun (20 p)', 'DuNoMa (20 p)']
-Apr 19 2019 - 104 points - maps: ['Solo_Mietzcore (16 p)', 'ForeverAlone (8 p)', "Dust's Leaf (8 p)", 'MorningStar (8 p)', 'Escape (12 p)', 'Increase Your Speed (8 p)', 'BlackBear7 (8 p)', 'Art of Movement (12 p)', 'Lonely Swim 9.0 (8 p)', 'Lonely Swim 9.1 (8 p)', 'Lonely Swim 9.2 (8 p)']
-Mar 17 2017 - 100 points - maps: ['pr0-move (4 p)', 'Against the Current (11 p)', 'Whitemoon (8 p)', 'mazepack (4 p)', 'TOPOS (4 p)', 'Anaphore (4 p)', 'Mirage (7 p)', 'run_granit_stone (4 p)', 'pocramruinrun (2 p)', 'run_radioactive (6 p)', 'run_firestorm (4 p)', 'run_skizz_loop1200 (6 p)', 'run_linkin_park (4 p)', 'run_alkohol (6 p)', 'No Merci (13 p)', 'Snowy Mountain (13 p)']
-Nov 01 2018 - 85 points - maps: ['Castaway (20 p)', 'Chained (20 p)', 'Samdragaline (20 p)', 'Dubush (13 p)', 'Michler (12 p)']
-Aug 10 2018 - 80 points - maps: ['Pharice 2 (11 p)', 'Bootcamp #1 (13 p)', 'Neverwhere (15 p)', 'Kiko (13 p)', 'Eternal (13 p)', "Let's Fail! (15 p)"]
+Feb 28 2020 - 101 points - maps: ['HeartOfMoon (13 p)', 'Short Flight (13 p)', 'NUT_race6 (12 p)', 'NUT_hardcore_race2 (12 p)', 'NUT_hardcore_race6 (12 p)', 'TakeUrLuggage (15 p)', 'Naufrage 2 (24 p)']
+Sep 24 2019 - 86 points - maps: ['Hardcore 11 (21 p)', 'Icy Mountain (8 p)', 'Arcade (12 p)', 'Hardcore 10 (21 p)', 'ClassicMonkez (24 p)']
+Oct 06 2017 - 64 points - maps: ['skynet3 (4 p)', 'skynet7 (4 p)', 'skynet5 (4 p)', 'skynet6 (4 p)', 'skynet9 (4 p)', 'skynet8 (4 p)', 'Equestria Girls (8 p)', 'skynet2 (4 p)', 'Hop (4 p)', 'Pathway 3 (4 p)', 'NUT_short_race7 (0 p)', 'DARKness 2 (12 p)', 'Autumn (8 p)']
+Feb 26 2020 - 61 points - maps: ['Eagle Race Compilation (12 p)', 'Barren (21 p)', 'blue-mountains (16 p)', 'Im No Superman 1 (12 p)']
+Feb 27 2020 - 60 points - maps: ['Finito (16 p)', 'Increase Your Speed (8 p)', 'SkyCave (8 p)', 'Fluff 2 (13 p)', 'Downhill Jam (15 p)']
 
-Max points per day: 117
-Count of different maps by Zasa: 782
-Total time of all finishes (in hours): 420.99
-Number of different teammates: 72
-Number of finishes in team: 161
+Max points per day: 101
+Count of different maps by PeX: 737
+Total time of all finishes (in hours): 538.55
+Number of different teammates: 279
+Number of finishes in team: 695
 
 List of best teammates:
-1. |Michel: 35
-2. BaconDrink: 19
-3. secreT: 13
-4. Blurry: 10
-5. ┇»MíM«┇: 9
-6. Fluday: 7
-7. Gignr: 4
-8. Amu~Cookie: 4
-9. Lier.: 3
-10. Ganjah: 3
-11. Miausuke: 2
-12. \\/Vo0b\\/Vo0b: 2
-13. zup: 2
-14. Owlfan: 2
-15. zasa-dummy: 2
+1. ad: 198
+2. AvapiX: 34
+3. whý: 33
+4. Faramoz: 23
+5. BaconDrink: 20
+6. Fexa: 19
+7. it robertusg: 19
+8. Axaris: 18
+9. ReD: 16
+10. Patiga: 14
+11. Negativ: 13
+12. ℬσℜҿⅅ.: 11
+13. Kendo: 9
+14. B'RexterPL: 8
+15. sXb|BσRҿD.: 8

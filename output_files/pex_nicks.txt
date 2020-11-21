@@ -1,63 +1,150 @@
 Nick names that contain "PeX" and their points
-1. PeX: 4136
-2. not PeX: 1170
-3. not not PeX: 315
-4. nub PeX: 189
-5. not not not PeX: 173
-6. hi PeX: 96
-7. bye PeX: 47
-8. ay PeX: 44
-9. ban PeX: 36
-10. PeX pro: 16
-11. PeX999: 11
-12. slow PeX: 11
-13. PeX12: 9
-14. PeX8: 8
-15. PeX10: 6
-16. PeX9: 5
-17. PeX7: 3
-18. PeX flw me: 3
-19. PeXi: 2
-20. PeX6: 2
-21. PeX5: 1
-22. XxXPiPeXxXHD: 0
-23. PeX1: 0
-24. PeX noob: 0
-25. PeX4: 0
-26. PeX2: 0
-27. PeX3: 0
-28. PeX11: 0
-29. PeX's Butler: 0
-30. PeX16: 0
-31. PeX0: 0
-32. PeXeSo: 0
-33. PeX Butter: 0
-34. PeX mean: 0
-35. PeX ego: 0
-36. PeX can't jump: 0
-37. It's a PeX: 0
-38. It's a PeX!: 0
-39. PeX bug: 0
-40. PeX said Hi!: 0
-41. PeX said Hi !: 0
-42. PeX lazy: 0
-43. B A N  for PeX!: 0
-44. PeXa: 0
-45. PeX happy: 0
-46. no y PeX: 0
-47. PeX bad: 0
-48. oPeX: 0
-49. PeX h3x: 0
-50. (1)PeX: 0
-51. pro PeX: 0
-52. purple PeX: 0
-53. PeX, pro?: 0
-54. Fake PeX: 0
-55. PeXiga: 0
-56. PeX, smart?: 0
-57. welcome PeX: 0
-58. Get PeXed!!: 0
-59. yes PeX: 0
-60. no PeX: 0
-61. idk PeX: 0
-62. HMM PeX: 0
+1. PeX: 9693
+2. not PeX: 3174
+3. PeX flex: 1154
+4. not not PeX: 692
+5. PeX flex reflex: 611
+6. PeX999: 520
+7. not not not PeX: 395
+8. PeX not flex: 289
+9. nub PeX: 214
+10. ban PeX: 154
+11. hi PeX: 143
+12. ay PeX: 106
+13. PeX99: 105
+14. PeX r1: 102
+15. bye PeX: 100
+16. slow PeX: 82
+17. laggy PeX: 80
+18. PeX stop flex: 78
+19. PeX gay: 69
+20. PeX ok: 57
+21. PeX40: 47
+22. not PeX is PeX: 47
+23. PeX45: 45
+24. PeX44: 44
+25. ok PeX: 43
+26. PeX41: 43
+27. PeX43: 43
+28. PeX42: 42
+29. PeX39: 39
+30. PeX38: 38
+31. PeX37: 37
+32. PeX36: 36
+33. PeX35: 35
+34. PeX34: 34
+35. PeX33: 33
+36. PeX32: 32
+37. PeX31: 31
+38. PeX30: 30
+39. PeX pro: 29
+40. ban ad and PeX: 29
+41. PeX27: 29
+42. PeX29: 29
+43. PeX28: 28
+44. delete PeX: 27
+45. PeX26: 26
+46. PeX is not PeX: 26
+47. PeX25: 25
+48. ad said hi PeX: 24
+49. PeX24: 24
+50. PeX23: 23
+51. PeX bub: 22
+52. PeX22: 22
+53. PeX21: 21
+54. PeX17: 20
+55. PeX20: 20
+56. no y PeX: 19
+57. PeX19: 19
+58. racewithmePeX: 18
+59. stop PeX: 18
+60. PeX18: 18
+61. PeX sucks: 17
+62. PeX16: 16
+63. PeX LIVAY: 16
+64. PeXa: 15
+65. PeX15: 15
+66. PeX Gay: 15
+67. PeX noob: 14
+68. PeX14: 14
+69. PeX13: 13
+70. PeX12: 12
+71. purple PeX: 12
+72. PeX11: 11
+73. PeXeSo: 11
+74. PeX flex sex: 11
+75. PeX has 300iq: 11
+76. PeX10: 10
+77. PeX9: 9
+78. PeX8: 8
+79. PeX's Butler: 8
+80. PeXiga: 8
+81. PeX?: 8
+82. PeX loh: 8
+83. HeX ThE PeX: 8
+84. PeX5: 7
+85. PeX7: 7
+86. PeX4: 6
+87. PeX3: 6
+88. PeX6: 6
+89. PeX the flex: 6
+90. PeX2: 5
+91. PeX bad: 5
+92. (1)PeX: 5
+93. no PeX: 5
+94. idk PeX: 5
+95. real PeX: 5
+96. PeX the plex: 5
+97. PeXi: 4
+98. XxXPiPeXxXHD: 4
+99. PeX Butter: 4
+100. oPeX: 4
+101. PeX h3x: 4
+102. pro PeX: 4
+103. PeX, pro?: 4
+104. Fake PeX: 4
+105. PeX ban: 4
+106. why PeX?: 4
+107. PeX flex flex: 4
+108. PeX blocker: 4
+109. PeX is the flex: 4
+110. PeX doesn block: 4
+111. ban PeX and ad: 4
+112. not PeX 2222: 4
+113. noob PeX: 4
+114. laggy af PeX: 4
+115. PeX is dolboeb: 4
+116. (1)not PeX: 4
+117. PeX flw me: 3
+118. welcome PeX: 3
+119. yes PeX: 3
+120. HMM PeX: 3
+121. bub PeX: 3
+122. ban not PeX: 3
+123. how PeX?: 3
+124. PeX isn't sr-er: 3
+125. PeX9999: 3
+126. PeXly: 2
+127. PeX Asshole: 2
+128. PeX Pro: 2
+129. OK PeX: 2
+130. PeX1: 1
+131. PeX, smart?: 1
+132. Get PeXed!!: 1
+133. PeX ha ha :D: 1
+134. PeX r0: 1
+135. Autism Gang PeX: 1
+136. PeX stop bully: 1
+137. PeX0: 0
+138. PeX mean: 0
+139. PeX ego: 0
+140. PeX can't jump: 0
+141. It's a PeX: 0
+142. It's a PeX!: 0
+143. PeX bug: 0
+144. PeX said Hi!: 0
+145. PeX said Hi !: 0
+146. PeX lazy: 0
+147. B A N  for PeX!: 0
+148. PeX happy: 0
+149. PeX The Pro: 0
