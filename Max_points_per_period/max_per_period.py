@@ -76,14 +76,14 @@ def my_max(arr):
     return _max, _idx
 
 
-print("Start", time.clock())
+print("Start", time.perf_counter())
 map_points = get_dict_map_points()
 nick_points = get_dict_points(map_points)
 for k in nick_points.copy().keys():
     if nick_points[k] < 300:    # even top25 daily_map more than 300, so players with <300 can't be in these tops
         del nick_points[k]      # this line reduces number of players_in_process from 169k to almost 7k
 
-print("Map and nick_pts dict", time.clock())
+print("Map and nick_pts dict", time.perf_counter())
 
 # nick_maps_dict[nick] = set(finished_maps)
 nick_maps_dict = dict()
@@ -119,7 +119,7 @@ for nck_nm in data_dict.keys():
             c_pts += map_points[maps_this_day]
         data_dict[nck_nm][c_day] = c_pts
 
-print("data_dict", time.clock())
+print("data_dict", time.perf_counter())
 
 max_per_day = []
 max_per_week = []
@@ -153,11 +153,11 @@ for k in data_dict.keys():
     max_value, max_index = my_max(max_per_period(val_list, 365))
     max_per_year.append([k, max_value, date_list[max_index]])
 
-print("Max-s per .. were found", time.clock())
+print("Max-s per .. were found", time.perf_counter())
 
 write_output_file(max_per_day, "max_per_day")
 write_output_file(max_per_week, "max_per_week")
 write_output_file(max_per_month, "max_per_month")
 write_output_file(max_per_year, "max_per_year")
 
-print("End", time.clock())
+print("End", time.perf_counter())

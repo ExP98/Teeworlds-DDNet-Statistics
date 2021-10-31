@@ -3,7 +3,7 @@ import csv
 from matplotlib import pyplot as plt
 from datetime import datetime
 
-selected_nick = "ad"
+selected_nick = "gruik"
 
 
 def add_to_records(record_list, pts_dict_values, pts_num, tstamp):
