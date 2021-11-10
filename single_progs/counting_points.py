@@ -31,10 +31,10 @@ print('count of selected nicks: ', len(pts_dict.keys()))
 
 sorted_list_of_tuple_points = sorted(pts_dict.items(), key=lambda x: x[1], reverse=True)
 
-with open('../output_files/nicks_points_1000pt.csv', 'w', encoding='latin-1') as f:
-    f.write("Rank,Nickname,Points\n")
+with open('../output_files/nicks_points_1000pt.tsv', 'w', encoding='latin-1') as f:
+    f.write("Rank\t\"Nickname\"\tPoints\n")
     for rank, (nick_name, points) in enumerate(sorted_list_of_tuple_points):
-        f.write('%d,%s,%d\n' % (rank+1, nick_name, points))
+        f.write('%d\t\"%s\"\t%d\n' % (rank+1, nick_name, points))
 
 print("PeX", pts_dict["PeX"])
 print("Cor", pts_dict["Cor"])
